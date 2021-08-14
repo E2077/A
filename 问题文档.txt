@@ -1,0 +1,7 @@
+1.备注修改失败
+2.注册的时候 什么都不填写 直接点击注册 会跳到登录页面
+
+select *  from table  where  field like  "%asdf%" 
+update table field = values where 
+delete table where
+insert into table () values () 
