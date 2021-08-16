@@ -1,48 +1,48 @@
-  - {name: 🇭🇰 HongKong06, server: 18.162.48.33, port: 80, type: vmess, uuid: 967bb273-3981-4849-9eee-2e52a70b7c95, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇭🇰 HongKong07, server: 18.162.48.33, port: 80, type: vmess, uuid: 967bb273-3981-4849-9eee-2e52a70b7c95, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇯🇵 Japan01, server: 13.112.36.10, port: 80, type: vmess, uuid: 967bb273-3981-4849-9eee-2e52a70b7c95, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 13.112.36.10}}
-  - {name: 🇯🇵 Japan02, server: 13.112.36.10, port: 80, type: vmess, uuid: 967bb273-3981-4849-9eee-2e52a70b7c95, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 13.112.36.10}}
-  - {name: 🇯🇵 Japan03, server: 54.150.253.138, port: 80, type: vmess, uuid: 967bb273-3981-4849-9eee-2e52a70b7c95, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 54.150.253.138}}
-  - {name: 🇯🇵 Japan04, server: 54.150.253.138, port: 80, type: vmess, uuid: 967bb273-3981-4849-9eee-2e52a70b7c95, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 54.150.253.138}}
-  - {name: 🇸🇬 Singapore01, server: 13.229.111.12, port: 80, type: vmess, uuid: 967bb273-3981-4849-9eee-2e52a70b7c95, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 13.229.111.12}}
-  - {name: 🇸🇬 Singapore02, server: 13.229.111.12, port: 80, type: vmess, uuid: 967bb273-3981-4849-9eee-2e52a70b7c95, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 13.229.111.12}}
-  - {name: 🇸🇬 Singapore03, server: 13.229.111.12, port: 80, type: vmess, uuid: 967bb273-3981-4849-9eee-2e52a70b7c95, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 13.229.111.12}}
-  - {name: 🇰🇷 Korea01, server: 152.67.194.150, port: 80, type: vmess, uuid: 967bb273-3981-4849-9eee-2e52a70b7c95, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 152.67.194.150}}
-  - {name: 🇰🇷 Korea02, server: 152.67.200.216, port: 80, type: vmess, uuid: 967bb273-3981-4849-9eee-2e52a70b7c95, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 152.67.200.216}}
-  - {name: 🇰🇷 Korea03, server: 152.67.222.55, port: 80, type: vmess, uuid: 967bb273-3981-4849-9eee-2e52a70b7c95, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 152.67.222.55}}
-  - {name: 🇰🇷 Korea04, server: 146.56.119.213, port: 80, type: vmess, uuid: 967bb273-3981-4849-9eee-2e52a70b7c95, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 146.56.119.213}}
-  - {name: 🇺🇲 UnitedStates01, server: 209.141.41.174, port: 80, type: vmess, uuid: 967bb273-3981-4849-9eee-2e52a70b7c95, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 209.141.41.174}}
-  - {name: 🇩🇪 德国｜DE-01｜原生直连, server: de1.2mgy.com, port: 11001, type: vmess, uuid: 7dae475a-5067-3077-91c3-91cee9605260, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: de1.2mgy.com}}
-  - {name: 🇯🇵 日本东京｜JP-01, server: gy1.za8.xyz, port: 10002, type: vmess, uuid: 7dae475a-5067-3077-91c3-91cee9605260, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: jp1.2mgy.com}}
-  - {name: 🇺🇲 美国｜US-01｜原生直连, server: us1.2mgy.com, port: 11050, type: vmess, uuid: 7dae475a-5067-3077-91c3-91cee9605260, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: us1.2mgy.com}}
-  - {name: 🇰🇷 韩国｜KR-01, server: gy1.za8.xyz, port: 10003, type: vmess, uuid: 7dae475a-5067-3077-91c3-91cee9605260, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: kr1.2mgy.com}}
-  - {name: 🇭🇰 香港｜HK-01, server: gy1.za8.xyz, port: 10001, type: vmess, uuid: 7dae475a-5067-3077-91c3-91cee9605260, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk1.2mgy.com}}
-  - {name: 🇭🇰 香港11, server: 112.31.48.108, port: 27003, type: vmess, uuid: e2c2b602-120f-45d7-92df-5006879fcf00, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: 112.31.48.108}}
-  - {name: 🇭🇰 香港12, server: 112.31.48.108, port: 32671, type: vmess, uuid: e2c2b602-120f-45d7-92df-5006879fcf00, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: 112.31.48.108}}
-  - {name: 🇸🇬 新加坡03, server: 157.245.194.176, port: 1111, type: vmess, uuid: e2c2b602-120f-45d7-92df-5006879fcf00, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: 157.245.194.176}}
-  - {name: 🇸🇬 新加坡04, server: 157.245.194.176, port: 55581, type: vmess, uuid: e2c2b602-120f-45d7-92df-5006879fcf00, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: 157.245.194.176}}
-  - {name: "🇯🇵 SS JP - AWS NTT #2", server: ajp2.misaka.rest, port: 11451, type: ss, cipher: aes-256-gcm, password: 985934be-4062-4cf4-9c17-efe39165c388}
-  - {name: 🇷🇺 SS RU - JustHost Mos CN2, server: jru.misaka.rest, port: 11451, type: ss, cipher: aes-256-gcm, password: 985934be-4062-4cf4-9c17-efe39165c388}
-  - {name: 🇺🇲 SS US - BuyVM LV, server: bv.misaka.rest, port: 11451, type: ss, cipher: aes-256-gcm, password: 985934be-4062-4cf4-9c17-efe39165c388}
-  - {name: "🇺🇲 SS US - DogY. CN2 #1 45Mbps Limited", server: du1.misaka.rest, port: 11451, type: ss, cipher: aes-256-gcm, password: 985934be-4062-4cf4-9c17-efe39165c388}
-  - {name: "🇺🇲 SS US - DogY. CN2 #2 30Mbps Limited", server: du2.misaka.rest, port: 11451, type: ss, cipher: aes-256-gcm, password: 985934be-4062-4cf4-9c17-efe39165c388}
-  - {name: "🇭🇰 [V1]香港直连 5", server: 43.129.20.48, port: 85, type: vmess, uuid: 9e3c5e4c-cc8e-37d6-b262-d634b588ecd6, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /ws, ws-headers: {Host: hk5.mfyun.org}}
-  - {name: 🇮🇳 印度 孟买 普通线路，低配NAT机，1Gbps带宽, server: mum.nat.imjt.vip, port: 10305, type: trojan, password: 94964d49-1f73-3b5a-b857-efac284ae6cb, sni: mum.nat.imjt.vip}
-  - {name: 🇸🇬 新加坡 普通优化线路，低配NAT机，1Gbps带宽, server: sg.nat.imjt.vip, port: 10215, type: trojan, password: 94964d49-1f73-3b5a-b857-efac284ae6cb, sni: sg.nat.imjt.vip}
-  - {name: "🇭🇰 美国 洛杉矶 由广港隧道中转 高速低延迟！ 低配NAT落地机,500Mbps峰值带宽", server: gy.nkeo.top, port: 55798, type: trojan, password: 94964d49-1f73-3b5a-b857-efac284ae6cb, sni: gy.nkeo.top}
-  - {name: 🇺🇲 美国 洛杉矶，CN2 GT高速线路（三网直连），1Gbps带宽, server: la2.imjt.vip, port: 443, type: trojan, password: 94964d49-1f73-3b5a-b857-efac284ae6cb, sni: la2.imjt.vip}
-  - {name: "🇭🇰 美国 洛杉矶CN2 由广港隧道中转 轻松拉满网速！ 高配落地机,500Mbps峰值带宽", server: gy.nkeo.top, port: 55687, type: trojan, password: 94964d49-1f73-3b5a-b857-efac284ae6cb, sni: gy.nkeo.top}
-  - {name: 🇳🇱 荷兰 弗莱福兰 普通线路，低配NAT机，1Gbps带宽, server: nl.nat.imjt.vip, port: 17105, type: trojan, password: 94964d49-1f73-3b5a-b857-efac284ae6cb, sni: nl.nat.imjt.vip}
-  - {name: "🇭🇰 荷兰 弗莱福兰 由广港隧道中转 稳定高速！低配NAT落地机,500Mbps峰值带宽\t", server: gy.nkeo.top, port: 55561, type: trojan, password: 94964d49-1f73-3b5a-b857-efac284ae6cb, sni: gy.nkeo.top}
-  - {name: "🇭🇰 香港 低带宽 由广港隧道中转 NAT落地机,50Mbps峰值带宽", server: gy.nkeo.top, port: 55010, type: trojan, password: 94964d49-1f73-3b5a-b857-efac284ae6cb, sni: gy.nkeo.top}
-  - {name: 🇷🇺 VIP1  俄罗斯远东, server: dog.gkd.world, port: 10686, type: ssr, cipher: aes-256-cfb, password: tFlIIS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 11443:j8ataZ, obfs-param: .www.bing.com}
-  - {name: 🇮🇳 VIP1  印度孟买-高速, server: cu.newhost.cc, port: 10691, type: ssr, cipher: aes-256-cfb, password: tFlIIS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 11443:j8ataZ, obfs-param: .www.bing.com}
-  - {name: 🇺🇲 VIP1  美国-优化, server: cu.newhost.cc, port: 10694, type: ssr, cipher: aes-256-cfb, password: tFlIIS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 11443:j8ataZ, obfs-param: .www.bing.com}
-  - {name: 🇸🇬 【公益节点】新加坡1-Tr-0x, server: sin01.publicss.cc, port: 20000, type: trojan, password: 7d4e406e-f2e8-4918-8529-d18b598bee76, sni: sin01.publicss.cc}
-  - {name: 🇸🇬 【公益节点】新加坡2-Tr-0x, server: sg1.pbaplink.xyz, port: 20000, type: trojan, password: 7d4e406e-f2e8-4918-8529-d18b598bee76, sni: sg1.pbaplink.xyz}
-  - {name: 🇸🇬 新加坡4-Tr-1x, server: sin04.tencentlink.icu, port: 20000, type: trojan, password: 7d4e406e-f2e8-4918-8529-d18b598bee76, sni: sin04.tencentlink.icu}
-  - {name: 🇸🇬 新加坡5-Tr-1x, server: sin05.publicss.cc, port: 20000, type: trojan, password: 7d4e406e-f2e8-4918-8529-d18b598bee76, sni: sin05.publicss.cc}
-  - {name: 🇸🇬 新加坡6-Tr-1x, server: sg2.pbaplink.xyz, port: 20000, type: trojan, password: 7d4e406e-f2e8-4918-8529-d18b598bee76, sni: sg2.pbaplink.xyz}
-  - {name: 🇺🇲 美国1-CN2-Tr-2x, server: us01.tencentlink.icu, port: 20000, type: trojan, password: 7d4e406e-f2e8-4918-8529-d18b598bee76, sni: us01.tencentlink.icu}
-  - {name: 🇮🇳 印度4-tr-1x, server: in04.tencentlink.icu, port: 20000, type: trojan, password: 7d4e406e-f2e8-4918-8529-d18b598bee76, sni: in04.tencentlink.icu}
-  
+vmess = 18.162.48.33:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, tag=🇭🇰 HongKong06
+vmess = 18.162.48.33:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, tag=🇭🇰 HongKong07
+vmess = 13.112.36.10:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=13.112.36.10, obfs-uri=/, tag=🇯🇵 Japan01
+vmess = 13.112.36.10:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=13.112.36.10, obfs-uri=/, tag=🇯🇵 Japan02
+vmess = 54.150.253.138:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=54.150.253.138, obfs-uri=/, tag=🇯🇵 Japan03
+vmess = 54.150.253.138:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=54.150.253.138, obfs-uri=/, tag=🇯🇵 Japan04
+vmess = 13.229.111.12:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=13.229.111.12, obfs-uri=/, tag=🇸🇬 Singapore01
+vmess = 13.229.111.12:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=13.229.111.12, obfs-uri=/, tag=🇸🇬 Singapore02
+vmess = 13.229.111.12:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=13.229.111.12, obfs-uri=/, tag=🇸🇬 Singapore03
+vmess = 152.67.194.150:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=152.67.194.150, obfs-uri=/, tag=🇰🇷 Korea01
+vmess = 152.67.200.216:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=152.67.200.216, obfs-uri=/, tag=🇰🇷 Korea02
+vmess = 152.67.222.55:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=152.67.222.55, obfs-uri=/, tag=🇰🇷 Korea03
+vmess = 146.56.119.213:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=146.56.119.213, obfs-uri=/, tag=🇰🇷 Korea04
+vmess = 209.141.41.174:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=209.141.41.174, obfs-uri=/, tag=🇺🇲 UnitedStates01
+vmess = de1.2mgy.com:11001, method=chacha20-ietf-poly1305, password=7dae475a-5067-3077-91c3-91cee9605260, obfs=ws, obfs-host=de1.2mgy.com, obfs-uri=/v2ray, tag=🇩🇪 德国｜DE-01｜原生直连
+vmess = gy1.za8.xyz:10002, method=chacha20-ietf-poly1305, password=7dae475a-5067-3077-91c3-91cee9605260, obfs=ws, obfs-host=jp1.2mgy.com, obfs-uri=/v2ray, tag=🇯🇵 日本东京｜JP-01
+vmess = us1.2mgy.com:11050, method=chacha20-ietf-poly1305, password=7dae475a-5067-3077-91c3-91cee9605260, obfs=ws, obfs-host=us1.2mgy.com, obfs-uri=/v2ray, tag=🇺🇲 美国｜US-01｜原生直连
+vmess = gy1.za8.xyz:10003, method=chacha20-ietf-poly1305, password=7dae475a-5067-3077-91c3-91cee9605260, obfs=ws, obfs-host=kr1.2mgy.com, obfs-uri=/v2ray, tag=🇰🇷 韩国｜KR-01
+vmess = gy1.za8.xyz:10001, method=chacha20-ietf-poly1305, password=7dae475a-5067-3077-91c3-91cee9605260, obfs=ws, obfs-host=hk1.2mgy.com, obfs-uri=/v2ray, tag=🇭🇰 香港｜HK-01
+vmess = 112.31.48.108:27003, method=chacha20-ietf-poly1305, password=e2c2b602-120f-45d7-92df-5006879fcf00, obfs=ws, obfs-host=112.31.48.108, obfs-uri=/videos, tag=🇭🇰 香港11
+vmess = 112.31.48.108:32671, method=chacha20-ietf-poly1305, password=e2c2b602-120f-45d7-92df-5006879fcf00, obfs=ws, obfs-host=112.31.48.108, obfs-uri=/videos, tag=🇭🇰 香港12
+vmess = 157.245.194.176:1111, method=chacha20-ietf-poly1305, password=e2c2b602-120f-45d7-92df-5006879fcf00, obfs=ws, obfs-host=157.245.194.176, obfs-uri=/videos, tag=🇸🇬 新加坡03
+vmess = 157.245.194.176:55581, method=chacha20-ietf-poly1305, password=e2c2b602-120f-45d7-92df-5006879fcf00, obfs=ws, obfs-host=157.245.194.176, obfs-uri=/videos, tag=🇸🇬 新加坡04
+shadowsocks = ajp2.misaka.rest:11451, method=aes-256-gcm, password=985934be-4062-4cf4-9c17-efe39165c388, tag=🇯🇵 SS JP - AWS NTT #2
+shadowsocks = jru.misaka.rest:11451, method=aes-256-gcm, password=985934be-4062-4cf4-9c17-efe39165c388, tag=🇷🇺 SS RU - JustHost Mos CN2
+shadowsocks = bv.misaka.rest:11451, method=aes-256-gcm, password=985934be-4062-4cf4-9c17-efe39165c388, tag=🇺🇲 SS US - BuyVM LV
+shadowsocks = du1.misaka.rest:11451, method=aes-256-gcm, password=985934be-4062-4cf4-9c17-efe39165c388, tag=🇺🇲 SS US - DogY. CN2 #1 45Mbps Limited
+shadowsocks = du2.misaka.rest:11451, method=aes-256-gcm, password=985934be-4062-4cf4-9c17-efe39165c388, tag=🇺🇲 SS US - DogY. CN2 #2 30Mbps Limited
+vmess = 43.129.20.48:85, method=chacha20-ietf-poly1305, password=9e3c5e4c-cc8e-37d6-b262-d634b588ecd6, obfs=ws, obfs-host=hk5.mfyun.org, obfs-uri=/ws, tag=🇭🇰 [V1]香港直连 5
+trojan = mum.nat.imjt.vip:10305, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=mum.nat.imjt.vip, tag=🇮🇳 印度 孟买 普通线路，低配NAT机，1Gbps带宽
+trojan = sg.nat.imjt.vip:10215, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=sg.nat.imjt.vip, tag=🇸🇬 新加坡 普通优化线路，低配NAT机，1Gbps带宽
+trojan = gy.nkeo.top:55798, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=gy.nkeo.top, tag="🇭🇰 美国 洛杉矶 由广港隧道中转 高速低延迟！ 低配NAT落地机,500Mbps峰值带宽"
+trojan = la2.imjt.vip:443, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=la2.imjt.vip, tag=🇺🇲 美国 洛杉矶，CN2 GT高速线路（三网直连），1Gbps带宽
+trojan = gy.nkeo.top:55687, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=gy.nkeo.top, tag="🇭🇰 美国 洛杉矶CN2 由广港隧道中转 轻松拉满网速！ 高配落地机,500Mbps峰值带宽"
+trojan = nl.nat.imjt.vip:17105, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=nl.nat.imjt.vip, tag=🇳🇱 荷兰 弗莱福兰 普通线路，低配NAT机，1Gbps带宽
+trojan = gy.nkeo.top:55561, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=gy.nkeo.top, tag="🇭🇰 荷兰 弗莱福兰 由广港隧道中转 稳定高速！低配NAT落地机,500Mbps峰值带宽\t"
+trojan = gy.nkeo.top:55010, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=gy.nkeo.top, tag="🇭🇰 香港 低带宽 由广港隧道中转 NAT落地机,50Mbps峰值带宽"
+shadowsocks = dog.gkd.world:10686, method=aes-256-cfb, password=tFlIIS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=11443:j8ataZ, obfs=http_simple, obfs-host=.www.bing.com, tag=🇷🇺 VIP1  俄罗斯远东
+shadowsocks = cu.newhost.cc:10691, method=aes-256-cfb, password=tFlIIS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=11443:j8ataZ, obfs=http_simple, obfs-host=.www.bing.com, tag=🇮🇳 VIP1  印度孟买-高速
+shadowsocks = cu.newhost.cc:10694, method=aes-256-cfb, password=tFlIIS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=11443:j8ataZ, obfs=http_simple, obfs-host=.www.bing.com, tag=🇺🇲 VIP1  美国-优化
+trojan = sin01.publicss.cc:20000, password=7d4e406e-f2e8-4918-8529-d18b598bee76, over-tls=true, tls-host=sin01.publicss.cc, tag=🇸🇬 【公益节点】新加坡1-Tr-0x
+trojan = sg1.pbaplink.xyz:20000, password=7d4e406e-f2e8-4918-8529-d18b598bee76, over-tls=true, tls-host=sg1.pbaplink.xyz, tag=🇸🇬 【公益节点】新加坡2-Tr-0x
+trojan = sin04.tencentlink.icu:20000, password=7d4e406e-f2e8-4918-8529-d18b598bee76, over-tls=true, tls-host=sin04.tencentlink.icu, tag=🇸🇬 新加坡4-Tr-1x
+trojan = sin05.publicss.cc:20000, password=7d4e406e-f2e8-4918-8529-d18b598bee76, over-tls=true, tls-host=sin05.publicss.cc, tag=🇸🇬 新加坡5-Tr-1x
+trojan = sg2.pbaplink.xyz:20000, password=7d4e406e-f2e8-4918-8529-d18b598bee76, over-tls=true, tls-host=sg2.pbaplink.xyz, tag=🇸🇬 新加坡6-Tr-1x
+trojan = us01.tencentlink.icu:20000, password=7d4e406e-f2e8-4918-8529-d18b598bee76, over-tls=true, tls-host=us01.tencentlink.icu, tag=🇺🇲 美国1-CN2-Tr-2x
+trojan = in04.tencentlink.icu:20000, password=7d4e406e-f2e8-4918-8529-d18b598bee76, over-tls=true, tls-host=in04.tencentlink.icu, tag=🇮🇳 印度4-tr-1x
+
