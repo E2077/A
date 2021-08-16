@@ -27,19 +27,19 @@ proxies:
   - {name: 🇺🇲 美国US_10146, server: 84.17.41.77, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
   - {name: 🇺🇲 美国US_10147, server: 192.111.134.212, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
   - {name: 🇺🇲 美国US_10204, server: 143.244.57.99, port: 49468, type: ss, cipher: aes-256-gcm, password: LsYSQDxmPj9AcWpSX5HrYfu6}
-  - {name: 🇺🇲 美国US_10218, server: 156.146.62.34, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-  - {name: 🇺🇲 美国US_10221, server: 156.146.62.36, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
-  - {name: 🇺🇲 美国US_10222, server: 156.146.62.36, port: 50695, type: ss, cipher: aes-256-gcm, password: gqtwGu9bVreJqL3FTHSVKGzy}
-  - {name: 🇺🇲 美国US_10223, server: 156.146.62.36, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 🇺🇲 美国US_10224, server: 156.146.62.34, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 🇺🇲 美国US_10225, server: 156.146.62.34, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
-  - {name: 🇺🇲 美国US_10226, server: 156.146.62.34, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
-  - {name: 🇺🇲 美国US_10230, server: 156.146.62.34, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国US_10231, server: 156.146.62.34, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇺🇲 美国US_10234, server: 156.146.62.34, port: 50695, type: ss, cipher: aes-256-gcm, password: gqtwGu9bVreJqL3FTHSVKGzy}
-  - {name: 🇺🇲 美国US_10235, server: 156.146.62.34, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
-  - {name: 🇺🇲 美国US_10238, server: 156.146.62.36, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
-  - {name: 🇺🇲 美国US_10239, server: 156.146.62.36, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇨🇭 瑞士CH_10218, server: 156.146.62.34, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇨🇭 瑞士CH_10221, server: 156.146.62.36, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
+  - {name: 🇨🇭 瑞士CH_10222, server: 156.146.62.36, port: 50695, type: ss, cipher: aes-256-gcm, password: gqtwGu9bVreJqL3FTHSVKGzy}
+  - {name: 🇨🇭 瑞士CH_10223, server: 156.146.62.36, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇨🇭 瑞士CH_10224, server: 156.146.62.34, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇨🇭 瑞士CH_10225, server: 156.146.62.34, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 🇨🇭 瑞士CH_10226, server: 156.146.62.34, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇨🇭 瑞士CH_10230, server: 156.146.62.34, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇨🇭 瑞士CH_10231, server: 156.146.62.34, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇨🇭 瑞士CH_10234, server: 156.146.62.34, port: 50695, type: ss, cipher: aes-256-gcm, password: gqtwGu9bVreJqL3FTHSVKGzy}
+  - {name: 🇨🇭 瑞士CH_10235, server: 156.146.62.34, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇨🇭 瑞士CH_10238, server: 156.146.62.36, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇨🇭 瑞士CH_10239, server: 156.146.62.36, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: 🇺🇲 美国US_10246, server: 192.111.134.195, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
   - {name: 🇺🇲 美国US_10247, server: 84.17.41.83, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
   - {name: 🇺🇲 美国US_10296, server: 185.153.180.234, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
@@ -49,21 +49,21 @@ proxies:
   - {name: 🇺🇲 美国US_10670, server: 143.244.57.99, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
   - {name: 🇺🇲 美国US_10706, server: 143.244.57.99, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
   - {name: 🇺🇲 美国US_10711, server: 143.244.57.99, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
-  - {name: 欧洲ZZ_14156, server: 138.199.17.130, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 欧洲ZZ_14158, server: 138.199.17.130, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 欧洲ZZ_14159, server: 138.199.17.130, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 欧洲ZZ_14160, server: 138.199.17.130, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 欧洲ZZ_14162, server: 138.199.17.130, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-  - {name: 欧洲ZZ_14187, server: 138.199.17.130, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
-  - {name: 欧洲ZZ_14190, server: 138.199.9.195, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-  - {name: 欧洲ZZ_14243, server: 138.199.17.130, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 欧洲ZZ_14249, server: 138.199.17.130, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
-  - {name: 欧洲ZZ_14331, server: 138.199.16.130, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-  - {name: 欧洲ZZ_14335, server: 138.199.16.137, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
-  - {name: 欧洲ZZ_14713, server: 91.205.230.158, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 欧洲ZZ_14724, server: 138.199.17.130, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-  - {name: Pool_阿尔巴尼亚AL_96, server: 31.171.154.99, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
-  - {name: Pool_阿尔巴尼亚AL_111, server: 31.171.153.115, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇪🇺 欧洲EU_14156, server: 138.199.17.130, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇪🇺 欧洲EU_14158, server: 138.199.17.130, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇪🇺 欧洲EU_14159, server: 138.199.17.130, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇪🇺 欧洲EU_14160, server: 138.199.17.130, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇪🇺 欧洲EU_14162, server: 138.199.17.130, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇪🇺 欧洲EU_14187, server: 138.199.17.130, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇪🇺 欧洲EU_14190, server: 138.199.9.195, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇪🇺 欧洲EU_14243, server: 138.199.17.130, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇪🇺 欧洲EU_14249, server: 138.199.17.130, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 🇪🇺 欧洲EU_14331, server: 138.199.16.130, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇪🇺 欧洲EU_14335, server: 138.199.16.137, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇪🇺 欧洲EU_14713, server: 91.205.230.158, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇪🇺 欧洲EU_14724, server: 138.199.17.130, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: Pool_🇦🇱 阿尔巴尼亚AL_96, server: 31.171.154.99, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: Pool_🇦🇱 阿尔巴尼亚AL_111, server: 31.171.153.115, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
   - {name: 🇮🇩 Pool_印度尼西亚ID_4480, server: 103.148.242.163, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: 🇮🇹 Pool_意大利IT_5221, server: 185.217.71.51, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
   - {name: 🇷🇴 Pool_罗马尼亚RO_8096, server: 91.90.123.163, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
@@ -83,22 +83,22 @@ proxies:
   - {name: 🇬🇧 英国 GB_33, server: 81.19.208.107, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
   - {name: 🇮🇳 印度 IN_43, server: 137.59.52.107, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: 🇮🇳 印度 IN_44, server: 167.71.235.142, port: 44334, type: vmess, uuid: 927f8a2a-f2db-499b-e0f0-b1e344508546, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 167.71.235.142}}
-  - {name: 立陶宛 LT_50, server: 194.41.112.11, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 立陶宛 LT_51, server: 194.41.112.11, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 立陶宛LT_50, server: 194.41.112.11, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 立陶宛LT_51, server: 194.41.112.11, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
   - {name: 🇲🇾 马来西亚 MY_55, server: 42.0.30.164, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: 🇲🇾 马来西亚 MY_56, server: 42.0.30.164, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
-  - {name: 波兰 PL_69, server: 5.133.14.196, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 波兰PL_69, server: 5.133.14.196, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: 🇷🇴 罗马尼亚 RO_72, server: 194.37.98.211, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: 🇷🇴 罗马尼亚 RO_76, server: 194.37.98.211, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: 🇷🇴 罗马尼亚 RO_78, server: 91.250.240.140, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: 斯洛伐克 SK_90, server: 37.120.221.5, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-  - {name: 乌克兰 UA_91, server: 37.19.220.199, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 乌克兰UA_91, server: 37.19.220.199, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
   - {name: 🇺🇲 美国 US_95, server: 198.147.22.83, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: 🇺🇲 美国 US_96, server: 207.244.67.149, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
   - {name: 🇺🇲 美国 US_100, server: 143.244.60.162, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: 🇺🇲 美国 US_105, server: 104.244.211.179, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 欧洲 ZZ_125, server: 138.199.19.186, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 欧洲 ZZ_126, server: 138.199.19.182, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇪🇺 欧洲EU_125, server: 138.199.19.186, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇪🇺 欧洲EU_126, server: 138.199.19.182, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
   - {name: 🇨🇦 Relay_加拿大CA-加拿大CA_25, server: ss3.ssrsub.one, port: 9443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
   - {name: 🇨🇦 Relay_加拿大CA-加拿大CA_29, server: ss4.ssrsub.one, port: 2443, type: ss, cipher: aes-128-gcm, password: https://dlj.tf/ssrsub}
   - {name: 🇨🇦 Relay_俄罗斯RU-加拿大CA_259, server: ss6.ssrsub.one, port: 9443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
@@ -107,8 +107,8 @@ proxies:
   - {name: 🇺🇲 Pool_美国US_773, server: 199.10.64.131, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: 波斯尼亚 BA_276, server: 185.212.111.6, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
   - {name: 🇪🇸 西班牙 ES_713, server: 185.153.150.54, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇬🇧 英国 GB_1055, server: 192.145.126.131, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇬🇧 英国 GB_1113, server: 81.19.208.68, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇬🇧 英国GB_1055, server: 192.145.126.131, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇬🇧 英国GB_1113, server: 81.19.208.68, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: 匈牙利 HU_1177, server: 37.120.144.245, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: 以色列 IL_1209, server: 87.239.255.116, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
   - {name: 马其顿 MK_1524, server: 185.225.28.101, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
@@ -117,36 +117,36 @@ proxies:
   - {name: 斯洛伐克 SK_1972, server: 37.120.221.3, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: 🇺🇲 美国 US_2092, server: 89.187.187.149, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: 🇺🇲 美国 US_2538, server: 172.241.114.87, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: _306 |43.09Mb, server: 156.146.62.36, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
-  - {name: _140 |14.67Mb, server: 91.90.123.115, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
-  - {name: _143 |12.98Mb, server: 91.90.123.115, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
-  - {name: _148 |15.60Mb, server: 91.90.123.115, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-  - {name: _214 |30.93Mb, server: 5.189.202.16, port: 42816, type: ss, cipher: aes-256-gcm, password: tBKBf4pVzNCFKdbPgvwrNXq3}
-  - {name: _229 |13.89Mb, server: 91.206.168.3, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
-  - {name: _293 |42.57Mb, server: 156.146.62.36, port: 49468, type: ss, cipher: aes-256-gcm, password: LsYSQDxmPj9AcWpSX5HrYfu6}
-  - {name: _294 |42.22Mb, server: 156.146.62.36, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: _295 |42.31Mb, server: 156.146.62.36, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-  - {name: _296 |42.03Mb, server: 156.146.62.36, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
-  - {name: _297 |42.58Mb, server: 156.146.62.36, port: 44628, type: ss, cipher: aes-256-gcm, password: VASQbVcukHfdBGmeS9L7Z8TT}
-  - {name: _298 |42.43Mb, server: 156.146.62.36, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: _299 |43.43Mb, server: 156.146.62.36, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: _300 |42.53Mb, server: 156.146.62.36, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
-  - {name: _301 |42.23Mb, server: 156.146.62.36, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
-  - {name: _302 |42.29Mb, server: 156.146.62.36, port: 42816, type: ss, cipher: aes-256-gcm, password: tBKBf4pVzNCFKdbPgvwrNXq3}
-  - {name: _303 |42.81Mb, server: 156.146.62.36, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
-  - {name: _304 |42.38Mb, server: 156.146.62.36, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
-  - {name: _305 |42.75Mb, server: 156.146.62.36, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
-  - {name: _308 |42.45Mb, server: 156.146.62.36, port: 41738, type: ss, cipher: aes-256-gcm, password: X6yMGXnfUsuKTvEDYZSLPk4d}
-  - {name: _309 |23.93Mb, server: 185.232.21.51, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
-  - {name: _325 | 7.96Mb, server: 176.222.34.113, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
-  - {name: _71 |28.44Mb, server: 5.189.202.16, port: 40282, type: ss, cipher: aes-256-gcm, password: Pvvaw486867D2w4yctL2ULTQ}
-  - {name: _343 |13.44Mb, server: 91.206.168.3, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
-  - {name: _352 |42.71Mb, server: 31.171.155.35, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-  - {name: _356 |43.05Mb, server: 185.99.3.102, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-  - {name: _357 |24.93Mb, server: 180.149.228.147, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
-  - {name: _964 |33.68Mb, server: 94.20.154.61, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-  - {name: _1021 |25.47Mb, server: 91.90.123.187, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-  - {name: _1109 |20.08Mb, server: 91.206.93.9, port: 80, type: vmess, uuid: 5b7d91c6-646e-3f15-864a-f132e9559ef7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 91.206.93.9}}
+  - {name: 🇨🇭 瑞士CH_306 |43.09Mb, server: 156.146.62.36, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 🇷🇴 罗马尼亚RO_140 |14.67Mb, server: 91.90.123.115, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 🇷🇴 罗马尼亚RO_143 |12.98Mb, server: 91.90.123.115, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇷🇴 罗马尼亚RO_148 |15.60Mb, server: 91.90.123.115, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 巴基斯坦PK_214 |30.93Mb, server: 5.189.202.16, port: 42816, type: ss, cipher: aes-256-gcm, password: tBKBf4pVzNCFKdbPgvwrNXq3}
+  - {name: 🇬🇧 英国GB_229 |13.89Mb, server: 91.206.168.3, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇨🇭 瑞士CH_293 |42.57Mb, server: 156.146.62.36, port: 49468, type: ss, cipher: aes-256-gcm, password: LsYSQDxmPj9AcWpSX5HrYfu6}
+  - {name: 🇨🇭 瑞士CH_294 |42.22Mb, server: 156.146.62.36, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇨🇭 瑞士CH_295 |42.31Mb, server: 156.146.62.36, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇨🇭 瑞士CH_296 |42.03Mb, server: 156.146.62.36, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇨🇭 瑞士CH_297 |42.58Mb, server: 156.146.62.36, port: 44628, type: ss, cipher: aes-256-gcm, password: VASQbVcukHfdBGmeS9L7Z8TT}
+  - {name: 🇨🇭 瑞士CH_298 |42.43Mb, server: 156.146.62.36, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇨🇭 瑞士CH_299 |43.43Mb, server: 156.146.62.36, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇨🇭 瑞士CH_300 |42.53Mb, server: 156.146.62.36, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇨🇭 瑞士CH_301 |42.23Mb, server: 156.146.62.36, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 🇨🇭 瑞士CH_302 |42.29Mb, server: 156.146.62.36, port: 42816, type: ss, cipher: aes-256-gcm, password: tBKBf4pVzNCFKdbPgvwrNXq3}
+  - {name: 🇨🇭 瑞士CH_303 |42.81Mb, server: 156.146.62.36, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 🇨🇭 瑞士CH_304 |42.38Mb, server: 156.146.62.36, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
+  - {name: 🇨🇭 瑞士CH_305 |42.75Mb, server: 156.146.62.36, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 🇨🇭 瑞士CH_308 |42.45Mb, server: 156.146.62.36, port: 41738, type: ss, cipher: aes-256-gcm, password: X6yMGXnfUsuKTvEDYZSLPk4d}
+  - {name: 比利时_309 |23.93Mb, server: 185.232.21.51, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 克罗地亚_325 | 7.96Mb, server: 176.222.34.113, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 巴基斯坦PK_71 |28.44Mb, server: 5.189.202.16, port: 40282, type: ss, cipher: aes-256-gcm, password: Pvvaw486867D2w4yctL2ULTQ}
+  - {name: 🇬🇧 英国GB343 |13.44Mb, server: 91.206.168.3, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 阿尔巴尼亚AL_352 |42.71Mb, server: 31.171.155.35, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 波黑_356 |43.05Mb, server: 185.99.3.102, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇦🇺 澳大利亚AU_357 |24.93Mb, server: 180.149.228.147, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 阿塞拜疆_964 |33.68Mb, server: 94.20.154.61, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇷🇴 罗马尼亚RO_1021 |25.47Mb, server: 91.90.123.187, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇷🇺 俄罗斯RU_1109 |20.08Mb, server: 91.206.93.9, port: 80, type: vmess, uuid: 5b7d91c6-646e-3f15-864a-f132e9559ef7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 91.206.93.9}}
   - {name: 阿尔巴尼亚AL_1150 |46.66Mb, server: 31.171.153.83, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
   - {name: 阿尔巴尼亚AL_1179 |46.30Mb, server: 31.171.153.115, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
   - {name: 🇦🇹 奥地利AT_1263 |50.92Mb, server: 5.253.207.85, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
@@ -276,7 +276,7 @@ proxies:
   - {name: 🇷🇺 俄罗斯RU_8746, server: 5.189.202.16, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: 🇷🇺 俄罗斯RU_8755, server: 5.189.202.16, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
   - {name: 斯洛文尼亚SI_8984, server: 195.158.249.46, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR}
-  - {name: 乌克兰 UA_9231, server: 37.19.220.196, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
+  - {name: 乌克兰UA_9231, server: 37.19.220.196, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
   - {name: 乌克兰UA_9323, server: 37.19.220.196, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
   - {name: 乌克兰UA_9309, server: 37.19.220.196, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
   - {name: 乌克兰UA_9302, server: 37.19.220.199, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
@@ -324,19 +324,19 @@ proxy-groups:
       - 🇺🇲 美国US_10146
       - 🇺🇲 美国US_10147
       - 🇺🇲 美国US_10204
-      - 🇺🇲 美国US_10218
-      - 🇺🇲 美国US_10221
-      - 🇺🇲 美国US_10222
-      - 🇺🇲 美国US_10223
-      - 🇺🇲 美国US_10224
-      - 🇺🇲 美国US_10225
-      - 🇺🇲 美国US_10226
-      - 🇺🇲 美国US_10230
-      - 🇺🇲 美国US_10231
-      - 🇺🇲 美国US_10234
-      - 🇺🇲 美国US_10235
-      - 🇺🇲 美国US_10238
-      - 🇺🇲 美国US_10239
+      - 🇨🇭 瑞士CH_10218
+      - 🇨🇭 瑞士CH_10221
+      - 🇨🇭 瑞士CH_10222
+      - 🇨🇭 瑞士CH_10223
+      - 🇨🇭 瑞士CH_10224
+      - 🇨🇭 瑞士CH_10225
+      - 🇨🇭 瑞士CH_10226
+      - 🇨🇭 瑞士CH_10230
+      - 🇨🇭 瑞士CH_10231
+      - 🇨🇭 瑞士CH_10234
+      - 🇨🇭 瑞士CH_10235
+      - 🇨🇭 瑞士CH_10238
+      - 🇨🇭 瑞士CH_10239
       - 🇺🇲 美国US_10246
       - 🇺🇲 美国US_10247
       - 🇺🇲 美国US_10296
@@ -346,21 +346,21 @@ proxy-groups:
       - 🇺🇲 美国US_10670
       - 🇺🇲 美国US_10706
       - 🇺🇲 美国US_10711
-      - 欧洲ZZ_14156
-      - 欧洲ZZ_14158
-      - 欧洲ZZ_14159
-      - 欧洲ZZ_14160
-      - 欧洲ZZ_14162
-      - 欧洲ZZ_14187
-      - 欧洲ZZ_14190
-      - 欧洲ZZ_14243
-      - 欧洲ZZ_14249
-      - 欧洲ZZ_14331
-      - 欧洲ZZ_14335
-      - 欧洲ZZ_14713
-      - 欧洲ZZ_14724
-      - Pool_阿尔巴尼亚AL_96
-      - Pool_阿尔巴尼亚AL_111
+      - 🇪🇺 欧洲EU_14156
+      - 🇪🇺 欧洲EU_14158
+      - 🇪🇺 欧洲EU_14159
+      - 🇪🇺 欧洲EU_14160
+      - 🇪🇺 欧洲EU_14162
+      - 🇪🇺 欧洲EU_14187
+      - 🇪🇺 欧洲EU_14190
+      - 🇪🇺 欧洲EU_14243
+      - 🇪🇺 欧洲EU_14249
+      - 🇪🇺 欧洲EU_14331
+      - 🇪🇺 欧洲EU_14335
+      - 🇪🇺 欧洲EU_14713
+      - 🇪🇺 欧洲EU_14724
+      - Pool_🇦🇱 阿尔巴尼亚AL_96
+      - Pool_🇦🇱 阿尔巴尼亚AL_111
       - 🇮🇩 Pool_印度尼西亚ID_4480
       - 🇮🇹 Pool_意大利IT_5221
       - 🇷🇴 Pool_罗马尼亚RO_8096
@@ -380,22 +380,22 @@ proxy-groups:
       - 🇬🇧 英国 GB_33
       - 🇮🇳 印度 IN_43
       - 🇮🇳 印度 IN_44
-      - 立陶宛 LT_50
-      - 立陶宛 LT_51
+      - 立陶宛LT_50
+      - 立陶宛LT_51
       - 🇲🇾 马来西亚 MY_55
       - 🇲🇾 马来西亚 MY_56
-      - 波兰 PL_69
+      - 波兰PL_69
       - 🇷🇴 罗马尼亚 RO_72
       - 🇷🇴 罗马尼亚 RO_76
       - 🇷🇴 罗马尼亚 RO_78
       - 斯洛伐克 SK_90
-      - 乌克兰 UA_91
+      - 乌克兰UA_91
       - 🇺🇲 美国 US_95
       - 🇺🇲 美国 US_96
       - 🇺🇲 美国 US_100
       - 🇺🇲 美国 US_105
-      - 欧洲 ZZ_125
-      - 欧洲 ZZ_126
+      - 🇪🇺 欧洲EU_125
+      - 🇪🇺 欧洲EU_126
       - 🇨🇦 Relay_加拿大CA-加拿大CA_25
       - 🇨🇦 Relay_加拿大CA-加拿大CA_29
       - 🇨🇦 Relay_俄罗斯RU-加拿大CA_259
@@ -404,8 +404,8 @@ proxy-groups:
       - 🇺🇲 Pool_美国US_773
       - 波斯尼亚 BA_276
       - 🇪🇸 西班牙 ES_713
-      - 🇬🇧 英国 GB_1055
-      - 🇬🇧 英国 GB_1113
+      - 🇬🇧 英国GB_1055
+      - 🇬🇧 英国GB_1113
       - 匈牙利 HU_1177
       - 以色列 IL_1209
       - 马其顿 MK_1524
@@ -414,36 +414,36 @@ proxy-groups:
       - 斯洛伐克 SK_1972
       - 🇺🇲 美国 US_2092
       - 🇺🇲 美国 US_2538
-      - _306 |43.09Mb
-      - _140 |14.67Mb
-      - _143 |12.98Mb
-      - _148 |15.60Mb
-      - _214 |30.93Mb
-      - _229 |13.89Mb
-      - _293 |42.57Mb
-      - _294 |42.22Mb
-      - _295 |42.31Mb
-      - _296 |42.03Mb
-      - _297 |42.58Mb
-      - _298 |42.43Mb
-      - _299 |43.43Mb
-      - _300 |42.53Mb
-      - _301 |42.23Mb
-      - _302 |42.29Mb
-      - _303 |42.81Mb
-      - _304 |42.38Mb
-      - _305 |42.75Mb
-      - _308 |42.45Mb
-      - _309 |23.93Mb
-      - _325 | 7.96Mb
-      - _71 |28.44Mb
-      - _343 |13.44Mb
-      - _352 |42.71Mb
-      - _356 |43.05Mb
-      - _357 |24.93Mb
-      - _964 |33.68Mb
-      - _1021 |25.47Mb
-      - _1109 |20.08Mb
+      - 🇨🇭 瑞士CH_306 |43.09Mb
+      - 🇷🇴 罗马尼亚RO_140 |14.67Mb
+      - 🇷🇴 罗马尼亚RO_143 |12.98Mb
+      - 🇷🇴 罗马尼亚RO_148 |15.60Mb
+      - 巴基斯坦PK_214 |30.93Mb
+      - 🇬🇧 英国GB_229 |13.89Mb
+      - 🇨🇭 瑞士CH_293 |42.57Mb
+      - 🇨🇭 瑞士CH_294 |42.22Mb
+      - 🇨🇭 瑞士CH_295 |42.31Mb
+      - 🇨🇭 瑞士CH_296 |42.03Mb
+      - 🇨🇭 瑞士CH_297 |42.58Mb
+      - 🇨🇭 瑞士CH_298 |42.43Mb
+      - 🇨🇭 瑞士CH_299 |43.43Mb
+      - 🇨🇭 瑞士CH_300 |42.53Mb
+      - 🇨🇭 瑞士CH_301 |42.23Mb
+      - 🇨🇭 瑞士CH_302 |42.29Mb
+      - 🇨🇭 瑞士CH_303 |42.81Mb
+      - 🇨🇭 瑞士CH_304 |42.38Mb
+      - 🇨🇭 瑞士CH_305 |42.75Mb
+      - 🇨🇭 瑞士CH_308 |42.45Mb
+      - 比利时_309 |23.93Mb
+      - 克罗地亚_325 | 7.96Mb
+      - 巴基斯坦PK_71 |28.44Mb
+      - 🇬🇧 英国GB343 |13.44Mb
+      - 阿尔巴尼亚AL_352 |42.71Mb
+      - 波黑_356 |43.05Mb
+      - 🇦🇺 澳大利亚AU_357 |24.93Mb
+      - 阿塞拜疆_964 |33.68Mb
+      - 🇷🇴 罗马尼亚RO_1021 |25.47Mb
+      - 🇷🇺 俄罗斯RU_1109 |20.08Mb
       - 阿尔巴尼亚AL_1150 |46.66Mb
       - 阿尔巴尼亚AL_1179 |46.30Mb
       - 🇦🇹 奥地利AT_1263 |50.92Mb
@@ -573,7 +573,7 @@ proxy-groups:
       - 🇷🇺 俄罗斯RU_8746
       - 🇷🇺 俄罗斯RU_8755
       - 斯洛文尼亚SI_8984
-      - 乌克兰 UA_9231
+      - 乌克兰UA_9231
       - 乌克兰UA_9323
       - 乌克兰UA_9309
       - 乌克兰UA_9302
@@ -609,19 +609,19 @@ proxy-groups:
       - 🇺🇲 美国US_10146
       - 🇺🇲 美国US_10147
       - 🇺🇲 美国US_10204
-      - 🇺🇲 美国US_10218
-      - 🇺🇲 美国US_10221
-      - 🇺🇲 美国US_10222
-      - 🇺🇲 美国US_10223
-      - 🇺🇲 美国US_10224
-      - 🇺🇲 美国US_10225
-      - 🇺🇲 美国US_10226
-      - 🇺🇲 美国US_10230
-      - 🇺🇲 美国US_10231
-      - 🇺🇲 美国US_10234
-      - 🇺🇲 美国US_10235
-      - 🇺🇲 美国US_10238
-      - 🇺🇲 美国US_10239
+      - 🇨🇭 瑞士CH_10218
+      - 🇨🇭 瑞士CH_10221
+      - 🇨🇭 瑞士CH_10222
+      - 🇨🇭 瑞士CH_10223
+      - 🇨🇭 瑞士CH_10224
+      - 🇨🇭 瑞士CH_10225
+      - 🇨🇭 瑞士CH_10226
+      - 🇨🇭 瑞士CH_10230
+      - 🇨🇭 瑞士CH_10231
+      - 🇨🇭 瑞士CH_10234
+      - 🇨🇭 瑞士CH_10235
+      - 🇨🇭 瑞士CH_10238
+      - 🇨🇭 瑞士CH_10239
       - 🇺🇲 美国US_10246
       - 🇺🇲 美国US_10247
       - 🇺🇲 美国US_10296
@@ -631,21 +631,21 @@ proxy-groups:
       - 🇺🇲 美国US_10670
       - 🇺🇲 美国US_10706
       - 🇺🇲 美国US_10711
-      - 欧洲ZZ_14156
-      - 欧洲ZZ_14158
-      - 欧洲ZZ_14159
-      - 欧洲ZZ_14160
-      - 欧洲ZZ_14162
-      - 欧洲ZZ_14187
-      - 欧洲ZZ_14190
-      - 欧洲ZZ_14243
-      - 欧洲ZZ_14249
-      - 欧洲ZZ_14331
-      - 欧洲ZZ_14335
-      - 欧洲ZZ_14713
-      - 欧洲ZZ_14724
-      - Pool_阿尔巴尼亚AL_96
-      - Pool_阿尔巴尼亚AL_111
+      - 🇪🇺 欧洲EU_14156
+      - 🇪🇺 欧洲EU_14158
+      - 🇪🇺 欧洲EU_14159
+      - 🇪🇺 欧洲EU_14160
+      - 🇪🇺 欧洲EU_14162
+      - 🇪🇺 欧洲EU_14187
+      - 🇪🇺 欧洲EU_14190
+      - 🇪🇺 欧洲EU_14243
+      - 🇪🇺 欧洲EU_14249
+      - 🇪🇺 欧洲EU_14331
+      - 🇪🇺 欧洲EU_14335
+      - 🇪🇺 欧洲EU_14713
+      - 🇪🇺 欧洲EU_14724
+      - Pool_🇦🇱 阿尔巴尼亚AL_96
+      - Pool_🇦🇱 阿尔巴尼亚AL_111
       - 🇮🇩 Pool_印度尼西亚ID_4480
       - 🇮🇹 Pool_意大利IT_5221
       - 🇷🇴 Pool_罗马尼亚RO_8096
@@ -665,22 +665,22 @@ proxy-groups:
       - 🇬🇧 英国 GB_33
       - 🇮🇳 印度 IN_43
       - 🇮🇳 印度 IN_44
-      - 立陶宛 LT_50
-      - 立陶宛 LT_51
+      - 立陶宛LT_50
+      - 立陶宛LT_51
       - 🇲🇾 马来西亚 MY_55
       - 🇲🇾 马来西亚 MY_56
-      - 波兰 PL_69
+      - 波兰PL_69
       - 🇷🇴 罗马尼亚 RO_72
       - 🇷🇴 罗马尼亚 RO_76
       - 🇷🇴 罗马尼亚 RO_78
       - 斯洛伐克 SK_90
-      - 乌克兰 UA_91
+      - 乌克兰UA_91
       - 🇺🇲 美国 US_95
       - 🇺🇲 美国 US_96
       - 🇺🇲 美国 US_100
       - 🇺🇲 美国 US_105
-      - 欧洲 ZZ_125
-      - 欧洲 ZZ_126
+      - 🇪🇺 欧洲EU_125
+      - 🇪🇺 欧洲EU_126
       - 🇨🇦 Relay_加拿大CA-加拿大CA_25
       - 🇨🇦 Relay_加拿大CA-加拿大CA_29
       - 🇨🇦 Relay_俄罗斯RU-加拿大CA_259
@@ -689,8 +689,8 @@ proxy-groups:
       - 🇺🇲 Pool_美国US_773
       - 波斯尼亚 BA_276
       - 🇪🇸 西班牙 ES_713
-      - 🇬🇧 英国 GB_1055
-      - 🇬🇧 英国 GB_1113
+      - 🇬🇧 英国GB_1055
+      - 🇬🇧 英国GB_1113
       - 匈牙利 HU_1177
       - 以色列 IL_1209
       - 马其顿 MK_1524
@@ -699,36 +699,36 @@ proxy-groups:
       - 斯洛伐克 SK_1972
       - 🇺🇲 美国 US_2092
       - 🇺🇲 美国 US_2538
-      - _306 |43.09Mb
-      - _140 |14.67Mb
-      - _143 |12.98Mb
-      - _148 |15.60Mb
-      - _214 |30.93Mb
-      - _229 |13.89Mb
-      - _293 |42.57Mb
-      - _294 |42.22Mb
-      - _295 |42.31Mb
-      - _296 |42.03Mb
-      - _297 |42.58Mb
-      - _298 |42.43Mb
-      - _299 |43.43Mb
-      - _300 |42.53Mb
-      - _301 |42.23Mb
-      - _302 |42.29Mb
-      - _303 |42.81Mb
-      - _304 |42.38Mb
-      - _305 |42.75Mb
-      - _308 |42.45Mb
-      - _309 |23.93Mb
-      - _325 | 7.96Mb
-      - _71 |28.44Mb
-      - _343 |13.44Mb
-      - _352 |42.71Mb
-      - _356 |43.05Mb
-      - _357 |24.93Mb
-      - _964 |33.68Mb
-      - _1021 |25.47Mb
-      - _1109 |20.08Mb
+      - 🇨🇭 瑞士CH_306 |43.09Mb
+      - 🇷🇴 罗马尼亚RO_140 |14.67Mb
+      - 🇷🇴 罗马尼亚RO_143 |12.98Mb
+      - 🇷🇴 罗马尼亚RO_148 |15.60Mb
+      - 巴基斯坦PK_214 |30.93Mb
+      - 🇬🇧 英国GB_229 |13.89Mb
+      - 🇨🇭 瑞士CH_293 |42.57Mb
+      - 🇨🇭 瑞士CH_294 |42.22Mb
+      - 🇨🇭 瑞士CH_295 |42.31Mb
+      - 🇨🇭 瑞士CH_296 |42.03Mb
+      - 🇨🇭 瑞士CH_297 |42.58Mb
+      - 🇨🇭 瑞士CH_298 |42.43Mb
+      - 🇨🇭 瑞士CH_299 |43.43Mb
+      - 🇨🇭 瑞士CH_300 |42.53Mb
+      - 🇨🇭 瑞士CH_301 |42.23Mb
+      - 🇨🇭 瑞士CH_302 |42.29Mb
+      - 🇨🇭 瑞士CH_303 |42.81Mb
+      - 🇨🇭 瑞士CH_304 |42.38Mb
+      - 🇨🇭 瑞士CH_305 |42.75Mb
+      - 🇨🇭 瑞士CH_308 |42.45Mb
+      - 比利时_309 |23.93Mb
+      - 克罗地亚_325 | 7.96Mb
+      - 巴基斯坦PK_71 |28.44Mb
+      - 🇬🇧 英国GB343 |13.44Mb
+      - 阿尔巴尼亚AL_352 |42.71Mb
+      - 波黑_356 |43.05Mb
+      - 🇦🇺 澳大利亚AU_357 |24.93Mb
+      - 阿塞拜疆_964 |33.68Mb
+      - 🇷🇴 罗马尼亚RO_1021 |25.47Mb
+      - 🇷🇺 俄罗斯RU_1109 |20.08Mb
       - 阿尔巴尼亚AL_1150 |46.66Mb
       - 阿尔巴尼亚AL_1179 |46.30Mb
       - 🇦🇹 奥地利AT_1263 |50.92Mb
@@ -858,7 +858,7 @@ proxy-groups:
       - 🇷🇺 俄罗斯RU_8746
       - 🇷🇺 俄罗斯RU_8755
       - 斯洛文尼亚SI_8984
-      - 乌克兰 UA_9231
+      - 乌克兰UA_9231
       - 乌克兰UA_9323
       - 乌克兰UA_9309
       - 乌克兰UA_9302
@@ -894,19 +894,19 @@ proxy-groups:
       - 🇺🇲 美国US_10146
       - 🇺🇲 美国US_10147
       - 🇺🇲 美国US_10204
-      - 🇺🇲 美国US_10218
-      - 🇺🇲 美国US_10221
-      - 🇺🇲 美国US_10222
-      - 🇺🇲 美国US_10223
-      - 🇺🇲 美国US_10224
-      - 🇺🇲 美国US_10225
-      - 🇺🇲 美国US_10226
-      - 🇺🇲 美国US_10230
-      - 🇺🇲 美国US_10231
-      - 🇺🇲 美国US_10234
-      - 🇺🇲 美国US_10235
-      - 🇺🇲 美国US_10238
-      - 🇺🇲 美国US_10239
+      - 🇨🇭 瑞士CH_10218
+      - 🇨🇭 瑞士CH_10221
+      - 🇨🇭 瑞士CH_10222
+      - 🇨🇭 瑞士CH_10223
+      - 🇨🇭 瑞士CH_10224
+      - 🇨🇭 瑞士CH_10225
+      - 🇨🇭 瑞士CH_10226
+      - 🇨🇭 瑞士CH_10230
+      - 🇨🇭 瑞士CH_10231
+      - 🇨🇭 瑞士CH_10234
+      - 🇨🇭 瑞士CH_10235
+      - 🇨🇭 瑞士CH_10238
+      - 🇨🇭 瑞士CH_10239
       - 🇺🇲 美国US_10246
       - 🇺🇲 美国US_10247
       - 🇺🇲 美国US_10296
@@ -916,21 +916,21 @@ proxy-groups:
       - 🇺🇲 美国US_10670
       - 🇺🇲 美国US_10706
       - 🇺🇲 美国US_10711
-      - 欧洲ZZ_14156
-      - 欧洲ZZ_14158
-      - 欧洲ZZ_14159
-      - 欧洲ZZ_14160
-      - 欧洲ZZ_14162
-      - 欧洲ZZ_14187
-      - 欧洲ZZ_14190
-      - 欧洲ZZ_14243
-      - 欧洲ZZ_14249
-      - 欧洲ZZ_14331
-      - 欧洲ZZ_14335
-      - 欧洲ZZ_14713
-      - 欧洲ZZ_14724
-      - Pool_阿尔巴尼亚AL_96
-      - Pool_阿尔巴尼亚AL_111
+      - 🇪🇺 欧洲EU_14156
+      - 🇪🇺 欧洲EU_14158
+      - 🇪🇺 欧洲EU_14159
+      - 🇪🇺 欧洲EU_14160
+      - 🇪🇺 欧洲EU_14162
+      - 🇪🇺 欧洲EU_14187
+      - 🇪🇺 欧洲EU_14190
+      - 🇪🇺 欧洲EU_14243
+      - 🇪🇺 欧洲EU_14249
+      - 🇪🇺 欧洲EU_14331
+      - 🇪🇺 欧洲EU_14335
+      - 🇪🇺 欧洲EU_14713
+      - 🇪🇺 欧洲EU_14724
+      - Pool_🇦🇱 阿尔巴尼亚AL_96
+      - Pool_🇦🇱 阿尔巴尼亚AL_111
       - 🇮🇩 Pool_印度尼西亚ID_4480
       - 🇮🇹 Pool_意大利IT_5221
       - 🇷🇴 Pool_罗马尼亚RO_8096
@@ -950,22 +950,22 @@ proxy-groups:
       - 🇬🇧 英国 GB_33
       - 🇮🇳 印度 IN_43
       - 🇮🇳 印度 IN_44
-      - 立陶宛 LT_50
-      - 立陶宛 LT_51
+      - 立陶宛LT_50
+      - 立陶宛LT_51
       - 🇲🇾 马来西亚 MY_55
       - 🇲🇾 马来西亚 MY_56
-      - 波兰 PL_69
+      - 波兰PL_69
       - 🇷🇴 罗马尼亚 RO_72
       - 🇷🇴 罗马尼亚 RO_76
       - 🇷🇴 罗马尼亚 RO_78
       - 斯洛伐克 SK_90
-      - 乌克兰 UA_91
+      - 乌克兰UA_91
       - 🇺🇲 美国 US_95
       - 🇺🇲 美国 US_96
       - 🇺🇲 美国 US_100
       - 🇺🇲 美国 US_105
-      - 欧洲 ZZ_125
-      - 欧洲 ZZ_126
+      - 🇪🇺 欧洲EU_125
+      - 🇪🇺 欧洲EU_126
       - 🇨🇦 Relay_加拿大CA-加拿大CA_25
       - 🇨🇦 Relay_加拿大CA-加拿大CA_29
       - 🇨🇦 Relay_俄罗斯RU-加拿大CA_259
@@ -974,8 +974,8 @@ proxy-groups:
       - 🇺🇲 Pool_美国US_773
       - 波斯尼亚 BA_276
       - 🇪🇸 西班牙 ES_713
-      - 🇬🇧 英国 GB_1055
-      - 🇬🇧 英国 GB_1113
+      - 🇬🇧 英国GB_1055
+      - 🇬🇧 英国GB_1113
       - 匈牙利 HU_1177
       - 以色列 IL_1209
       - 马其顿 MK_1524
@@ -984,36 +984,36 @@ proxy-groups:
       - 斯洛伐克 SK_1972
       - 🇺🇲 美国 US_2092
       - 🇺🇲 美国 US_2538
-      - _306 |43.09Mb
-      - _140 |14.67Mb
-      - _143 |12.98Mb
-      - _148 |15.60Mb
-      - _214 |30.93Mb
-      - _229 |13.89Mb
-      - _293 |42.57Mb
-      - _294 |42.22Mb
-      - _295 |42.31Mb
-      - _296 |42.03Mb
-      - _297 |42.58Mb
-      - _298 |42.43Mb
-      - _299 |43.43Mb
-      - _300 |42.53Mb
-      - _301 |42.23Mb
-      - _302 |42.29Mb
-      - _303 |42.81Mb
-      - _304 |42.38Mb
-      - _305 |42.75Mb
-      - _308 |42.45Mb
-      - _309 |23.93Mb
-      - _325 | 7.96Mb
-      - _71 |28.44Mb
-      - _343 |13.44Mb
-      - _352 |42.71Mb
-      - _356 |43.05Mb
-      - _357 |24.93Mb
-      - _964 |33.68Mb
-      - _1021 |25.47Mb
-      - _1109 |20.08Mb
+      - 🇨🇭 瑞士CH_306 |43.09Mb
+      - 🇷🇴 罗马尼亚RO_140 |14.67Mb
+      - 🇷🇴 罗马尼亚RO_143 |12.98Mb
+      - 🇷🇴 罗马尼亚RO_148 |15.60Mb
+      - 巴基斯坦PK_214 |30.93Mb
+      - 🇬🇧 英国GB_229 |13.89Mb
+      - 🇨🇭 瑞士CH_293 |42.57Mb
+      - 🇨🇭 瑞士CH_294 |42.22Mb
+      - 🇨🇭 瑞士CH_295 |42.31Mb
+      - 🇨🇭 瑞士CH_296 |42.03Mb
+      - 🇨🇭 瑞士CH_297 |42.58Mb
+      - 🇨🇭 瑞士CH_298 |42.43Mb
+      - 🇨🇭 瑞士CH_299 |43.43Mb
+      - 🇨🇭 瑞士CH_300 |42.53Mb
+      - 🇨🇭 瑞士CH_301 |42.23Mb
+      - 🇨🇭 瑞士CH_302 |42.29Mb
+      - 🇨🇭 瑞士CH_303 |42.81Mb
+      - 🇨🇭 瑞士CH_304 |42.38Mb
+      - 🇨🇭 瑞士CH_305 |42.75Mb
+      - 🇨🇭 瑞士CH_308 |42.45Mb
+      - 比利时_309 |23.93Mb
+      - 克罗地亚_325 | 7.96Mb
+      - 巴基斯坦PK_71 |28.44Mb
+      - 🇬🇧 英国GB343 |13.44Mb
+      - 阿尔巴尼亚AL_352 |42.71Mb
+      - 波黑_356 |43.05Mb
+      - 🇦🇺 澳大利亚AU_357 |24.93Mb
+      - 阿塞拜疆_964 |33.68Mb
+      - 🇷🇴 罗马尼亚RO_1021 |25.47Mb
+      - 🇷🇺 俄罗斯RU_1109 |20.08Mb
       - 阿尔巴尼亚AL_1150 |46.66Mb
       - 阿尔巴尼亚AL_1179 |46.30Mb
       - 🇦🇹 奥地利AT_1263 |50.92Mb
@@ -1143,7 +1143,7 @@ proxy-groups:
       - 🇷🇺 俄罗斯RU_8746
       - 🇷🇺 俄罗斯RU_8755
       - 斯洛文尼亚SI_8984
-      - 乌克兰 UA_9231
+      - 乌克兰UA_9231
       - 乌克兰UA_9323
       - 乌克兰UA_9309
       - 乌克兰UA_9302
@@ -1179,19 +1179,19 @@ proxy-groups:
       - 🇺🇲 美国US_10146
       - 🇺🇲 美国US_10147
       - 🇺🇲 美国US_10204
-      - 🇺🇲 美国US_10218
-      - 🇺🇲 美国US_10221
-      - 🇺🇲 美国US_10222
-      - 🇺🇲 美国US_10223
-      - 🇺🇲 美国US_10224
-      - 🇺🇲 美国US_10225
-      - 🇺🇲 美国US_10226
-      - 🇺🇲 美国US_10230
-      - 🇺🇲 美国US_10231
-      - 🇺🇲 美国US_10234
-      - 🇺🇲 美国US_10235
-      - 🇺🇲 美国US_10238
-      - 🇺🇲 美国US_10239
+      - 🇨🇭 瑞士CH_10218
+      - 🇨🇭 瑞士CH_10221
+      - 🇨🇭 瑞士CH_10222
+      - 🇨🇭 瑞士CH_10223
+      - 🇨🇭 瑞士CH_10224
+      - 🇨🇭 瑞士CH_10225
+      - 🇨🇭 瑞士CH_10226
+      - 🇨🇭 瑞士CH_10230
+      - 🇨🇭 瑞士CH_10231
+      - 🇨🇭 瑞士CH_10234
+      - 🇨🇭 瑞士CH_10235
+      - 🇨🇭 瑞士CH_10238
+      - 🇨🇭 瑞士CH_10239
       - 🇺🇲 美国US_10246
       - 🇺🇲 美国US_10247
       - 🇺🇲 美国US_10296
@@ -1201,21 +1201,21 @@ proxy-groups:
       - 🇺🇲 美国US_10670
       - 🇺🇲 美国US_10706
       - 🇺🇲 美国US_10711
-      - 欧洲ZZ_14156
-      - 欧洲ZZ_14158
-      - 欧洲ZZ_14159
-      - 欧洲ZZ_14160
-      - 欧洲ZZ_14162
-      - 欧洲ZZ_14187
-      - 欧洲ZZ_14190
-      - 欧洲ZZ_14243
-      - 欧洲ZZ_14249
-      - 欧洲ZZ_14331
-      - 欧洲ZZ_14335
-      - 欧洲ZZ_14713
-      - 欧洲ZZ_14724
-      - Pool_阿尔巴尼亚AL_96
-      - Pool_阿尔巴尼亚AL_111
+      - 🇪🇺 欧洲EU_14156
+      - 🇪🇺 欧洲EU_14158
+      - 🇪🇺 欧洲EU_14159
+      - 🇪🇺 欧洲EU_14160
+      - 🇪🇺 欧洲EU_14162
+      - 🇪🇺 欧洲EU_14187
+      - 🇪🇺 欧洲EU_14190
+      - 🇪🇺 欧洲EU_14243
+      - 🇪🇺 欧洲EU_14249
+      - 🇪🇺 欧洲EU_14331
+      - 🇪🇺 欧洲EU_14335
+      - 🇪🇺 欧洲EU_14713
+      - 🇪🇺 欧洲EU_14724
+      - Pool_🇦🇱 阿尔巴尼亚AL_96
+      - Pool_🇦🇱 阿尔巴尼亚AL_111
       - 🇮🇩 Pool_印度尼西亚ID_4480
       - 🇮🇹 Pool_意大利IT_5221
       - 🇷🇴 Pool_罗马尼亚RO_8096
@@ -1235,22 +1235,22 @@ proxy-groups:
       - 🇬🇧 英国 GB_33
       - 🇮🇳 印度 IN_43
       - 🇮🇳 印度 IN_44
-      - 立陶宛 LT_50
-      - 立陶宛 LT_51
+      - 立陶宛LT_50
+      - 立陶宛LT_51
       - 🇲🇾 马来西亚 MY_55
       - 🇲🇾 马来西亚 MY_56
-      - 波兰 PL_69
+      - 波兰PL_69
       - 🇷🇴 罗马尼亚 RO_72
       - 🇷🇴 罗马尼亚 RO_76
       - 🇷🇴 罗马尼亚 RO_78
       - 斯洛伐克 SK_90
-      - 乌克兰 UA_91
+      - 乌克兰UA_91
       - 🇺🇲 美国 US_95
       - 🇺🇲 美国 US_96
       - 🇺🇲 美国 US_100
       - 🇺🇲 美国 US_105
-      - 欧洲 ZZ_125
-      - 欧洲 ZZ_126
+      - 🇪🇺 欧洲EU_125
+      - 🇪🇺 欧洲EU_126
       - 🇨🇦 Relay_加拿大CA-加拿大CA_25
       - 🇨🇦 Relay_加拿大CA-加拿大CA_29
       - 🇨🇦 Relay_俄罗斯RU-加拿大CA_259
@@ -1259,8 +1259,8 @@ proxy-groups:
       - 🇺🇲 Pool_美国US_773
       - 波斯尼亚 BA_276
       - 🇪🇸 西班牙 ES_713
-      - 🇬🇧 英国 GB_1055
-      - 🇬🇧 英国 GB_1113
+      - 🇬🇧 英国GB_1055
+      - 🇬🇧 英国GB_1113
       - 匈牙利 HU_1177
       - 以色列 IL_1209
       - 马其顿 MK_1524
@@ -1269,36 +1269,36 @@ proxy-groups:
       - 斯洛伐克 SK_1972
       - 🇺🇲 美国 US_2092
       - 🇺🇲 美国 US_2538
-      - _306 |43.09Mb
-      - _140 |14.67Mb
-      - _143 |12.98Mb
-      - _148 |15.60Mb
-      - _214 |30.93Mb
-      - _229 |13.89Mb
-      - _293 |42.57Mb
-      - _294 |42.22Mb
-      - _295 |42.31Mb
-      - _296 |42.03Mb
-      - _297 |42.58Mb
-      - _298 |42.43Mb
-      - _299 |43.43Mb
-      - _300 |42.53Mb
-      - _301 |42.23Mb
-      - _302 |42.29Mb
-      - _303 |42.81Mb
-      - _304 |42.38Mb
-      - _305 |42.75Mb
-      - _308 |42.45Mb
-      - _309 |23.93Mb
-      - _325 | 7.96Mb
-      - _71 |28.44Mb
-      - _343 |13.44Mb
-      - _352 |42.71Mb
-      - _356 |43.05Mb
-      - _357 |24.93Mb
-      - _964 |33.68Mb
-      - _1021 |25.47Mb
-      - _1109 |20.08Mb
+      - 🇨🇭 瑞士CH_306 |43.09Mb
+      - 🇷🇴 罗马尼亚RO_140 |14.67Mb
+      - 🇷🇴 罗马尼亚RO_143 |12.98Mb
+      - 🇷🇴 罗马尼亚RO_148 |15.60Mb
+      - 巴基斯坦PK_214 |30.93Mb
+      - 🇬🇧 英国GB_229 |13.89Mb
+      - 🇨🇭 瑞士CH_293 |42.57Mb
+      - 🇨🇭 瑞士CH_294 |42.22Mb
+      - 🇨🇭 瑞士CH_295 |42.31Mb
+      - 🇨🇭 瑞士CH_296 |42.03Mb
+      - 🇨🇭 瑞士CH_297 |42.58Mb
+      - 🇨🇭 瑞士CH_298 |42.43Mb
+      - 🇨🇭 瑞士CH_299 |43.43Mb
+      - 🇨🇭 瑞士CH_300 |42.53Mb
+      - 🇨🇭 瑞士CH_301 |42.23Mb
+      - 🇨🇭 瑞士CH_302 |42.29Mb
+      - 🇨🇭 瑞士CH_303 |42.81Mb
+      - 🇨🇭 瑞士CH_304 |42.38Mb
+      - 🇨🇭 瑞士CH_305 |42.75Mb
+      - 🇨🇭 瑞士CH_308 |42.45Mb
+      - 比利时_309 |23.93Mb
+      - 克罗地亚_325 | 7.96Mb
+      - 巴基斯坦PK_71 |28.44Mb
+      - 🇬🇧 英国GB343 |13.44Mb
+      - 阿尔巴尼亚AL_352 |42.71Mb
+      - 波黑_356 |43.05Mb
+      - 🇦🇺 澳大利亚AU_357 |24.93Mb
+      - 阿塞拜疆_964 |33.68Mb
+      - 🇷🇴 罗马尼亚RO_1021 |25.47Mb
+      - 🇷🇺 俄罗斯RU_1109 |20.08Mb
       - 阿尔巴尼亚AL_1150 |46.66Mb
       - 阿尔巴尼亚AL_1179 |46.30Mb
       - 🇦🇹 奥地利AT_1263 |50.92Mb
@@ -1428,7 +1428,7 @@ proxy-groups:
       - 🇷🇺 俄罗斯RU_8746
       - 🇷🇺 俄罗斯RU_8755
       - 斯洛文尼亚SI_8984
-      - 乌克兰 UA_9231
+      - 乌克兰UA_9231
       - 乌克兰UA_9323
       - 乌克兰UA_9309
       - 乌克兰UA_9302
@@ -1642,19 +1642,6 @@ proxy-groups:
       - 🇺🇲 美国US_10146
       - 🇺🇲 美国US_10147
       - 🇺🇲 美国US_10204
-      - 🇺🇲 美国US_10218
-      - 🇺🇲 美国US_10221
-      - 🇺🇲 美国US_10222
-      - 🇺🇲 美国US_10223
-      - 🇺🇲 美国US_10224
-      - 🇺🇲 美国US_10225
-      - 🇺🇲 美国US_10226
-      - 🇺🇲 美国US_10230
-      - 🇺🇲 美国US_10231
-      - 🇺🇲 美国US_10234
-      - 🇺🇲 美国US_10235
-      - 🇺🇲 美国US_10238
-      - 🇺🇲 美国US_10239
       - 🇺🇲 美国US_10246
       - 🇺🇲 美国US_10247
       - 🇺🇲 美国US_10296
