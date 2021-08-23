@@ -5,6 +5,91 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
+  - {name: 🇨🇳 bob16vip.com-SSR-中国厦门1, server: 120.41.41.56, port: 45679, type: ss, cipher: aes-256-cfb, password: LwF5nV}
+  - {name: 🇨🇳 bob16vip.com-SSR-中国厦门2, server: 120.41.41.215, port: 45679, type: ss, cipher: aes-256-cfb, password: LwF5nV}
+  - {name: 🇨🇳 bob16vip.com-SSR-中国江苏1, server: 43.248.135.10, port: 45679, type: ss, cipher: aes-256-cfb, password: LwF5nV}
+  - {name: 🇨🇳 bob16vip.com-SSR-中国江苏2, server: 43.248.135.101, port: 45679, type: ss, cipher: aes-256-cfb, password: LwF5nV}
+  - {name: 🇨🇳 bob16vip.com-SSR-海外专用-台湾, server: 212.115.54.195, port: 45679, type: ss, cipher: aes-256-cfb, password: LwF5nV}
+  - {name: 🇺🇲 bob16vip.com-SSR-海外专用-美国1, server: 216.127.187.109, port: 45679, type: ss, cipher: aes-256-cfb, password: LwF5nV}
+  - {name: 🇬🇧 bob16vip.com-SSR-海外专用-英国1, server: 146.70.31.140, port: 45679, type: ss, cipher: aes-256-cfb, password: LwF5nV}
+  - {name: 🇭🇰 bob16vip.com-SSR-香港1, server: 103.200.28.66, port: 45679, type: ss, cipher: aes-256-cfb, password: LwF5nV}
+  - {name: 🇭🇰 bob16vip.com-SSR-香港2, server: 103.115.67.147, port: 45679, type: ss, cipher: aes-256-cfb, password: LwF5nV}
+  - {name: 🇭🇰 bob16vip.com-SSR-香港3, server: 103.200.28.73, port: 45679, type: ss, cipher: aes-256-cfb, password: LwF5nV}
+  - {name: 🇭🇰 bob16vip.com-SSR-香港4, server: 103.200.28.116, port: 45679, type: ss, cipher: aes-256-cfb, password: LwF5nV}
+  - {name: 🇭🇰 bob16vip.com-SSR-香港5, server: 103.115.67.188, port: 45679, type: ss, cipher: aes-256-cfb, password: LwF5nV}
+  - {name: 🇭🇰 bob16vip.com-SSR-香港6, server: 103.115.67.145, port: 45679, type: ss, cipher: aes-256-cfb, password: LwF5nV}
+  - {name: 🇭🇰 bob16vip.com-SSR-香港7, server: 103.115.67.128, port: 45679, type: ss, cipher: aes-256-cfb, password: LwF5nV}
+  - {name: 🇭🇰 bob16vip.com-SSR-香港8, server: 103.200.28.84, port: 45679, type: ss, cipher: aes-256-cfb, password: LwF5nV}
+  - {name: 发现偷奈飞的机场举报有奖, server: hkt.dx.wtf, port: 9999, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: hkt.dx.wtf}}
+  - {name: 本站地址 https://gfwservice.xyz, server: hkt.dx.wtf, port: 9999, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: hkt.dx.wtf}}
+  - {name: 客服邮箱 erdongzou@gmail.com, server: hkt.dx.wtf, port: 9999, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: hkt.dx.wtf}}
+  - {name: 电报群 t.me/gfwservice_speak, server: hkt.dx.wtf, port: 9999, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: hkt.dx.wtf}}
+  - {name: "NF: aszlatsqnt@hotmail.com---413123", server: hkt.dx.wtf, port: 9999, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: hkt.dx.wtf}}
+  - {name: "DSY: vimartiowhide@mail.com---vi123456", server: hkt.dx.wtf, port: 9999, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: hkt.dx.wtf}}
+  - {name: "🇭🇰 [NAT/IPLC/深港] 香港游戏线路 只能游戏 ss 30x", server: iplchk3.zjcu.xyz, port: 56995, type: ss, cipher: chacha20-ietf-poly1305, password: a2d613c4-4058-4ae4-9b18-d2810cc2d06e}
+  - {name: "🇭🇰 [NAT/腾讯云] 香港负载均衡 3x 80端口", server: hk.ykmbbs.top, port: 80, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: hk.ykmbbs.top}}
+  - {name: "🇺🇲 [NAT/腾讯云] 美国负载均衡 3x 80端口", server: us.ykmbbs.top, port: 80, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: us.ykmbbs.top}}
+  - {name: "🇸🇬 [NAT/腾讯云] 新加坡负载均衡 3x 80端口", server: sg.ykmbbs.top, port: 80, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: sg.ykmbbs.top}}
+  - {name: "🇨🇳 [NAT/腾讯云] 其他地区负载均衡 3x 80端口", server: others.ykmbbs.top, port: 80, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: others.ykmbbs.top}}
+  - {name: "🇭🇰 [NAT/上海] 香港主力 啥都能解锁", server: sh.lt.nkeo.top, port: 25080, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: sh.lt.nkeo.top}}
+  - {name: "🇭🇰 [NAT/江门] 香港主力 啥都能解锁", server: jm001.gfwservice.xyz, port: 34158, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇭🇰 [NAT/江门] 香港1 特别快", server: jm001.gfwservice.xyz, port: 64683, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇭🇰 [NAT/江门] 香港2 原生ip", server: jm001.gfwservice.xyz, port: 20120, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇭🇰 [NAT/江门] 香港3", server: jm001.gfwservice.xyz, port: 25731, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇭🇰 [NAT/江门] 香港4 2x", server: jm001.gfwservice.xyz, port: 28831, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇭🇰 [NAT/江门] 香港5 2x", server: jm001.gfwservice.xyz, port: 30266, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇭🇰 [NAT/江门] 香港6 1M小水管", server: jm001.gfwservice.xyz, port: 53255, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇨🇳 [NAT/上海] 台湾 原生", server: sh.lt.nkeo.top, port: 25084, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: sh.lt.nkeo.top}}
+  - {name: "🇨🇳 [NAT/江门] 台湾 原生", server: jm001.gfwservice.xyz, port: 61017, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇨🇳 [NAT/江门] 台湾", server: jm001.gfwservice.xyz, port: 39965, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇰🇷 [NAT/江门] 韩国1 2x", server: jm001.gfwservice.xyz, port: 35907, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇧🇷 [NAT/江门] 巴西", server: jm001.gfwservice.xyz, port: 44160, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇯🇵 [NAT/上海] 日本原生 主力 可解流媒体", server: sh.lt.nkeo.top, port: 25088, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: sh.lt.nkeo.top}}
+  - {name: "🇯🇵 [NAT/江门] 日本原生 主力 可解流媒体", server: jm001.gfwservice.xyz, port: 29009, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇯🇵 [NAT/江门] 日本1", server: jm001.gfwservice.xyz, port: 19953, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇸🇬 [NAT/江门] 新加坡1", server: jm001.gfwservice.xyz, port: 29803, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇸🇬 [NAT/江门] 新加坡2 原生ip", server: jm001.gfwservice.xyz, port: 60780, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇺🇲 [NAT/江门] 美国2 3x", server: jm001.gfwservice.xyz, port: 32583, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇺🇲 [NAT/江门] 美国4 原生ip", server: jm001.gfwservice.xyz, port: 44332, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇺🇲 [NAT/江门] 美国5", server: jm001.gfwservice.xyz, port: 25358, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇬🇧 [NAT/江门] 英国 BBC", server: jm001.gfwservice.xyz, port: 47175, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇬🇧 [NAT/上海] 英国 原生ip", server: sh.lt.nkeo.top, port: 25102, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: sh.lt.nkeo.top}}
+  - {name: "🇬🇧 [NAT/江门] 英国 原生ip", server: jm001.gfwservice.xyz, port: 24348, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇮🇳 [NAT/江门] 印度", server: jm001.gfwservice.xyz, port: 29812, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇵🇭 [NAT/江门] 菲律宾", server: jm001.gfwservice.xyz, port: 19932, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇵🇭 [NAT/江门] 菲律宾2", server: jm001.gfwservice.xyz, port: 19965, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇻🇳 [NAT/江门] 越南", server: jm001.gfwservice.xyz, port: 19967, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇹🇭 [NAT/江门] 泰国", server: jm001.gfwservice.xyz, port: 19971, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇩🇪 [NAT/江门] 德国2", server: jm001.gfwservice.xyz, port: 19970, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jm001.gfwservice.xyz}}
+  - {name: "🇭🇰 [直连] 香港 主力 真原生 啥都能解", server: hkt.dx.wtf, port: 9999, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: hkt.dx.wtf}}
+  - {name: "🇭🇰 [直连] 香港1 特别快 80端口", server: azhk.gfwservice.xyz, port: 80, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: azhk.gfwservice.xyz}}
+  - {name: "🇭🇰 [直连] 香港2 HGC 原生 解锁流媒体", server: hgchgc1.yyyywe.top, port: 10120, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: hgchgc1.yyyywe.top}}
+  - {name: "🇭🇰 [直连] 香港3", server: 18.162.143.33, port: 8888, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 18.162.143.33}}
+  - {name: "🇭🇰 [直连] 香港4 30M 游戏线路", server: 43.132.205.59, port: 21888, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 43.132.205.59}}
+  - {name: "🇭🇰 [直连] 香港5 30M 游戏线路", server: 124.156.153.15, port: 21888, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 124.156.153.15}}
+  - {name: "🇭🇰 [直连] 香港6 1M 80端口", server: 8.210.55.79, port: 80, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 8.210.55.79}}
+  - {name: "🇭🇰 [直连] 香港8 游戏线路 ss 30x", server: 101.32.26.213, port: 21888, type: ss, cipher: chacha20-ietf-poly1305, password: a2d613c4-4058-4ae4-9b18-d2810cc2d06e}
+  - {name: "🇨🇳 [直连] 台湾 谷歌云 80端口", server: 35.201.162.110, port: 80, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 35.201.162.110}}
+  - {name: "🇨🇳 [直连] 台湾 Netflix(TW) 原生", server: twns0803.mooncloud.top, port: 11061, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: twns0803.mooncloud.top}}
+  - {name: "🇰🇷 [直连] 韩国1", server: 13.124.14.99, port: 8888, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 13.124.14.99}}
+  - {name: "🇧🇷 [直连] 巴西 0.5x", server: 54.207.130.97, port: 8888, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 54.207.130.97}}
+  - {name: "🇯🇵 [直连] 日本原生 主力 可解流媒体", server: 18.162.42.182, port: 21888, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 18.162.42.182}}
+  - {name: "🇯🇵 [直连] 日本1", server: 165.154.231.107, port: 9999, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 165.154.231.107}}
+  - {name: "🇸🇬 [直连] 新加坡1", server: 165.22.61.210, port: 21888, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 165.22.61.210}}
+  - {name: "🇸🇬 [直连] 新加坡2 Netflix(SG)", server: 103.83.156.89, port: 21888, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 103.83.156.89}}
+  - {name: "🇸🇬 [直连] 新加坡3 aws game ss 0x", server: 54.254.45.125, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: a2d613c4-4058-4ae4-9b18-d2810cc2d06e}
+  - {name: "🇺🇲 [直连] 美国2 三网优秀 80端口 3x", server: 45.135.116.45, port: 80, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 45.135.116.45}}
+  - {name: "🇺🇲 [直连] 美国4 原生ip", server: 18.236.146.125, port: 21888, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 18.236.146.125}}
+  - {name: "🇺🇲 [直连] 美国5", server: 18.236.146.125, port: 8888, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 18.236.146.125}}
+  - {name: "🇬🇧 [直连] 英国 BBC", server: 46.101.28.98, port: 8888, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 46.101.28.98}}
+  - {name: "🇬🇧 [直连] 英国 原生ip", server: 3.122.94.12, port: 21888, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 3.122.94.12}}
+  - {name: "🇮🇳 [直连] 印度", server: 13.233.139.203, port: 8888, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 13.233.139.203}}
+  - {name: "🇵🇭 [直连] 菲律宾", server: 165.154.233.134, port: 21888, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 165.154.233.134}}
+  - {name: "🇵🇭 [直连] 菲律宾2", server: 165.154.233.144, port: 21888, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 165.154.233.144}}
+  - {name: "🇻🇳 [直连] 越南", server: 165.154.229.136, port: 21888, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 165.154.229.136}}
+  - {name: "🇹🇭 [直连] 泰国", server: 165.154.232.125, port: 9999, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 165.154.232.125}}
+  - {name: "🇩🇪 [直连] 德国柏林 ipv6 only", server: 2a02:0180:0006:0001:0000:0000:0000:4521, port: 8888, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 2a02:0180:0006:0001:0000:0000:0000:4521}}
+  - {name: "🇩🇪 [直连] 德国2", server: 3.122.94.12, port: 8888, type: vmess, uuid: a2d613c4-4058-4ae4-9b18-d2810cc2d06e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 3.122.94.12}}
   - {name: 🇭🇰 HongKong06, server: 18.162.48.33, port: 80, type: vmess, uuid: 967bb273-3981-4849-9eee-2e52a70b7c95, alterId: 0, cipher: auto, tls: false}
   - {name: 🇭🇰 HongKong07, server: 18.162.48.33, port: 80, type: vmess, uuid: 967bb273-3981-4849-9eee-2e52a70b7c95, alterId: 0, cipher: auto, tls: false}
   - {name: 🇯🇵 Japan01, server: 13.112.36.10, port: 80, type: vmess, uuid: 967bb273-3981-4849-9eee-2e52a70b7c95, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 13.112.36.10}}
@@ -70,6 +155,91 @@ proxy-groups:
   - name: 🚀 手动切换
     type: select
     proxies:
+      - 🇨🇳 bob16vip.com-SSR-中国厦门1
+      - 🇨🇳 bob16vip.com-SSR-中国厦门2
+      - 🇨🇳 bob16vip.com-SSR-中国江苏1
+      - 🇨🇳 bob16vip.com-SSR-中国江苏2
+      - 🇨🇳 bob16vip.com-SSR-海外专用-台湾
+      - 🇺🇲 bob16vip.com-SSR-海外专用-美国1
+      - 🇬🇧 bob16vip.com-SSR-海外专用-英国1
+      - 🇭🇰 bob16vip.com-SSR-香港1
+      - 🇭🇰 bob16vip.com-SSR-香港2
+      - 🇭🇰 bob16vip.com-SSR-香港3
+      - 🇭🇰 bob16vip.com-SSR-香港4
+      - 🇭🇰 bob16vip.com-SSR-香港5
+      - 🇭🇰 bob16vip.com-SSR-香港6
+      - 🇭🇰 bob16vip.com-SSR-香港7
+      - 🇭🇰 bob16vip.com-SSR-香港8
+      - 发现偷奈飞的机场举报有奖
+      - 本站地址 https://gfwservice.xyz
+      - 客服邮箱 erdongzou@gmail.com
+      - 电报群 t.me/gfwservice_speak
+      - "NF: aszlatsqnt@hotmail.com---413123"
+      - "DSY: vimartiowhide@mail.com---vi123456"
+      - 🇭🇰 [NAT/IPLC/深港] 香港游戏线路 只能游戏 ss 30x
+      - 🇭🇰 [NAT/腾讯云] 香港负载均衡 3x 80端口
+      - 🇺🇲 [NAT/腾讯云] 美国负载均衡 3x 80端口
+      - 🇸🇬 [NAT/腾讯云] 新加坡负载均衡 3x 80端口
+      - 🇨🇳 [NAT/腾讯云] 其他地区负载均衡 3x 80端口
+      - 🇭🇰 [NAT/上海] 香港主力 啥都能解锁
+      - 🇭🇰 [NAT/江门] 香港主力 啥都能解锁
+      - 🇭🇰 [NAT/江门] 香港1 特别快
+      - 🇭🇰 [NAT/江门] 香港2 原生ip
+      - 🇭🇰 [NAT/江门] 香港3
+      - 🇭🇰 [NAT/江门] 香港4 2x
+      - 🇭🇰 [NAT/江门] 香港5 2x
+      - 🇭🇰 [NAT/江门] 香港6 1M小水管
+      - 🇨🇳 [NAT/上海] 台湾 原生
+      - 🇨🇳 [NAT/江门] 台湾 原生
+      - 🇨🇳 [NAT/江门] 台湾
+      - 🇰🇷 [NAT/江门] 韩国1 2x
+      - 🇧🇷 [NAT/江门] 巴西
+      - 🇯🇵 [NAT/上海] 日本原生 主力 可解流媒体
+      - 🇯🇵 [NAT/江门] 日本原生 主力 可解流媒体
+      - 🇯🇵 [NAT/江门] 日本1
+      - 🇸🇬 [NAT/江门] 新加坡1
+      - 🇸🇬 [NAT/江门] 新加坡2 原生ip
+      - 🇺🇲 [NAT/江门] 美国2 3x
+      - 🇺🇲 [NAT/江门] 美国4 原生ip
+      - 🇺🇲 [NAT/江门] 美国5
+      - 🇬🇧 [NAT/江门] 英国 BBC
+      - 🇬🇧 [NAT/上海] 英国 原生ip
+      - 🇬🇧 [NAT/江门] 英国 原生ip
+      - 🇮🇳 [NAT/江门] 印度
+      - 🇵🇭 [NAT/江门] 菲律宾
+      - 🇵🇭 [NAT/江门] 菲律宾2
+      - 🇻🇳 [NAT/江门] 越南
+      - 🇹🇭 [NAT/江门] 泰国
+      - 🇩🇪 [NAT/江门] 德国2
+      - 🇭🇰 [直连] 香港 主力 真原生 啥都能解
+      - 🇭🇰 [直连] 香港1 特别快 80端口
+      - 🇭🇰 [直连] 香港2 HGC 原生 解锁流媒体
+      - 🇭🇰 [直连] 香港3
+      - 🇭🇰 [直连] 香港4 30M 游戏线路
+      - 🇭🇰 [直连] 香港5 30M 游戏线路
+      - 🇭🇰 [直连] 香港6 1M 80端口
+      - 🇭🇰 [直连] 香港8 游戏线路 ss 30x
+      - 🇨🇳 [直连] 台湾 谷歌云 80端口
+      - 🇨🇳 [直连] 台湾 Netflix(TW) 原生
+      - 🇰🇷 [直连] 韩国1
+      - 🇧🇷 [直连] 巴西 0.5x
+      - 🇯🇵 [直连] 日本原生 主力 可解流媒体
+      - 🇯🇵 [直连] 日本1
+      - 🇸🇬 [直连] 新加坡1
+      - 🇸🇬 [直连] 新加坡2 Netflix(SG)
+      - 🇸🇬 [直连] 新加坡3 aws game ss 0x
+      - 🇺🇲 [直连] 美国2 三网优秀 80端口 3x
+      - 🇺🇲 [直连] 美国4 原生ip
+      - 🇺🇲 [直连] 美国5
+      - 🇬🇧 [直连] 英国 BBC
+      - 🇬🇧 [直连] 英国 原生ip
+      - 🇮🇳 [直连] 印度
+      - 🇵🇭 [直连] 菲律宾
+      - 🇵🇭 [直连] 菲律宾2
+      - 🇻🇳 [直连] 越南
+      - 🇹🇭 [直连] 泰国
+      - 🇩🇪 [直连] 德国柏林 ipv6 only
+      - 🇩🇪 [直连] 德国2
       - 🇭🇰 HongKong06
       - 🇭🇰 HongKong07
       - 🇯🇵 Japan01
@@ -123,6 +293,91 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - 🇨🇳 bob16vip.com-SSR-中国厦门1
+      - 🇨🇳 bob16vip.com-SSR-中国厦门2
+      - 🇨🇳 bob16vip.com-SSR-中国江苏1
+      - 🇨🇳 bob16vip.com-SSR-中国江苏2
+      - 🇨🇳 bob16vip.com-SSR-海外专用-台湾
+      - 🇺🇲 bob16vip.com-SSR-海外专用-美国1
+      - 🇬🇧 bob16vip.com-SSR-海外专用-英国1
+      - 🇭🇰 bob16vip.com-SSR-香港1
+      - 🇭🇰 bob16vip.com-SSR-香港2
+      - 🇭🇰 bob16vip.com-SSR-香港3
+      - 🇭🇰 bob16vip.com-SSR-香港4
+      - 🇭🇰 bob16vip.com-SSR-香港5
+      - 🇭🇰 bob16vip.com-SSR-香港6
+      - 🇭🇰 bob16vip.com-SSR-香港7
+      - 🇭🇰 bob16vip.com-SSR-香港8
+      - 发现偷奈飞的机场举报有奖
+      - 本站地址 https://gfwservice.xyz
+      - 客服邮箱 erdongzou@gmail.com
+      - 电报群 t.me/gfwservice_speak
+      - "NF: aszlatsqnt@hotmail.com---413123"
+      - "DSY: vimartiowhide@mail.com---vi123456"
+      - 🇭🇰 [NAT/IPLC/深港] 香港游戏线路 只能游戏 ss 30x
+      - 🇭🇰 [NAT/腾讯云] 香港负载均衡 3x 80端口
+      - 🇺🇲 [NAT/腾讯云] 美国负载均衡 3x 80端口
+      - 🇸🇬 [NAT/腾讯云] 新加坡负载均衡 3x 80端口
+      - 🇨🇳 [NAT/腾讯云] 其他地区负载均衡 3x 80端口
+      - 🇭🇰 [NAT/上海] 香港主力 啥都能解锁
+      - 🇭🇰 [NAT/江门] 香港主力 啥都能解锁
+      - 🇭🇰 [NAT/江门] 香港1 特别快
+      - 🇭🇰 [NAT/江门] 香港2 原生ip
+      - 🇭🇰 [NAT/江门] 香港3
+      - 🇭🇰 [NAT/江门] 香港4 2x
+      - 🇭🇰 [NAT/江门] 香港5 2x
+      - 🇭🇰 [NAT/江门] 香港6 1M小水管
+      - 🇨🇳 [NAT/上海] 台湾 原生
+      - 🇨🇳 [NAT/江门] 台湾 原生
+      - 🇨🇳 [NAT/江门] 台湾
+      - 🇰🇷 [NAT/江门] 韩国1 2x
+      - 🇧🇷 [NAT/江门] 巴西
+      - 🇯🇵 [NAT/上海] 日本原生 主力 可解流媒体
+      - 🇯🇵 [NAT/江门] 日本原生 主力 可解流媒体
+      - 🇯🇵 [NAT/江门] 日本1
+      - 🇸🇬 [NAT/江门] 新加坡1
+      - 🇸🇬 [NAT/江门] 新加坡2 原生ip
+      - 🇺🇲 [NAT/江门] 美国2 3x
+      - 🇺🇲 [NAT/江门] 美国4 原生ip
+      - 🇺🇲 [NAT/江门] 美国5
+      - 🇬🇧 [NAT/江门] 英国 BBC
+      - 🇬🇧 [NAT/上海] 英国 原生ip
+      - 🇬🇧 [NAT/江门] 英国 原生ip
+      - 🇮🇳 [NAT/江门] 印度
+      - 🇵🇭 [NAT/江门] 菲律宾
+      - 🇵🇭 [NAT/江门] 菲律宾2
+      - 🇻🇳 [NAT/江门] 越南
+      - 🇹🇭 [NAT/江门] 泰国
+      - 🇩🇪 [NAT/江门] 德国2
+      - 🇭🇰 [直连] 香港 主力 真原生 啥都能解
+      - 🇭🇰 [直连] 香港1 特别快 80端口
+      - 🇭🇰 [直连] 香港2 HGC 原生 解锁流媒体
+      - 🇭🇰 [直连] 香港3
+      - 🇭🇰 [直连] 香港4 30M 游戏线路
+      - 🇭🇰 [直连] 香港5 30M 游戏线路
+      - 🇭🇰 [直连] 香港6 1M 80端口
+      - 🇭🇰 [直连] 香港8 游戏线路 ss 30x
+      - 🇨🇳 [直连] 台湾 谷歌云 80端口
+      - 🇨🇳 [直连] 台湾 Netflix(TW) 原生
+      - 🇰🇷 [直连] 韩国1
+      - 🇧🇷 [直连] 巴西 0.5x
+      - 🇯🇵 [直连] 日本原生 主力 可解流媒体
+      - 🇯🇵 [直连] 日本1
+      - 🇸🇬 [直连] 新加坡1
+      - 🇸🇬 [直连] 新加坡2 Netflix(SG)
+      - 🇸🇬 [直连] 新加坡3 aws game ss 0x
+      - 🇺🇲 [直连] 美国2 三网优秀 80端口 3x
+      - 🇺🇲 [直连] 美国4 原生ip
+      - 🇺🇲 [直连] 美国5
+      - 🇬🇧 [直连] 英国 BBC
+      - 🇬🇧 [直连] 英国 原生ip
+      - 🇮🇳 [直连] 印度
+      - 🇵🇭 [直连] 菲律宾
+      - 🇵🇭 [直连] 菲律宾2
+      - 🇻🇳 [直连] 越南
+      - 🇹🇭 [直连] 泰国
+      - 🇩🇪 [直连] 德国柏林 ipv6 only
+      - 🇩🇪 [直连] 德国2
       - 🇭🇰 HongKong06
       - 🇭🇰 HongKong07
       - 🇯🇵 Japan01
@@ -176,6 +431,91 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - 🇨🇳 bob16vip.com-SSR-中国厦门1
+      - 🇨🇳 bob16vip.com-SSR-中国厦门2
+      - 🇨🇳 bob16vip.com-SSR-中国江苏1
+      - 🇨🇳 bob16vip.com-SSR-中国江苏2
+      - 🇨🇳 bob16vip.com-SSR-海外专用-台湾
+      - 🇺🇲 bob16vip.com-SSR-海外专用-美国1
+      - 🇬🇧 bob16vip.com-SSR-海外专用-英国1
+      - 🇭🇰 bob16vip.com-SSR-香港1
+      - 🇭🇰 bob16vip.com-SSR-香港2
+      - 🇭🇰 bob16vip.com-SSR-香港3
+      - 🇭🇰 bob16vip.com-SSR-香港4
+      - 🇭🇰 bob16vip.com-SSR-香港5
+      - 🇭🇰 bob16vip.com-SSR-香港6
+      - 🇭🇰 bob16vip.com-SSR-香港7
+      - 🇭🇰 bob16vip.com-SSR-香港8
+      - 发现偷奈飞的机场举报有奖
+      - 本站地址 https://gfwservice.xyz
+      - 客服邮箱 erdongzou@gmail.com
+      - 电报群 t.me/gfwservice_speak
+      - "NF: aszlatsqnt@hotmail.com---413123"
+      - "DSY: vimartiowhide@mail.com---vi123456"
+      - 🇭🇰 [NAT/IPLC/深港] 香港游戏线路 只能游戏 ss 30x
+      - 🇭🇰 [NAT/腾讯云] 香港负载均衡 3x 80端口
+      - 🇺🇲 [NAT/腾讯云] 美国负载均衡 3x 80端口
+      - 🇸🇬 [NAT/腾讯云] 新加坡负载均衡 3x 80端口
+      - 🇨🇳 [NAT/腾讯云] 其他地区负载均衡 3x 80端口
+      - 🇭🇰 [NAT/上海] 香港主力 啥都能解锁
+      - 🇭🇰 [NAT/江门] 香港主力 啥都能解锁
+      - 🇭🇰 [NAT/江门] 香港1 特别快
+      - 🇭🇰 [NAT/江门] 香港2 原生ip
+      - 🇭🇰 [NAT/江门] 香港3
+      - 🇭🇰 [NAT/江门] 香港4 2x
+      - 🇭🇰 [NAT/江门] 香港5 2x
+      - 🇭🇰 [NAT/江门] 香港6 1M小水管
+      - 🇨🇳 [NAT/上海] 台湾 原生
+      - 🇨🇳 [NAT/江门] 台湾 原生
+      - 🇨🇳 [NAT/江门] 台湾
+      - 🇰🇷 [NAT/江门] 韩国1 2x
+      - 🇧🇷 [NAT/江门] 巴西
+      - 🇯🇵 [NAT/上海] 日本原生 主力 可解流媒体
+      - 🇯🇵 [NAT/江门] 日本原生 主力 可解流媒体
+      - 🇯🇵 [NAT/江门] 日本1
+      - 🇸🇬 [NAT/江门] 新加坡1
+      - 🇸🇬 [NAT/江门] 新加坡2 原生ip
+      - 🇺🇲 [NAT/江门] 美国2 3x
+      - 🇺🇲 [NAT/江门] 美国4 原生ip
+      - 🇺🇲 [NAT/江门] 美国5
+      - 🇬🇧 [NAT/江门] 英国 BBC
+      - 🇬🇧 [NAT/上海] 英国 原生ip
+      - 🇬🇧 [NAT/江门] 英国 原生ip
+      - 🇮🇳 [NAT/江门] 印度
+      - 🇵🇭 [NAT/江门] 菲律宾
+      - 🇵🇭 [NAT/江门] 菲律宾2
+      - 🇻🇳 [NAT/江门] 越南
+      - 🇹🇭 [NAT/江门] 泰国
+      - 🇩🇪 [NAT/江门] 德国2
+      - 🇭🇰 [直连] 香港 主力 真原生 啥都能解
+      - 🇭🇰 [直连] 香港1 特别快 80端口
+      - 🇭🇰 [直连] 香港2 HGC 原生 解锁流媒体
+      - 🇭🇰 [直连] 香港3
+      - 🇭🇰 [直连] 香港4 30M 游戏线路
+      - 🇭🇰 [直连] 香港5 30M 游戏线路
+      - 🇭🇰 [直连] 香港6 1M 80端口
+      - 🇭🇰 [直连] 香港8 游戏线路 ss 30x
+      - 🇨🇳 [直连] 台湾 谷歌云 80端口
+      - 🇨🇳 [直连] 台湾 Netflix(TW) 原生
+      - 🇰🇷 [直连] 韩国1
+      - 🇧🇷 [直连] 巴西 0.5x
+      - 🇯🇵 [直连] 日本原生 主力 可解流媒体
+      - 🇯🇵 [直连] 日本1
+      - 🇸🇬 [直连] 新加坡1
+      - 🇸🇬 [直连] 新加坡2 Netflix(SG)
+      - 🇸🇬 [直连] 新加坡3 aws game ss 0x
+      - 🇺🇲 [直连] 美国2 三网优秀 80端口 3x
+      - 🇺🇲 [直连] 美国4 原生ip
+      - 🇺🇲 [直连] 美国5
+      - 🇬🇧 [直连] 英国 BBC
+      - 🇬🇧 [直连] 英国 原生ip
+      - 🇮🇳 [直连] 印度
+      - 🇵🇭 [直连] 菲律宾
+      - 🇵🇭 [直连] 菲律宾2
+      - 🇻🇳 [直连] 越南
+      - 🇹🇭 [直连] 泰国
+      - 🇩🇪 [直连] 德国柏林 ipv6 only
+      - 🇩🇪 [直连] 德国2
       - 🇭🇰 HongKong06
       - 🇭🇰 HongKong07
       - 🇯🇵 Japan01
@@ -229,6 +569,91 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - 🇨🇳 bob16vip.com-SSR-中国厦门1
+      - 🇨🇳 bob16vip.com-SSR-中国厦门2
+      - 🇨🇳 bob16vip.com-SSR-中国江苏1
+      - 🇨🇳 bob16vip.com-SSR-中国江苏2
+      - 🇨🇳 bob16vip.com-SSR-海外专用-台湾
+      - 🇺🇲 bob16vip.com-SSR-海外专用-美国1
+      - 🇬🇧 bob16vip.com-SSR-海外专用-英国1
+      - 🇭🇰 bob16vip.com-SSR-香港1
+      - 🇭🇰 bob16vip.com-SSR-香港2
+      - 🇭🇰 bob16vip.com-SSR-香港3
+      - 🇭🇰 bob16vip.com-SSR-香港4
+      - 🇭🇰 bob16vip.com-SSR-香港5
+      - 🇭🇰 bob16vip.com-SSR-香港6
+      - 🇭🇰 bob16vip.com-SSR-香港7
+      - 🇭🇰 bob16vip.com-SSR-香港8
+      - 发现偷奈飞的机场举报有奖
+      - 本站地址 https://gfwservice.xyz
+      - 客服邮箱 erdongzou@gmail.com
+      - 电报群 t.me/gfwservice_speak
+      - "NF: aszlatsqnt@hotmail.com---413123"
+      - "DSY: vimartiowhide@mail.com---vi123456"
+      - 🇭🇰 [NAT/IPLC/深港] 香港游戏线路 只能游戏 ss 30x
+      - 🇭🇰 [NAT/腾讯云] 香港负载均衡 3x 80端口
+      - 🇺🇲 [NAT/腾讯云] 美国负载均衡 3x 80端口
+      - 🇸🇬 [NAT/腾讯云] 新加坡负载均衡 3x 80端口
+      - 🇨🇳 [NAT/腾讯云] 其他地区负载均衡 3x 80端口
+      - 🇭🇰 [NAT/上海] 香港主力 啥都能解锁
+      - 🇭🇰 [NAT/江门] 香港主力 啥都能解锁
+      - 🇭🇰 [NAT/江门] 香港1 特别快
+      - 🇭🇰 [NAT/江门] 香港2 原生ip
+      - 🇭🇰 [NAT/江门] 香港3
+      - 🇭🇰 [NAT/江门] 香港4 2x
+      - 🇭🇰 [NAT/江门] 香港5 2x
+      - 🇭🇰 [NAT/江门] 香港6 1M小水管
+      - 🇨🇳 [NAT/上海] 台湾 原生
+      - 🇨🇳 [NAT/江门] 台湾 原生
+      - 🇨🇳 [NAT/江门] 台湾
+      - 🇰🇷 [NAT/江门] 韩国1 2x
+      - 🇧🇷 [NAT/江门] 巴西
+      - 🇯🇵 [NAT/上海] 日本原生 主力 可解流媒体
+      - 🇯🇵 [NAT/江门] 日本原生 主力 可解流媒体
+      - 🇯🇵 [NAT/江门] 日本1
+      - 🇸🇬 [NAT/江门] 新加坡1
+      - 🇸🇬 [NAT/江门] 新加坡2 原生ip
+      - 🇺🇲 [NAT/江门] 美国2 3x
+      - 🇺🇲 [NAT/江门] 美国4 原生ip
+      - 🇺🇲 [NAT/江门] 美国5
+      - 🇬🇧 [NAT/江门] 英国 BBC
+      - 🇬🇧 [NAT/上海] 英国 原生ip
+      - 🇬🇧 [NAT/江门] 英国 原生ip
+      - 🇮🇳 [NAT/江门] 印度
+      - 🇵🇭 [NAT/江门] 菲律宾
+      - 🇵🇭 [NAT/江门] 菲律宾2
+      - 🇻🇳 [NAT/江门] 越南
+      - 🇹🇭 [NAT/江门] 泰国
+      - 🇩🇪 [NAT/江门] 德国2
+      - 🇭🇰 [直连] 香港 主力 真原生 啥都能解
+      - 🇭🇰 [直连] 香港1 特别快 80端口
+      - 🇭🇰 [直连] 香港2 HGC 原生 解锁流媒体
+      - 🇭🇰 [直连] 香港3
+      - 🇭🇰 [直连] 香港4 30M 游戏线路
+      - 🇭🇰 [直连] 香港5 30M 游戏线路
+      - 🇭🇰 [直连] 香港6 1M 80端口
+      - 🇭🇰 [直连] 香港8 游戏线路 ss 30x
+      - 🇨🇳 [直连] 台湾 谷歌云 80端口
+      - 🇨🇳 [直连] 台湾 Netflix(TW) 原生
+      - 🇰🇷 [直连] 韩国1
+      - 🇧🇷 [直连] 巴西 0.5x
+      - 🇯🇵 [直连] 日本原生 主力 可解流媒体
+      - 🇯🇵 [直连] 日本1
+      - 🇸🇬 [直连] 新加坡1
+      - 🇸🇬 [直连] 新加坡2 Netflix(SG)
+      - 🇸🇬 [直连] 新加坡3 aws game ss 0x
+      - 🇺🇲 [直连] 美国2 三网优秀 80端口 3x
+      - 🇺🇲 [直连] 美国4 原生ip
+      - 🇺🇲 [直连] 美国5
+      - 🇬🇧 [直连] 英国 BBC
+      - 🇬🇧 [直连] 英国 原生ip
+      - 🇮🇳 [直连] 印度
+      - 🇵🇭 [直连] 菲律宾
+      - 🇵🇭 [直连] 菲律宾2
+      - 🇻🇳 [直连] 越南
+      - 🇹🇭 [直连] 泰国
+      - 🇩🇪 [直连] 德国柏林 ipv6 only
+      - 🇩🇪 [直连] 德国2
       - 🇭🇰 HongKong06
       - 🇭🇰 HongKong07
       - 🇯🇵 Japan01
@@ -417,6 +842,9 @@ proxy-groups:
       - DIRECT
       - 🚀 节点选择
       - ♻️ 自动选择
+      - 🇭🇰 [NAT/上海] 香港主力 啥都能解锁
+      - 🇭🇰 [NAT/江门] 香港主力 啥都能解锁
+      - 🇭🇰 [直连] 香港2 HGC 原生 解锁流媒体
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -452,6 +880,32 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - 🇭🇰 bob16vip.com-SSR-香港1
+      - 🇭🇰 bob16vip.com-SSR-香港2
+      - 🇭🇰 bob16vip.com-SSR-香港3
+      - 🇭🇰 bob16vip.com-SSR-香港4
+      - 🇭🇰 bob16vip.com-SSR-香港5
+      - 🇭🇰 bob16vip.com-SSR-香港6
+      - 🇭🇰 bob16vip.com-SSR-香港7
+      - 🇭🇰 bob16vip.com-SSR-香港8
+      - 🇭🇰 [NAT/IPLC/深港] 香港游戏线路 只能游戏 ss 30x
+      - 🇭🇰 [NAT/腾讯云] 香港负载均衡 3x 80端口
+      - 🇭🇰 [NAT/上海] 香港主力 啥都能解锁
+      - 🇭🇰 [NAT/江门] 香港主力 啥都能解锁
+      - 🇭🇰 [NAT/江门] 香港1 特别快
+      - 🇭🇰 [NAT/江门] 香港2 原生ip
+      - 🇭🇰 [NAT/江门] 香港3
+      - 🇭🇰 [NAT/江门] 香港4 2x
+      - 🇭🇰 [NAT/江门] 香港5 2x
+      - 🇭🇰 [NAT/江门] 香港6 1M小水管
+      - 🇭🇰 [直连] 香港 主力 真原生 啥都能解
+      - 🇭🇰 [直连] 香港1 特别快 80端口
+      - 🇭🇰 [直连] 香港2 HGC 原生 解锁流媒体
+      - 🇭🇰 [直连] 香港3
+      - 🇭🇰 [直连] 香港4 30M 游戏线路
+      - 🇭🇰 [直连] 香港5 30M 游戏线路
+      - 🇭🇰 [直连] 香港6 1M 80端口
+      - 🇭🇰 [直连] 香港8 游戏线路 ss 30x
       - 🇭🇰 香港｜HK-01
       - 🇭🇰 香港11
       - 🇭🇰 香港12
@@ -466,6 +920,11 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - 🇯🇵 [NAT/上海] 日本原生 主力 可解流媒体
+      - 🇯🇵 [NAT/江门] 日本原生 主力 可解流媒体
+      - 🇯🇵 [NAT/江门] 日本1
+      - 🇯🇵 [直连] 日本原生 主力 可解流媒体
+      - 🇯🇵 [直连] 日本1
       - 🇯🇵 Japan01
       - 🇯🇵 Japan02
       - 🇯🇵 Japan03
@@ -478,6 +937,14 @@ proxy-groups:
     interval: 300
     tolerance: 150
     proxies:
+      - 🇺🇲 bob16vip.com-SSR-海外专用-美国1
+      - 🇺🇲 [NAT/腾讯云] 美国负载均衡 3x 80端口
+      - 🇺🇲 [NAT/江门] 美国2 3x
+      - 🇺🇲 [NAT/江门] 美国4 原生ip
+      - 🇺🇲 [NAT/江门] 美国5
+      - 🇺🇲 [直连] 美国2 三网优秀 80端口 3x
+      - 🇺🇲 [直连] 美国4 原生ip
+      - 🇺🇲 [直连] 美国5
       - 🇺🇲 美国｜US-01｜原生直连
       - 🇺🇲 SS US - BuyVM LV
       - "🇺🇲 SS US - DogY. CN2 #1 45Mbps Limited"
@@ -493,13 +960,24 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - DIRECT
+      - 🇨🇳 bob16vip.com-SSR-海外专用-台湾
+      - 🇨🇳 [NAT/上海] 台湾 原生
+      - 🇨🇳 [NAT/江门] 台湾 原生
+      - 🇨🇳 [NAT/江门] 台湾
+      - 🇨🇳 [直连] 台湾 谷歌云 80端口
+      - 🇨🇳 [直连] 台湾 Netflix(TW) 原生
   - name: 🇸🇬 狮城节点
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
+      - 🇸🇬 [NAT/腾讯云] 新加坡负载均衡 3x 80端口
+      - 🇸🇬 [NAT/江门] 新加坡1
+      - 🇸🇬 [NAT/江门] 新加坡2 原生ip
+      - 🇸🇬 [直连] 新加坡1
+      - 🇸🇬 [直连] 新加坡2 Netflix(SG)
+      - 🇸🇬 [直连] 新加坡3 aws game ss 0x
       - 🇸🇬 Singapore01
       - 🇸🇬 Singapore02
       - 🇸🇬 Singapore03
@@ -517,6 +995,8 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - 🇰🇷 [NAT/江门] 韩国1 2x
+      - 🇰🇷 [直连] 韩国1
       - 🇰🇷 Korea01
       - 🇰🇷 Korea02
       - 🇰🇷 Korea03
@@ -525,7 +1005,13 @@ proxy-groups:
   - name: 🎥 奈飞节点
     type: select
     proxies:
-      - DIRECT
+      - 发现偷奈飞的机场举报有奖
+      - "NF: aszlatsqnt@hotmail.com---413123"
+      - 🇭🇰 [NAT/上海] 香港主力 啥都能解锁
+      - 🇭🇰 [NAT/江门] 香港主力 啥都能解锁
+      - 🇭🇰 [直连] 香港2 HGC 原生 解锁流媒体
+      - 🇨🇳 [直连] 台湾 Netflix(TW) 原生
+      - 🇸🇬 [直连] 新加坡2 Netflix(SG)
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
