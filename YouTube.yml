@@ -1,0 +1,656 @@
+proxies:
+  - {name: 🇰🇷 YouTube_🇰🇷_KR_韩国_1, server: kr2.uuv2.co.uk, port: 3389, type: vmess, uuid: 2751b1f3-54a5-447a-87ae-df1e88e2aaee, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /TG@mftizi, ws-headers: {Host: kr2.uuv2.co.uk}}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_1, server: 060.HK.AP.POP.BIGAIRPORT.NET, port: 80, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 060.HK.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇯🇵 YouTube_🇯🇵_JP_日本_1, server: 030.JP.AP.POP.BIGAIRPORT.NET, port: 80, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 030.JP.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇳🇱 YouTube_🇳🇱_NL_荷兰_1, server: c26s4.jamjams.net, port: 25661, type: vmess, uuid: ddd1dd39-fe36-4d82-8318-475093d78ec0, alterId: 8, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇯🇵 YouTube_🇯🇵_JP_日本_2, server: 025.JP.AP.POP.BIGAIRPORT.NET, port: 443, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 025.JP.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_2, server: vtwonet-hk-a.qjnodeip.xyz, port: 23333, type: vmess, uuid: 8FCE27DC-F506-74FB-D710-9A0621B1D511, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_3, server: vtwonet-hk-a.qjnodeip.xyz, port: 23333, type: vmess, uuid: F7D66A43-A0DD-D54C-4AE8-65113A0184D7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇸🇬 YouTube_🇸🇬_SG_新加坡_1, server: 036.SG.AP.POP.BIGAIRPORT.NET, port: 80, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 036.SG.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇨🇳 YouTube_🇨🇳_CN_中国_1, server: global-transit-01-hk.pucdn.me, port: 16002, type: vmess, uuid: f37bcc5b-6071-3588-a25d-d7747e4c648f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-azure-hk-02.pucdn.me}}
+  - {name: 🇯🇵 YouTube_🇯🇵_JP_日本_3, server: 027.JP.AP.POP.BIGAIRPORT.NET, port: 80, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 027.JP.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇯🇵 YouTube_🇯🇵_JP_日本_4, server: jp2.uuv2.co.uk, port: 1016, type: vmess, uuid: 2751b1f3-54a5-447a-87ae-df1e88e2aaee, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /TG@mftizi, ws-headers: {Host: jp2.uuv2.co.uk}}
+  - {name: 🇸🇬 YouTube_🇸🇬_SG_新加坡_2, server: sg1.uuv2.uk, port: 2053, type: vmess, uuid: e62b33ef-a6f7-46f4-999b-353cfe1d404b, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /@mftizi, ws-headers: {Host: sg1.uuv2.uk}}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_4, server: 055.HK.AP.POP.BIGAIRPORT.NET, port: 80, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 055.HK.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_5, server: 053.HK.AP.POP.BIGAIRPORT.NET, port: 80, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 053.HK.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇯🇵 YouTube_🇯🇵_JP_日本_5, server: 022.JP.AP.POP.BIGAIRPORT.NET, port: 443, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 022.JP.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_6, server: vtwonet-hk-a.qjnodeip.xyz, port: 23333, type: vmess, uuid: DFEB2C4A-95D9-5B5B-1CB3-59D6DFAFC66F, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇸🇬 YouTube_🇸🇬_SG_新加坡_3, server: 032.SG.AP.POP.BIGAIRPORT.NET, port: 443, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 032.SG.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_7, server: hk3.uuv2.co.uk, port: 2053, type: vmess, uuid: 2751b1f3-54a5-447a-87ae-df1e88e2aaee, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /@mftizi, ws-headers: {Host: hk3.uuv2.co.uk}}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_8, server: 054.HK.AP.POP.BIGAIRPORT.NET, port: 80, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 054.HK.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_9, server: 057.HK.AP.POP.BIGAIRPORT.NET, port: 80, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 057.HK.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇸🇬 YouTube_🇸🇬_SG_新加坡_4, server: 037.SG.AP.POP.BIGAIRPORT.NET, port: 80, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 037.SG.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇸🇬 YouTube_🇸🇬_SG_新加坡_5, server: sg1.uuv2.uk, port: 2053, type: vmess, uuid: 529eef6e-db40-4cbb-9f84-abe471d1b631, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /@mftizi, ws-headers: {Host: sg1.uuv2.uk}}
+  - {name: 🇸🇬 YouTube_🇸🇬_SG_新加坡_6, server: 040.SG.AP.POP.BIGAIRPORT.NET, port: 80, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 040.SG.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇸🇬 YouTube_🇸🇬_SG_新加坡_7, server: 031.SG.AP.POP.BIGAIRPORT.NET, port: 443, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 031.SG.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_10, server: hk01.uuv2.uk, port: 2053, type: vmess, uuid: 2751b1f3-54a5-447a-87ae-df1e88e2aaee, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /@mftizi, ws-headers: {Host: hk01.uuv2.uk}}
+  - {name: 🇸🇬 YouTube_🇸🇬_SG_新加坡_8, server: 034.SG.AP.POP.BIGAIRPORT.NET, port: 443, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 034.SG.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇯🇵 YouTube_🇯🇵_JP_日本_6, server: 029.JP.AP.POP.BIGAIRPORT.NET, port: 80, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 029.JP.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_11, server: 059.HK.AP.POP.BIGAIRPORT.NET, port: 80, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 059.HK.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇯🇵 YouTube_🇯🇵_JP_日本_7, server: 023.JP.AP.POP.BIGAIRPORT.NET, port: 443, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 023.JP.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_12, server: vtwonet-hk-a.qjnodeip.xyz, port: 23333, type: vmess, uuid: 7AC98A3E-1A60-7238-72E8-51F47BD48B55, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇸🇬 YouTube_🇸🇬_SG_新加坡_9, server: 039.SG.AP.POP.BIGAIRPORT.NET, port: 80, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 039.SG.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇳🇱 YouTube_🇳🇱_NL_荷兰_2, server: c32s4.jamjams.net, port: 26813, type: vmess, uuid: e3f9279a-5037-447b-870c-8d512c32f979, alterId: 8, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇸🇬 YouTube_🇸🇬_SG_新加坡_10, server: 035.SG.AP.POP.BIGAIRPORT.NET, port: 443, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 035.SG.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_13, server: vtwonet-hk-a.qjnodeip.xyz, port: 23333, type: vmess, uuid: 1DB6F21C-E8A0-C71E-27FF-2E1319C953C5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_14, server: 056.HK.AP.POP.BIGAIRPORT.NET, port: 80, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 056.HK.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_15, server: 052.HK.AP.POP.BIGAIRPORT.NET, port: 80, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 052.HK.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇨🇳 YouTube_🇨🇳_CN_中国_2, server: global-transit-01-hk.pucdn.me, port: 11115, type: vmess, uuid: f37bcc5b-6071-3588-a25d-d7747e4c648f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /vvv, ws-headers: {Host: l2-hkt-a-08.pucdn.me}}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_16, server: 058.HK.AP.POP.BIGAIRPORT.NET, port: 80, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 058.HK.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_17, server: 011.HK.AP.POP.BIGAIRPORT.NET, port: 443, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 011.HK.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇰🇷 YouTube_🇰🇷_KR_韩国_2, server: 15.165.74.109, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: a91c6354-0172-4a60-b8e7-8e08943c234d}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_18, server: 003.HK.AP.POP.BIGAIRPORT.NET, port: 80, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 003.HK.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_19, server: vtwonet-hk-a.qjnodeip.xyz, port: 23333, type: vmess, uuid: 8FCE27DC-F506-74FB-D710-9A0621B1D511, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_20, server: 004.HK.AP.POP.BIGAIRPORT.NET, port: 80, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 004.HK.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_1, server: 154.17.2.160, port: 18333, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_21, server: 013.HK.AP.POP.BIGAIRPORT.NET, port: 443, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 013.HK.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_22, server: 014.HK.AP.POP.BIGAIRPORT.NET, port: 443, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 014.HK.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_23, server: 001.HK.AP.POP.BIGAIRPORT.NET, port: 80, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 001.HK.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_24, server: 18.167.84.92, port: 80, type: vmess, uuid: ca0560c2-6755-4ee8-b6f9-183b6928c84a, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: microsoft.com}}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_2, server: 84.17.41.77, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_3, server: 84.17.41.83, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_4, server: 185.242.5.147, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_25, server: 18.163.121.72, port: 80, type: vmess, uuid: ca0560c2-6755-4ee8-b6f9-183b6928c84a, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: microsoft.com}}
+  - {name: 🇹🇼 YouTube_🇹🇼_TW_台湾_1, server: 2.58.242.45, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_5, server: us02.uuv2.uk, port: 2053, type: vmess, uuid: 3f0fffa3-b24c-4ae9-b8e7-3adf5992b54e, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /@mftizi, ws-headers: {Host: us02.uuv2.uk}}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_6, server: 144.34.187.163, port: 443, type: vmess, uuid: 94d3ddba-3c75-4ddd-84c5-b859a30b1fb9, alterId: 60, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /dsafasdf, ws-headers: {Host: nn-ssr24.feiclouddd.me}}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_26, server: 051.HK.AP.POP.BIGAIRPORT.NET, port: 80, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 051.HK.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_7, server: 154.17.2.117, port: 18333, type: ss, cipher: chacha20-ietf-poly1305, password: 2SYSIDnBqT5eCl736xlD4yODaXaSF9EeNp3OZcpjyC8ARYwA0zgC83aKxFZRu3}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_8, server: 154.17.5.133, port: 18331, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_9, server: 154.17.2.54, port: 18333, type: ss, cipher: chacha20-ietf-poly1305, password: YazuZ2ZE9p5Rn3CANKlD6SqC0OTSyXBIReypacD4Fae8gx87lOD3SY33jFAwCx}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_10, server: 84.17.41.77, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_11, server: 154.17.2.162, port: 18334, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_12, server: 185.242.5.149, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_13, server: 84.17.41.77, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_14, server: 212.102.44.86, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_15, server: 185.242.5.149, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: YouTube1825, server: 104.16.167.138, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_16, server: 154.17.2.121, port: 18334, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_1, server: 198.8.92.84, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇬🇧 YouTube_🇬🇧_GB_英国_1, server: 37.120.233.253, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_17, server: 195.181.171.233, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_18, server: 154.17.2.135, port: 18333, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_19, server: 185.242.5.149, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_20, server: 195.181.171.233, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: YouTube3361, server: 104.22.44.50, port: 443, type: vmess, uuid: 5f4b2e42-ff2b-6666-86fc-b7ba1b5361e8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: "/The-Great-Awakening_vws?ed=2048", ws-headers: {Host: 567567.cf}}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_1, server: 37.120.143.117, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_21, server: 195.181.171.233, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇨🇳 YouTube_🇨🇳_CN_中国_3, server: 120.232.174.117, port: 62317, type: vmess, uuid: f748ee95-a216-46b4-8666-a4a6a9209277, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 120.232.174.117}}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_22, server: 154.17.5.184, port: 18331, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_1, server: 37.120.217.179, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_2, server: 198.8.92.69, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_23, server: 154.17.2.109, port: 18335, type: ss, cipher: chacha20-ietf-poly1305, password: l3Y9yKCBaT5SnpFFOe834yqIaXwSpRxz3l7D3Aua82ZgcSNZDCO6AexYDCE0Rj}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_24, server: 154.17.1.251, port: 18334, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_3, server: 198.8.92.84, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_25, server: 154.17.2.149, port: 18334, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_26, server: 154.17.2.211, port: 18332, type: ss, cipher: chacha20-ietf-poly1305, password: ZECSlaTZea5jFO736FA3Ry3DaXRA2qNx0pceYDzKCuYS8gl3B4p8InwyDCOSx9}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_27, server: 212.102.46.56, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_28, server: 212.102.40.68, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_29, server: 185.242.5.147, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇬🇧 YouTube_🇬🇧_GB_英国_2, server: 194.37.98.36, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇨🇭 YouTube_🇨🇭_CH_瑞士_1, server: 84.39.114.86, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_2, server: 37.120.196.53, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_27, server: vtwonet-hk-a.qjnodeip.xyz, port: 23333, type: vmess, uuid: 2D5D0746-C1E9-A3A1-E549-2E1E58690F3A, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇬🇧 YouTube_🇬🇧_GB_英国_3, server: 192.145.126.131, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇦🇹 YouTube_🇦🇹_AT_奥地利_1, server: 5.253.207.85, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_3, server: 217.138.216.243, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_30, server: 64.44.42.162, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_1, server: 82.102.26.60, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 🇷🇺 YouTube_🇷🇺_RU_俄罗斯联邦_1, server: t3.ssrsub.one, port: 8443, type: trojan, password: fd2e6c62-69ae-4c71-b83c-f51475a2e2b1, sni: t3.ssrsub.one, skip-cert-verify: false}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_31, server: t1.ssrsub.one, port: 8443, type: trojan, password: fd2e6c62-69ae-4c71-b83c-f51475a2e2b1, sni: t1.ssrsub.one, skip-cert-verify: false}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_32, server: 172.241.114.87, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_33, server: 154.17.2.153, port: 18334, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_28, server: 118.107.244.112, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_29, server: zzg1.uuv2.co.uk, port: 50140, type: vmess, uuid: 529eef6e-db40-4cbb-9f84-abe471d1b631, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /@mftizi, ws-headers: {Host: zzg1.uuv2.co.uk}}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_2, server: 217.138.219.229, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇨🇭 YouTube_🇨🇭_CH_瑞士_2, server: 45.12.222.245, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: YouTube3969, server: 104.18.8.157, port: 443, type: vmess, uuid: 5f4b2e42-ff2b-6666-86fc-b7ba1b5361e8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: "/The-Great-Awakening_vws?ed=2048", ws-headers: {Host: 567567.cf}}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_4, server: 185.93.180.101, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇬🇧 YouTube_🇬🇧_GB_英国_4, server: 37.120.233.5, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: YouTube71217, server: 104.22.3.3, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: YouTube6688, server: www.garmin.com, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_2, server: 217.138.211.221, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_34, server: 154.17.2.31, port: 18333, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+  - {name: YouTube_🇵🇹_PT_葡萄牙_1, server: 91.205.230.152, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_35, server: 23.82.11.49, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_36, server: 104.244.211.141, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇳🇱 YouTube_🇳🇱_NL_荷兰_3, server: 89.46.223.239, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_37, server: 66.115.182.79, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇨🇭 YouTube_🇨🇭_CH_瑞士_3, server: 84.17.53.86, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇹🇼 YouTube_🇹🇼_TW_台湾_2, server: 2.58.241.3, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_1, server: 143.244.57.99, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_3, server: 87.101.94.211, port: 47861, type: ss, cipher: aes-256-gcm, password: LJcChRsGQRhywrtXUU55TLTu}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_38, server: 192.111.134.195, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_4, server: 208.78.41.202, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_4, server: 82.102.26.60, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_39, server: 199.10.64.165, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_5, server: 82.102.26.60, port: 42816, type: ss, cipher: aes-256-gcm, password: tBKBf4pVzNCFKdbPgvwrNXq3}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_6, server: 82.102.26.60, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_7, server: 82.102.26.60, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: YouTube_🇵🇱_PL_波兰_1, server: 5.253.206.67, port: 41992, type: ss, cipher: aes-256-gcm, password: XmQSxDCn5ehpcq6DBYms8FJf}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_8, server: 82.102.26.54, port: 44628, type: ss, cipher: aes-256-gcm, password: VASQbVcukHfdBGmeS9L7Z8TT}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_40, server: 66.115.182.79, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_5, server: 66.115.147.77, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: YouTube1122, server: 104.16.207.196, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: 🇦🇹 YouTube_🇦🇹_AT_奥地利_2, server: 37.120.212.131, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_2, server: 84.247.51.251, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_3, server: 91.90.123.115, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_9, server: 212.102.54.182, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: YouTube36956, server: 104.21.76.229, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_41, server: 104.25.246.117, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_6, server: 91.245.254.107, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_42, server: 23.82.11.49, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_4, server: 37.120.143.117, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_5, server: 217.138.211.221, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_30, server: 002.HK.AP.POP.BIGAIRPORT.NET, port: 80, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 002.HK.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_6, server: 5.253.205.227, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇬🇧 YouTube_🇬🇧_GB_英国_5, server: 37.120.233.251, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: YouTube33798, server: 104.17.36.178, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_5, server: 82.102.16.99, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇦🇹 YouTube_🇦🇹_AT_奥地利_3, server: 37.120.212.131, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇦🇹 YouTube_🇦🇹_AT_奥地利_4, server: 5.253.207.83, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇮🇪 YouTube_🇮🇪_IE_爱尔兰_1, server: se.free-v2ray.tk, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇭🇰 YouTube_🇭🇰_HK_香港_31, server: zzg1.uuv2.co.uk, port: 44032, type: vmess, uuid: 2751b1f3-54a5-447a-87ae-df1e88e2aaee, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /@mftizi, ws-headers: {Host: hk01.uuv2.uk}}
+  - {name: 🇨🇭 YouTube_🇨🇭_CH_瑞士_4, server: 37.120.213.5, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_10, server: 185.128.27.35, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_7, server: 5.253.205.179, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_6, server: 37.120.196.53, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_8, server: 217.138.211.221, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇳🇱 YouTube_🇳🇱_NL_荷兰_4, server: 89.46.223.214, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_9, server: 91.90.123.115, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: YouTube23223, server: 104.21.48.161, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: 🇬🇧 YouTube_🇬🇧_GB_英国_6, server: 86.106.136.85, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_11, server: 87.101.94.211, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇦🇷 YouTube_🇦🇷_AR_阿根廷_1, server: 91.206.168.13, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_12, server: 82.102.26.60, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_7, server: 138.199.19.186, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_7, server: 198.8.92.74, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_8, server: 37.120.196.53, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_13, server: 82.102.26.60, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_9, server: 193.29.106.179, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_43, server: 154.16.171.204, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇹🇼 YouTube_🇹🇼_TW_台湾_3, server: 2.58.242.45, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_14, server: 82.102.26.60, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_15, server: 87.101.94.211, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_16, server: 82.102.26.60, port: 49468, type: ss, cipher: aes-256-gcm, password: LsYSQDxmPj9AcWpSX5HrYfu6}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_17, server: 82.102.26.60, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇬🇧 YouTube_🇬🇧_GB_英国_7, server: 185.44.76.188, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_10, server: 193.29.106.61, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_3, server: 138.199.16.130, port: 41738, type: ss, cipher: aes-256-gcm, password: X6yMGXnfUsuKTvEDYZSLPk4d}
+  - {name: 🇨🇭 YouTube_🇨🇭_CH_瑞士_5, server: 84.39.114.86, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_11, server: 138.199.19.186, port: 40282, type: ss, cipher: aes-256-gcm, password: Pvvaw486867D2w4yctL2ULTQ}
+  - {name: YouTube5477, server: 104.19.238.59, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_18, server: 37.120.207.5, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇳🇱 YouTube_🇳🇱_NL_荷兰_5, server: 46.182.107.93, port: 443, type: vmess, uuid: 743bdc87-1dea-41bf-aa0b-51dfbbfec8aa, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /footers, ws-headers: {Host: www.54872833.xyz}}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_44, server: 104.244.211.141, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_4, server: 143.244.57.99, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_8, server: ss5.ssrsub.one, port: 9443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
+  - {name: 🇯🇵 YouTube_🇯🇵_JP_日本_8, server: 024.JP.AP.POP.BIGAIRPORT.NET, port: 443, type: vmess, uuid: acde5e85-0f47-464e-b9b7-ab6925134e9e, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 024.JP.AP.POP.BIGAIRPORT.NET}}
+  - {name: 🇨🇭 YouTube_🇨🇭_CH_瑞士_6, server: 37.120.213.5, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇬🇧 YouTube_🇬🇧_GB_英国_8, server: 89.238.130.227, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_5, server: 84.247.51.251, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_9, server: 91.245.254.107, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇳🇱 YouTube_🇳🇱_NL_荷兰_6, server: 89.46.223.189, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇬🇧 YouTube_🇬🇧_GB_英国_9, server: 89.238.130.253, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_19, server: 212.102.54.182, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_1, server: 45.134.224.20, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_12, server: 138.199.19.186, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_10, server: 91.90.123.115, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇹🇼 YouTube_🇹🇼_TW_台湾_4, server: 2.58.241.29, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
+  - {name: YouTube_🇭🇷_HR_克罗地亚_1, server: 176.222.34.113, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇹🇼 YouTube_🇹🇼_TW_台湾_5, server: 2.58.242.46, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_20, server: 87.101.94.211, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_13, server: 185.102.219.49, port: 42816, type: ss, cipher: aes-256-gcm, password: tBKBf4pVzNCFKdbPgvwrNXq3}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_14, server: 217.138.216.243, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_21, server: 217.138.219.229, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_11, server: 217.138.211.219, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_22, server: 87.101.94.211, port: 49468, type: ss, cipher: aes-256-gcm, password: LsYSQDxmPj9AcWpSX5HrYfu6}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_23, server: 87.101.94.211, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_24, server: 87.101.94.211, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_25, server: 87.101.94.211, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_26, server: 82.102.26.60, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_27, server: 82.102.26.60, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_15, server: 138.199.19.186, port: 48970, type: ss, cipher: aes-256-gcm, password: ZKEsXkFbUZ2z667YA8A7cEDP}
+  - {name: 🇦🇹 YouTube_🇦🇹_AT_奥地利_5, server: 5.253.207.85, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_6, server: 138.199.16.130, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_7, server: 143.244.56.230, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_28, server: 212.102.54.182, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_29, server: 185.128.27.35, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 🇿🇦 YouTube_🇿🇦_ZA_南非_1, server: 196.244.191.45, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇨🇭 YouTube_🇨🇭_CH_瑞士_7, server: 84.17.53.210, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_12, server: 194.110.115.77, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_30, server: 212.102.54.182, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_13, server: 185.232.21.53, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: YouTube_🇵🇱_PL_波兰_2, server: 5.187.49.189, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇬🇧 YouTube_🇬🇧_GB_英国_10, server: 194.37.98.36, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_2, server: 45.134.224.20, port: 40282, type: ss, cipher: aes-256-gcm, password: Pvvaw486867D2w4yctL2ULTQ}
+  - {name: 🇳🇱 YouTube_🇳🇱_NL_荷兰_7, server: 81.19.208.107, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_10, server: 91.245.254.107, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: YouTube_🇧🇬_BG_保加利亚_1, server: 217.138.202.19, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_46, server: 199.10.64.99, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: YouTube_🇸🇰_SK_斯洛伐克_1, server: 37.120.221.5, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇨🇭 YouTube_🇨🇭_CH_瑞士_8, server: 84.17.53.212, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_31, server: 212.102.54.182, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_32, server: 185.128.27.35, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_33, server: 84.17.58.205, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
+  - {name: 🇮🇪 YouTube_🇮🇪_IE_爱尔兰_2, server: 5.157.13.53, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇦🇹 YouTube_🇦🇹_AT_奥地利_6, server: 37.120.212.131, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇪🇸 YouTube_🇪🇸_ES_西班牙_1, server: 89.37.95.15, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_34, server: 212.102.54.182, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: YouTube_🇸🇮_SI_斯洛文尼亚_1, server: 195.158.249.36, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_35, server: 212.102.54.182, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: YouTube_🇸🇮_SI_斯洛文尼亚_2, server: 195.158.249.40, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_36, server: 82.102.26.60, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_14, server: 91.90.123.115, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: YouTube_🇦🇪_AE_阿联酋_1, server: 176.125.231.5, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_37, server: 82.102.26.54, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_16, server: 138.199.19.185, port: 40282, type: ss, cipher: aes-256-gcm, password: Pvvaw486867D2w4yctL2ULTQ}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_38, server: 82.102.26.54, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_39, server: 82.102.26.54, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_15, server: 91.90.123.115, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_17, server: 138.199.19.185, port: 45948, type: ss, cipher: aes-256-gcm, password: j76EXqJcQhuQTr3EvUf7xaK9}
+  - {name: 🇹🇼 YouTube_🇹🇼_TW_台湾_6, server: 2.58.241.5, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_18, server: 185.102.219.49, port: 49202, type: ss, cipher: aes-256-gcm, password: btzEYXKZxnR7g6H2vFTQK5TD}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_40, server: 87.101.94.211, port: 48970, type: ss, cipher: aes-256-gcm, password: ZKEsXkFbUZ2z667YA8A7cEDP}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_19, server: 185.102.219.49, port: 44539, type: ss, cipher: aes-256-gcm, password: r6hDrkP4Et6EENTS8Qy7Tcmg}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_41, server: 82.102.26.54, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_20, server: 138.199.19.186, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_42, server: 82.102.26.54, port: 45948, type: ss, cipher: aes-256-gcm, password: j76EXqJcQhuQTr3EvUf7xaK9}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_8, server: 138.199.16.130, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_9, server: 138.199.16.130, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_3, server: 45.134.224.20, port: 42816, type: ss, cipher: aes-256-gcm, password: tBKBf4pVzNCFKdbPgvwrNXq3}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_10, server: 185.108.106.74, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_11, server: 143.244.57.99, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_43, server: 185.128.27.35, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_11, server: 146.70.27.37, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_44, server: 212.102.54.182, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_21, server: 185.102.219.6, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_12, server: 185.108.106.53, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_13, server: 143.244.56.230, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇪🇸 YouTube_🇪🇸_ES_西班牙_2, server: 84.17.62.165, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_16, server: 5.253.205.229, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇩🇰 YouTube_🇩🇰_DK_丹麦_1, server: 193.29.107.237, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_14, server: 185.108.106.146, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_17, server: 5.253.205.227, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_18, server: 185.232.21.51, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_12, server: ss3.ssrsub.one, port: 9443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
+  - {name: 🇬🇧 YouTube_🇬🇧_GB_英国_11, server: 185.44.76.188, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_15, server: 138.199.16.137, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_45, server: 212.102.54.182, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_46, server: 185.128.27.35, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_47, server: 185.128.27.35, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_48, server: 217.138.219.227, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_49, server: 185.128.27.35, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: YouTube_🇵🇹_PT_葡萄牙_2, server: 5.154.174.213, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_16, server: 138.199.16.130, port: 44745, type: ss, cipher: aes-256-gcm, password: fyXdw87yCH9SAmFkPvsvLVqC}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_17, server: 138.199.16.130, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_19, server: 194.110.115.77, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: YouTube_🇵🇹_PT_葡萄牙_3, server: 91.250.240.140, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_4, server: 45.134.224.20, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_50, server: 87.101.94.211, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_18, server: 143.244.57.99, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_13, server: 208.78.41.202, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇨🇭 YouTube_🇨🇭_CH_瑞士_9, server: 84.39.112.35, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_5, server: 45.134.224.20, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_22, server: 217.138.216.243, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_50, server: 66.115.182.79, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_51, server: 82.102.26.60, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_52, server: 82.102.26.54, port: 48970, type: ss, cipher: aes-256-gcm, password: ZKEsXkFbUZ2z667YA8A7cEDP}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_53, server: 82.102.26.54, port: 49468, type: ss, cipher: aes-256-gcm, password: LsYSQDxmPj9AcWpSX5HrYfu6}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_54, server: 87.101.94.211, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_19, server: 138.199.16.130, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_20, server: 138.199.16.137, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_21, server: 138.199.16.130, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_22, server: 185.166.84.87, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_23, server: 138.199.16.130, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_24, server: 138.199.16.130, port: 48970, type: ss, cipher: aes-256-gcm, password: ZKEsXkFbUZ2z667YA8A7cEDP}
+  - {name: 🇪🇸 YouTube_🇪🇸_ES_西班牙_3, server: 185.188.61.123, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_25, server: 138.199.16.130, port: 42816, type: ss, cipher: aes-256-gcm, password: tBKBf4pVzNCFKdbPgvwrNXq3}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_23, server: 138.199.19.186, port: 44539, type: ss, cipher: aes-256-gcm, password: r6hDrkP4Et6EENTS8Qy7Tcmg}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_14, server: ss6.ssrsub.one, port: 2443, type: ss, cipher: aes-128-gcm, password: https://dlj.tf/ssrsub}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_26, server: 138.199.16.130, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: YouTube_🇰🇿_KZ_哈萨克斯坦_1, server: 5.189.202.16, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_15, server: ss2.ssrsub.one, port: 9443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
+  - {name: YouTube_🇲🇽_MX_墨西哥_1, server: 194.41.112.26, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_6, server: 45.134.224.20, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_53, server: 207.244.67.149, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_27, server: 138.199.16.137, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_54, server: 207.244.67.149, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_28, server: 185.108.106.146, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR}
+  - {name: YouTube_🇬🇷_GR_希腊_1, server: 194.150.167.36, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_7, server: 45.134.224.20, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇬🇧 YouTube_🇬🇧_GB_英国_12, server: 89.238.130.253, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_55, server: 199.10.64.133, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_56, server: 143.244.60.162, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_29, server: 138.199.16.130, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_30, server: 138.199.16.130, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_8, server: 45.134.224.20, port: 44742, type: ss, cipher: aes-256-gcm, password: QCStKzZ56SHBc4tL7stCEqqd}
+  - {name: 🇦🇷 YouTube_🇦🇷_AR_阿根廷_2, server: 91.206.168.9, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: YouTube_🇰🇿_KZ_哈萨克斯坦_2, server: 5.189.202.16, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_24, server: 138.199.19.186, port: 50695, type: ss, cipher: aes-256-gcm, password: gqtwGu9bVreJqL3FTHSVKGzy}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_55, server: 82.102.26.54, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_25, server: 185.102.219.49, port: 45948, type: ss, cipher: aes-256-gcm, password: j76EXqJcQhuQTr3EvUf7xaK9}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_26, server: 37.120.196.51, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_31, server: 143.244.57.99, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_56, server: 82.102.26.54, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_32, server: 185.166.84.63, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_33, server: 138.199.16.130, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: YouTube_🇬🇷_GR_希腊_2, server: 194.150.167.28, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_34, server: 138.199.16.137, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_35, server: 138.199.16.130, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_36, server: 138.199.16.130, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_37, server: 138.199.16.130, port: 44539, type: ss, cipher: aes-256-gcm, password: r6hDrkP4Et6EENTS8Qy7Tcmg}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_38, server: 138.199.16.137, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_39, server: 138.199.16.137, port: 42816, type: ss, cipher: aes-256-gcm, password: tBKBf4pVzNCFKdbPgvwrNXq3}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_40, server: 138.199.16.130, port: 46726, type: ss, cipher: aes-256-gcm, password: 2fqKbFPGHpcmMTJzGsUbsfYf}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_41, server: 138.199.16.137, port: 44539, type: ss, cipher: aes-256-gcm, password: r6hDrkP4Et6EENTS8Qy7Tcmg}
+  - {name: YouTube_🇰🇿_KZ_哈萨克斯坦_3, server: 5.189.202.16, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇦🇷 YouTube_🇦🇷_AR_阿根廷_3, server: 91.206.168.41, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_9, server: 45.134.224.18, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: YouTube_🇰🇿_KZ_哈萨克斯坦_4, server: 5.189.202.16, port: 41738, type: ss, cipher: aes-256-gcm, password: X6yMGXnfUsuKTvEDYZSLPk4d}
+  - {name: YouTube_🇵🇹_PT_葡萄牙_4, server: 5.154.174.189, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
+  - {name: YouTube_🇰🇿_KZ_哈萨克斯坦_5, server: 5.189.202.16, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_20, server: 5.253.205.229, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_16, server: 198.8.92.84, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇬🇧 YouTube_🇬🇧_GB_英国_13, server: 89.238.143.101, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_57, server: 185.128.27.35, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_42, server: 185.166.84.19, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: YouTube_🇦🇱_AL_阿尔巴尼亚_1, server: 31.171.153.83, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_43, server: 138.199.16.130, port: 49202, type: ss, cipher: aes-256-gcm, password: btzEYXKZxnR7g6H2vFTQK5TD}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_44, server: 138.199.16.130, port: 41992, type: ss, cipher: aes-256-gcm, password: XmQSxDCn5ehpcq6DBYms8FJf}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_45, server: 143.244.57.99, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇦🇷 YouTube_🇦🇷_AR_阿根廷_4, server: 91.206.168.5, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_21, server: 91.90.123.115, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇦🇷 YouTube_🇦🇷_AR_阿根廷_5, server: 91.206.168.3, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇦🇷 YouTube_🇦🇷_AR_阿根廷_6, server: 91.206.168.41, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇦🇷 YouTube_🇦🇷_AR_阿根廷_7, server: 91.206.168.11, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: YouTube_🇦🇪_AE_阿联酋_2, server: 176.125.231.3, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇪🇸 YouTube_🇪🇸_ES_西班牙_4, server: 82.102.17.181, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: YouTube_🇰🇿_KZ_哈萨克斯坦_6, server: 5.189.202.16, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_10, server: 45.134.224.20, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_46, server: 143.244.57.99, port: 41992, type: ss, cipher: aes-256-gcm, password: XmQSxDCn5ehpcq6DBYms8FJf}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_60, server: 172.241.114.87, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_47, server: 138.199.16.130, port: 44628, type: ss, cipher: aes-256-gcm, password: VASQbVcukHfdBGmeS9L7Z8TT}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_48, server: 143.244.57.99, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_58, server: 82.102.26.54, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_27, server: 185.102.219.49, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: YouTube_🇦🇱_AL_阿尔巴尼亚_2, server: 31.171.154.101, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: YouTube_🇵🇹_PT_葡萄牙_5, server: 91.205.230.160, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_49, server: 185.166.84.63, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇦🇷 YouTube_🇦🇷_AR_阿根廷_8, server: 91.206.168.62, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_22, server: 91.90.123.115, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_28, server: 138.199.19.186, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: YouTube_🇦🇱_AL_阿尔巴尼亚_3, server: 31.171.154.99, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_50, server: 138.199.16.130, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: YouTube_🇰🇿_KZ_哈萨克斯坦_7, server: 5.189.202.16, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_61, server: 104.244.208.205, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: YouTube_🇰🇿_KZ_哈萨克斯坦_8, server: 5.189.202.16, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: YouTube_🇰🇿_KZ_哈萨克斯坦_9, server: 5.189.202.16, port: 50695, type: ss, cipher: aes-256-gcm, password: gqtwGu9bVreJqL3FTHSVKGzy}
+  - {name: 🇬🇧 YouTube_🇬🇧_GB_英国_14, server: 217.146.82.83, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_51, server: 138.199.16.130, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_29, server: 185.102.219.49, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_11, server: 45.134.224.20, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_52, server: 143.244.57.99, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_17, server: ss1.ssrsub.one, port: 9443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_53, server: 143.244.57.99, port: 49202, type: ss, cipher: aes-256-gcm, password: btzEYXKZxnR7g6H2vFTQK5TD}
+  - {name: YouTube_🇰🇿_KZ_哈萨克斯坦_10, server: 5.189.202.16, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: YouTube_🇰🇿_KZ_哈萨克斯坦_11, server: 5.189.202.16, port: 40282, type: ss, cipher: aes-256-gcm, password: Pvvaw486867D2w4yctL2ULTQ}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_30, server: 138.199.19.186, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇮🇩 YouTube_🇮🇩_ID_印度尼西亚_1, server: 103.120.66.214, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_31, server: 185.102.219.49, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_12, server: 45.134.224.20, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: YouTube_🇰🇿_KZ_哈萨克斯坦_12, server: 5.189.202.16, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_54, server: 138.199.16.130, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: YouTube_🇰🇿_KZ_哈萨克斯坦_13, server: 5.189.202.16, port: 42816, type: ss, cipher: aes-256-gcm, password: tBKBf4pVzNCFKdbPgvwrNXq3}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_59, server: 82.102.26.54, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_23, server: 91.90.123.115, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_55, server: 138.199.16.130, port: 49468, type: ss, cipher: aes-256-gcm, password: LsYSQDxmPj9AcWpSX5HrYfu6}
+  - {name: YouTube_🇵🇹_PT_葡萄牙_6, server: 91.205.230.158, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_56, server: 138.199.16.130, port: 47861, type: ss, cipher: aes-256-gcm, password: LJcChRsGQRhywrtXUU55TLTu}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_57, server: 185.166.84.87, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇦🇷 YouTube_🇦🇷_AR_阿根廷_9, server: 91.206.168.66, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: YouTube_🇦🇱_AL_阿尔巴尼亚_4, server: 31.171.154.99, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_58, server: 138.199.16.130, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_2, server: 45.248.79.19, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_3, server: 103.192.80.243, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇦🇷 YouTube_🇦🇷_AR_阿根廷_10, server: 91.206.168.41, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇮🇳 YouTube_🇮🇳_IN_印度_1, server: in.free-v2ray.tk, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: YouTube_🇰🇿_KZ_哈萨克斯坦_14, server: 5.189.202.16, port: 44745, type: ss, cipher: aes-256-gcm, password: fyXdw87yCH9SAmFkPvsvLVqC}
+  - {name: 🇬🇧 YouTube_🇬🇧_GB_英国_15, server: 89.238.143.101, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_59, server: 138.199.16.130, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_60, server: 185.128.27.35, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_24, server: 5.253.205.179, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_60, server: 143.244.57.99, port: 50695, type: ss, cipher: aes-256-gcm, password: gqtwGu9bVreJqL3FTHSVKGzy}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_61, server: 143.244.57.99, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇯🇵 YouTube_🇳🇬_NG_尼日利亚_1, server: 102.165.23.38, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_62, server: 143.244.57.99, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_13, server: 45.134.224.20, port: 41738, type: ss, cipher: aes-256-gcm, password: X6yMGXnfUsuKTvEDYZSLPk4d}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_63, server: 143.244.57.99, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇦🇷 YouTube_🇦🇷_AR_阿根廷_11, server: 91.206.168.24, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_25, server: 91.90.123.115, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_65, server: 198.147.22.87, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_26, server: 91.90.123.115, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_32, server: 185.102.219.49, port: 41738, type: ss, cipher: aes-256-gcm, password: X6yMGXnfUsuKTvEDYZSLPk4d}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_64, server: 138.199.16.130, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 🇯🇵 YouTube_🇳🇬_NG_尼日利亚_2, server: 102.165.23.38, port: 36460, type: ss, cipher: aes-256-gcm, password: yUXad7DGF8L5cTShEpnp2N6z}
+  - {name: YouTube_🇰🇿_KZ_哈萨克斯坦_15, server: 5.189.202.16, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇩🇰 YouTube_🇩🇰_DK_丹麦_2, server: 193.29.107.163, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_66, server: 207.244.67.149, port: 45948, type: ss, cipher: aes-256-gcm, password: j76EXqJcQhuQTr3EvUf7xaK9}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_4, server: 45.248.77.237, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_5, server: 45.248.79.53, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇮🇳 YouTube_🇮🇳_IN_印度_2, server: 137.59.52.107, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇬🇧 YouTube_🇬🇧_GB_英国_16, server: 185.38.150.41, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: YouTube_🇦🇱_AL_阿尔巴尼亚_5, server: 31.171.154.101, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_65, server: 138.199.16.130, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: YouTube_🇲🇽_MX_墨西哥_2, server: 194.41.112.28, port: 36460, type: ss, cipher: aes-256-gcm, password: yUXad7DGF8L5cTShEpnp2N6z}
+  - {name: YouTube_🇵🇹_PT_葡萄牙_7, server: 194.39.127.181, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_14, server: 45.134.224.20, port: 46726, type: ss, cipher: aes-256-gcm, password: 2fqKbFPGHpcmMTJzGsUbsfYf}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_15, server: 45.134.224.20, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇦🇷 YouTube_🇦🇷_AR_阿根廷_12, server: 91.206.168.24, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_16, server: 45.134.224.20, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_66, server: 143.244.57.99, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 🇦🇷 YouTube_🇦🇷_AR_阿根廷_13, server: 91.206.168.29, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇦🇷 YouTube_🇦🇷_AR_阿根廷_14, server: 91.206.168.29, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_67, server: 143.244.57.99, port: 41738, type: ss, cipher: aes-256-gcm, password: X6yMGXnfUsuKTvEDYZSLPk4d}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_17, server: 45.134.224.20, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_6, server: 45.125.247.91, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_68, server: 185.108.106.74, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_7, server: 45.248.76.171, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_8, server: 45.248.79.19, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇮🇳 YouTube_🇮🇳_IN_印度_3, server: 137.59.52.107, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇿🇦 YouTube_🇿🇦_ZA_南非_2, server: 196.244.191.45, port: 39556, type: ss, cipher: aes-256-gcm, password: g4AfpNELpdYEeLYhM8XCX9se}
+  - {name: 🇦🇷 YouTube_🇦🇷_AR_阿根廷_15, server: 91.206.168.62, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: YouTube_🇵🇱_PL_波兰_3, server: 5.133.14.196, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_69, server: 138.199.16.137, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇰🇷 YouTube_🇰🇷_KR_韩国_4, server: 45.130.137.34, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇦🇷 YouTube_🇦🇷_AR_阿根廷_16, server: 91.206.168.41, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_70, server: 138.199.16.130, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_71, server: 191.96.13.200, port: 36460, type: ss, cipher: aes-256-gcm, password: yUXad7DGF8L5cTShEpnp2N6z}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_9, server: 103.192.80.11, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_72, server: 143.244.57.99, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_73, server: 138.199.16.130, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇬🇧 YouTube_🇬🇧_GB_英国_17, server: 89.238.143.101, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_33, server: 138.199.19.186, port: 44742, type: ss, cipher: aes-256-gcm, password: QCStKzZ56SHBc4tL7stCEqqd}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_34, server: 138.199.19.186, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_10, server: 103.192.80.243, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇦🇷 YouTube_🇦🇷_AR_阿根廷_17, server: 91.206.168.68, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇦🇷 YouTube_🇦🇷_AR_阿根廷_18, server: 91.206.168.62, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_11, server: 144.48.39.85, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_74, server: 143.244.57.99, port: 46726, type: ss, cipher: aes-256-gcm, password: 2fqKbFPGHpcmMTJzGsUbsfYf}
+  - {name: YouTube_🇮🇱_IL_以色列_1, server: 87.239.255.119, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_75, server: 143.244.57.99, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇦🇷 YouTube_🇦🇷_AR_阿根廷_19, server: 91.206.168.29, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_67, server: 207.244.67.149, port: 49468, type: ss, cipher: aes-256-gcm, password: LsYSQDxmPj9AcWpSX5HrYfu6}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_68, server: 207.244.67.149, port: 48970, type: ss, cipher: aes-256-gcm, password: ZKEsXkFbUZ2z667YA8A7cEDP}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_18, server: 45.134.224.20, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 🇹🇼 YouTube_🇹🇼_TW_台湾_7, server: 2.58.241.3, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
+  - {name: 🇮🇳 YouTube_🇮🇳_IN_印度_4, server: 137.59.52.107, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇸🇬 YouTube_🇳🇿_NZ_新西兰_1, server: 180.149.231.69, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_76, server: 138.199.16.130, port: 44742, type: ss, cipher: aes-256-gcm, password: QCStKzZ56SHBc4tL7stCEqqd}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_12, server: 45.248.76.171, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_61, server: 185.217.71.245, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_13, server: 144.48.38.19, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_14, server: 45.248.77.235, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_77, server: 143.244.57.99, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_78, server: 45.89.174.59, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_79, server: 143.244.57.99, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_69, server: 207.244.67.149, port: 49202, type: ss, cipher: aes-256-gcm, password: btzEYXKZxnR7g6H2vFTQK5TD}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_80, server: 143.244.57.99, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_19, server: 45.134.224.20, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: YouTube_🇨🇿_CZ_捷克_1, server: 217.138.220.131, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_35, server: 176.227.241.35, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_81, server: 143.244.57.99, port: 45948, type: ss, cipher: aes-256-gcm, password: j76EXqJcQhuQTr3EvUf7xaK9}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_82, server: 138.199.16.137, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_15, server: 45.125.247.91, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_16, server: 45.248.79.67, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_17, server: 45.248.79.19, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_83, server: 143.244.57.99, port: 40282, type: ss, cipher: aes-256-gcm, password: Pvvaw486867D2w4yctL2ULTQ}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_18, server: 144.48.39.107, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_19, server: 144.48.38.183, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_20, server: 45.248.77.235, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_21, server: 103.192.80.133, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_70, server: 45.129.32.15, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_62, server: 82.102.26.60, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_36, server: 138.199.19.185, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
+  - {name: YouTube_🇳🇴_NO_挪威_1, server: 91.219.215.69, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_22, server: 45.125.247.155, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_84, server: 138.199.16.130, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_85, server: 138.199.16.130, port: 50695, type: ss, cipher: aes-256-gcm, password: gqtwGu9bVreJqL3FTHSVKGzy}
+  - {name: 🇹🇼 YouTube_🇹🇼_TW_台湾_8, server: 175.98.194.18, port: 18335, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+  - {name: YouTube_🇱🇺_LU_卢森堡_1, server: 185.153.151.104, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_37, server: 138.199.19.185, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_38, server: 185.102.219.49, port: 44628, type: ss, cipher: aes-256-gcm, password: VASQbVcukHfdBGmeS9L7Z8TT}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_63, server: 82.102.26.60, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇮🇩 YouTube_🇮🇩_ID_印度尼西亚_2, server: 103.120.66.214, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_23, server: 45.248.76.171, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_39, server: 138.199.19.186, port: 49202, type: ss, cipher: aes-256-gcm, password: btzEYXKZxnR7g6H2vFTQK5TD}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_27, server: 91.90.123.115, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: YouTube_🇱🇺_LU_卢森堡_2, server: 185.153.151.118, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇿🇦 YouTube_🇿🇦_ZA_南非_3, server: 102.165.47.132, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_24, server: 144.48.39.85, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: YouTube_🇨🇿_CZ_捷克_2, server: 217.138.199.179, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇸🇬 YouTube_🇳🇿_NZ_新西兰_2, server: 180.149.231.69, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇪🇸 YouTube_🇪🇸_ES_西班牙_5, server: 185.153.150.48, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_20, server: 45.134.224.20, port: 50695, type: ss, cipher: aes-256-gcm, password: gqtwGu9bVreJqL3FTHSVKGzy}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_86, server: 138.199.16.130, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_64, server: 82.102.26.54, port: 50695, type: ss, cipher: aes-256-gcm, password: gqtwGu9bVreJqL3FTHSVKGzy}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_65, server: 217.138.219.229, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_66, server: 82.102.26.60, port: 44742, type: ss, cipher: aes-256-gcm, password: QCStKzZ56SHBc4tL7stCEqqd}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_40, server: 193.29.106.179, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇬🇧 YouTube_🇬🇧_GB_英国_18, server: 193.148.17.133, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_18, server: ss4.ssrsub.one, port: 9443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_87, server: 143.244.57.99, port: 44742, type: ss, cipher: aes-256-gcm, password: QCStKzZ56SHBc4tL7stCEqqd}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_88, server: 143.244.57.99, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_73, server: 207.244.67.149, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_74, server: 207.244.67.149, port: 44745, type: ss, cipher: aes-256-gcm, password: fyXdw87yCH9SAmFkPvsvLVqC}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_89, server: 143.244.57.99, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇹🇼 YouTube_🇹🇼_TW_台湾_9, server: 2.58.241.3, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_25, server: 144.48.38.21, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_75, server: 207.244.67.149, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_67, server: 87.101.94.211, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_68, server: 82.102.26.54, port: 46726, type: ss, cipher: aes-256-gcm, password: 2fqKbFPGHpcmMTJzGsUbsfYf}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_76, server: 207.244.67.149, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_69, server: 212.102.54.182, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_77, server: 198.147.22.87, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: YouTube_🇵🇹_PT_葡萄牙_8, server: 5.154.174.67, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_90, server: 143.244.57.99, port: 44628, type: ss, cipher: aes-256-gcm, password: VASQbVcukHfdBGmeS9L7Z8TT}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_26, server: 45.248.79.51, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_78, server: 207.244.67.149, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_70, server: 82.102.26.60, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_71, server: 82.102.26.60, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_19, server: ss2.ssrsub.one, port: 2443, type: ss, cipher: aes-128-gcm, password: https://dlj.tf/ssrsub}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_41, server: 138.199.19.186, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: YouTube_🇰🇿_KZ_哈萨克斯坦_16, server: 5.189.202.16, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: YouTube_🇵🇹_PT_葡萄牙_9, server: 5.154.174.67, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_28, server: 91.90.123.115, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_29, server: 91.90.123.115, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇦🇷 YouTube_🇦🇷_AR_阿根廷_20, server: 91.206.168.5, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_91, server: 163.172.65.156, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_79, server: 207.244.67.149, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_21, server: 45.134.224.20, port: 44539, type: ss, cipher: aes-256-gcm, password: r6hDrkP4Et6EENTS8Qy7Tcmg}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_27, server: 45.125.247.43, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_72, server: 87.101.94.211, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_73, server: 82.102.26.54, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_74, server: 82.102.26.54, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: YouTube_🇱🇺_LU_卢森堡_3, server: 185.153.151.85, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: YouTube_🇱🇺_LU_卢森堡_4, server: 185.153.151.98, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇬🇧 YouTube_🇬🇧_GB_英国_19, server: 89.238.143.101, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_30, server: 91.90.123.115, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_31, server: 91.90.123.115, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_42, server: 176.227.241.35, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_80, server: 207.244.67.149, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_81, server: 207.244.67.149, port: 44539, type: ss, cipher: aes-256-gcm, password: r6hDrkP4Et6EENTS8Qy7Tcmg}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_75, server: 87.101.94.211, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_76, server: 87.101.94.211, port: 42816, type: ss, cipher: aes-256-gcm, password: tBKBf4pVzNCFKdbPgvwrNXq3}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_77, server: 82.102.26.60, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇯🇵 YouTube_🇯🇵_JP_日本_10, server: www.freetouchor.xyz, port: 443, type: trojan, password: mima0.0.000, sni: www.freetouchor.xyz, skip-cert-verify: false}
+  - {name: 🇪🇸 YouTube_🇪🇸_ES_西班牙_6, server: 185.153.150.54, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: YouTube_🇳🇴_NO_挪威_2, server: 45.12.223.195, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 🇬🇧 YouTube_🇬🇧_GB_英国_20, server: 89.238.143.101, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_20, server: 198.8.92.84, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: YouTube_🇳🇴_NO_挪威_3, server: 91.219.215.69, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: YouTube_🇵🇹_PT_葡萄牙_10, server: 194.39.127.181, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_22, server: 45.134.224.20, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_82, server: 207.244.67.149, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_83, server: 207.244.67.149, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_43, server: 138.199.19.186, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_84, server: 207.244.67.149, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇪🇸 YouTube_🇪🇸_ES_西班牙_7, server: 185.153.150.58, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_32, server: 91.90.123.115, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_85, server: 199.10.64.99, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: YouTube_🇧🇦_BA_波黑_1, server: 185.99.3.102, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_86, server: 199.10.64.99, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_78, server: 185.128.27.35, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: YouTube_🇱🇺_LU_卢森堡_5, server: 185.153.151.118, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_87, server: 207.244.67.149, port: 44742, type: ss, cipher: aes-256-gcm, password: QCStKzZ56SHBc4tL7stCEqqd}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_88, server: 207.244.67.149, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_89, server: 207.244.67.149, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_90, server: 207.244.67.149, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_91, server: 198.147.22.87, port: 31757, type: ss, cipher: aes-256-gcm, password: wj7nDCuNARchSeKNCN8VFK62}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_92, server: 198.147.22.87, port: 35200, type: ss, cipher: aes-256-gcm, password: WBLAbN6AwtV5avBx73hFRLB3}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_93, server: 207.244.67.149, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: YouTube_🇭🇷_HR_克罗地亚_2, server: 85.10.50.164, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_28, server: 45.248.79.51, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_29, server: 103.192.80.133, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: YouTube_🇳🇴_NO_挪威_4, server: 45.12.223.195, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: YouTube_🇭🇷_HR_克罗地亚_3, server: 85.10.50.164, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_92, server: 51.77.170.89, port: 3030, type: ss, cipher: chacha20-ietf-poly1305, password: 7FDvhjev93bs}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_79, server: 82.102.26.54, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_93, server: 185.108.106.180, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇸🇪 YouTube_🇸🇪_SE_瑞典_1, server: 45.83.91.133, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_94, server: 138.199.16.130, port: 45948, type: ss, cipher: aes-256-gcm, password: j76EXqJcQhuQTr3EvUf7xaK9}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_23, server: 45.134.224.20, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_95, server: 143.244.57.99, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_94, server: 207.244.67.149, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_95, server: 198.147.22.87, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: YouTube_🇰🇿_KZ_哈萨克斯坦_17, server: 5.189.202.16, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_96, server: 199.10.64.99, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: YouTube_🇳🇴_NO_挪威_5, server: 91.219.215.69, port: 44539, type: ss, cipher: aes-256-gcm, password: r6hDrkP4Et6EENTS8Qy7Tcmg}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_80, server: 82.102.26.54, port: 47861, type: ss, cipher: aes-256-gcm, password: LJcChRsGQRhywrtXUU55TLTu}
+  - {name: 🇬🇧 YouTube_🇬🇧_GB_英国_21, server: 194.37.96.213, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: YouTube_🇳🇴_NO_挪威_6, server: 91.219.215.51, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_97, server: 212.102.46.56, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_98, server: t2.ssrsub.one, port: 8443, type: trojan, password: fd2e6c62-69ae-4c71-b83c-f51475a2e2b1, sni: t2.ssrsub.one, skip-cert-verify: false}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_30, server: 180.149.228.115, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇵🇭 YouTube_🇵🇭_PH_菲律宾_24, server: 45.134.224.20, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_22, server: 198.8.92.84, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
+  - {name: YouTube_🇭🇷_HR_克罗地亚_4, server: 176.222.34.113, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_96, server: 143.244.57.99, port: 49468, type: ss, cipher: aes-256-gcm, password: LsYSQDxmPj9AcWpSX5HrYfu6}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_97, server: 143.244.57.99, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇧🇪 YouTube_🇧🇪_BE_比利时_33, server: 91.90.123.115, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_100, server: 207.244.67.149, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_31, server: 45.125.247.43, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_32, server: 45.248.77.237, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇦🇺 YouTube_🇦🇺_AU_澳大利亚_33, server: 45.248.76.171, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_23, server: 198.8.92.74, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_44, server: 185.102.219.49, port: 48970, type: ss, cipher: aes-256-gcm, password: ZKEsXkFbUZ2z667YA8A7cEDP}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_81, server: 82.102.26.60, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_101, server: 66.115.182.84, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_82, server: 87.101.94.211, port: 44745, type: ss, cipher: aes-256-gcm, password: fyXdw87yCH9SAmFkPvsvLVqC}
+  - {name: 🇮🇹 YouTube_🇮🇹_IT_意大利_83, server: 87.101.94.211, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇫🇷 YouTube_🇫🇷_FR_法国_98, server: 143.244.57.99, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇨🇦 YouTube_🇨🇦_CA_加拿大_24, server: 45.62.228.191, port: 9443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
+  - {name: 🇺🇸 YouTube_🇺🇸_US_美国_102, server: 199.10.64.99, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: YouTube_🇳🇴_NO_挪威_7, server: 91.219.215.69, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: YouTube_🇸🇮_SI_斯洛文尼亚_3, server: 195.158.249.36, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇩🇪 YouTube_🇩🇪_DE_德国_45, server: 193.29.106.5, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
