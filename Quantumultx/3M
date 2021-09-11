@@ -25,7 +25,6 @@ shadowsocks = 91.206.168.41:49339, method=aes-256-gcm, password=suucSeVLmt6PQKAP
 shadowsocks = 5.189.202.16:33148, method=aes-256-gcm, password=CMduaFXddcQbwNAAs7xFDnc8, tag=🇷🇺 Pool_馃嚪馃嚭RU_2664
 shadowsocks = 5.189.202.16:48794, method=aes-256-gcm, password=r9Q3adc3ru9sfBDPEj4yp6U6, tag=🇷🇺 俄罗斯RU_8777
 shadowsocks = 193.29.107.123:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=🇷🇴 馃嚪馃嚧 RO_1671
-shadowsocks = 194.150.167.28:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇪🇸 西班牙 ES_18
 shadowsocks = 185.225.28.93:31944, method=aes-256-gcm, password=aYNeKDMzYQYw4KbUbJA8Wszq, tag=馃嚥馃嚢 MK_1409
 shadowsocks = 5.189.202.16:50695, method=aes-256-gcm, password=gqtwGu9bVreJqL3FTHSVKGzy, tag=YouTube穷人工作室_🇰🇿_KZ_哈萨克斯坦_9
 shadowsocks = 185.212.111.6:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=Pool_馃嚙馃嚘BA_428
