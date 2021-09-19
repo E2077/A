@@ -1,0 +1,239 @@
+shadowsocks = 120.232.193.3:11113, method=chacha20-ietf-poly1305, password=Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS, tag=🇨🇳 Relay_馃嚚馃嚦CN-馃嚬馃嚰TW_2021
+shadowsocks = 27.131.164.94:35371, method=aes-256-gcm, password=pjeDhAJGuML8xKUxcjRqq6a9, tag=🇹🇭 馃嚬馃嚟TH_12007
+shadowsocks = 82.102.26.93:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, tag=Pool_馃嚠馃嚬IT_7105
+shadowsocks = 212.102.44.86:49653, method=aes-256-gcm, password=Y9GcTPemHMKEkrfGQPJqFDNr, tag=🇺🇲 Pool_馃嚭馃嚫US_13824
+shadowsocks = 82.102.26.93:42185, method=aes-256-gcm, password=FaTG4zALZru72gxjgSHQ7Jdh, tag=Pool_馃嚠馃嚬IT_6793
+shadowsocks = 27.131.164.100:44539, method=aes-256-gcm, password=r6hDrkP4Et6EENTS8Qy7Tcmg, tag=🇹🇭 馃嚬馃嚟TH_12069
+shadowsocks = 185.225.28.93:31944, method=aes-256-gcm, password=aYNeKDMzYQYw4KbUbJA8Wszq, tag=馃嚥馃嚢 MK_1836
+shadowsocks = 193.118.60.167:8091, method=aes-256-gcm, password=PCnnH6SQSnfoS27, tag=馃嚞馃嚙GB_4522
+shadowsocks = 212.102.54.168:35294, method=aes-256-gcm, password=J9Y2ncrdPEC38gwydNFFGBna, tag=馃嚠馃嚬IT_6723
+shadowsocks = 212.102.54.168:50024, method=aes-256-gcm, password=b2jDPHUQxCNa2KmGHZjy7C4B, tag=馃嚠馃嚬IT_6658
+shadowsocks = 27.131.164.100:32843, method=aes-256-gcm, password=G35YSR2LFNEM9bq2dkjmKQRr, tag=🇹🇭 馃嚬馃嚟TH_12107
+shadowsocks = 5.253.205.179:49339, method=aes-256-gcm, password=suucSeVLmt6PQKAP77NtGw9x, tag=🇧🇪 馃嚙馃嚜 BE_02
+shadowsocks = 104.244.211.141:31764, method=aes-256-gcm, password=YgusH2MWA8PWc3p2VDsR7AVv, tag=🇺🇲 Pool_馃嚭馃嚫US_15386
+shadowsocks = 82.102.26.93:49339, method=aes-256-gcm, password=suucSeVLmt6PQKAP77NtGw9x, tag=Pool_🇮🇹IT_1358 | 0.68Mb
+shadowsocks = 212.102.54.181:44820, method=aes-256-gcm, password=jspgz9G3VmvBMCgMUWLBaZHu, tag=馃嚠馃嚬IT_6636
+shadowsocks = 82.102.26.93:47027, method=aes-256-gcm, password=Vt5pBJFwdtNB26cJbTXxm88Z, tag=Pool_馃嚠馃嚬IT_6635
+shadowsocks = 193.108.118.34:8090, method=aes-256-gcm, password=PCnnH6SQSnfoS27, tag=🇩🇪 馃嚛馃嚜DE_2686
+shadowsocks = 86.106.136.85:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=馃嚞馃嚙 GB_171
+shadowsocks = 212.102.44.86:41676, method=aes-256-gcm, password=z6pH3RyttkRWhJ5tpRyt6dYk, tag=🇺🇲 Pool_馃嚭馃嚫US_14035
+shadowsocks = 66.115.147.89:34815, method=aes-256-gcm, password=LkFAzkzXkSCRYa2CsRdL8cGb, tag=🇺🇲 Pool_馃嚭馃嚫US_18904
+shadowsocks = 66.115.154.131:48794, method=aes-256-gcm, password=r9Q3adc3ru9sfBDPEj4yp6U6, tag=🇺🇲 US_3257 | 4.92Mb
+shadowsocks = 66.115.177.156:41676, method=aes-256-gcm, password=z6pH3RyttkRWhJ5tpRyt6dYk, tag=🇺🇲 Pool_馃嚭馃嚫US_14594
+shadowsocks = 104.244.211.141:49653, method=aes-256-gcm, password=Y9GcTPemHMKEkrfGQPJqFDNr, tag=🇺🇲 Pool_馃嚭馃嚫US_15321
+shadowsocks = 84.17.35.83:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇺🇲 馃嚭馃嚫 US_236
+shadowsocks = 66.115.154.131:42304, method=aes-256-gcm, password=p26v2JwhQVHDHsXk66fXt56r, tag=🇺🇲 US_3305 | 7.22Mb
+shadowsocks = 175.98.195.102:18336, method=chacha20-ietf-poly1305, password=Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS, tag=🇨🇳 馃嚬馃嚰TW_12448
+shadowsocks = 104.244.211.141:49339, method=aes-256-gcm, password=suucSeVLmt6PQKAP77NtGw9x, tag=🇺🇲 馃嚭馃嚫 US_247
+shadowsocks = 185.108.106.145:34815, method=aes-256-gcm, password=LkFAzkzXkSCRYa2CsRdL8cGb, tag=🇫🇷 FR_809 | 6.45Mb
+shadowsocks = 104.244.211.141:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, tag=🇺🇲 Pool_馃嚭馃嚫US_16365
+shadowsocks = 212.102.54.168:50168, method=aes-256-gcm, password=WCuz7yrfZSCQQXSNrtGPz2HT, tag=馃嚠馃嚬IT_6455
+shadowsocks = 167.88.63.108:8091, method=aes-256-gcm, password=PCnnH6SQSnfoS27, tag=🇺🇲 馃嚭馃嚫US_18171
+shadowsocks = 27.131.164.94:48970, method=aes-256-gcm, password=ZKEsXkFbUZ2z667YA8A7cEDP, tag=🇹🇭 馃嚬馃嚟TH_12286
+shadowsocks = 66.115.154.131:45329, method=aes-256-gcm, password=CXSjgD7u7Ar7GxkZ4CgTMUsj, tag=🇺🇲 Pool_馃嚭馃嚫US_15161
+shadowsocks = 66.115.177.141:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇺🇲 Pool_馃嚭馃嚫US_15195
+shadowsocks = 66.115.177.156:44820, method=aes-256-gcm, password=jspgz9G3VmvBMCgMUWLBaZHu, tag=🇺🇲 Pool_馃嚭馃嚫US_14908
+shadowsocks = 212.102.44.86:46642, method=aes-256-gcm, password=gYL83DQWXuDbxmZAVVtUTXaK, tag=🇺🇲 Pool_馃嚭馃嚫US_16375
+shadowsocks = 212.102.54.168:48794, method=aes-256-gcm, password=r9Q3adc3ru9sfBDPEj4yp6U6, tag=馃嚠馃嚬IT_7155
+shadowsocks = 212.102.54.181:47027, method=aes-256-gcm, password=Vt5pBJFwdtNB26cJbTXxm88Z, tag=馃嚠馃嚬IT_6947
+shadowsocks = 86.106.136.93:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=馃嚞馃嚙 GB_1352
+shadowsocks = 212.102.44.86:34815, method=aes-256-gcm, password=LkFAzkzXkSCRYa2CsRdL8cGb, tag=🇺🇲 Pool_馃嚭馃嚫US_13924
+shadowsocks = 66.115.177.156:38742, method=aes-256-gcm, password=DKXfWwc4ebscpXTKpbt85rSH, tag=🇺🇲 Pool_馃嚭馃嚫US_14934
+shadowsocks = 64.44.42.56:45329, method=aes-256-gcm, password=CXSjgD7u7Ar7GxkZ4CgTMUsj, tag=🇺🇲 Pool_馃嚭馃嚫US_17051
+shadowsocks = 194.41.112.35:44820, method=aes-256-gcm, password=jspgz9G3VmvBMCgMUWLBaZHu, tag=Pool_馃嚤馃嚬LT_7627
+shadowsocks = 176.125.231.5:49339, method=aes-256-gcm, password=suucSeVLmt6PQKAP77NtGw9x, tag=Pool_馃嚞馃嚜GE_5360
+shadowsocks = 66.115.154.131:44236, method=aes-256-gcm, password=FWrXcxPZjJxAN89xLgqY3Acp, tag=🇺🇲 馃嚭馃嚫US_17488
+shadowsocks = 66.115.154.131:34815, method=aes-256-gcm, password=LkFAzkzXkSCRYa2CsRdL8cGb, tag=🇺🇲 Pool_馃嚭馃嚫US_15969
+shadowsocks = 91.90.123.131:31764, method=aes-256-gcm, password=YgusH2MWA8PWc3p2VDsR7AVv, tag=🇷🇴 Pool_🇷🇴RO_1709 | 4.72Mb
+shadowsocks = 104.244.208.211:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=🇺🇲 Pool_馃嚭馃嚫US_18135
+shadowsocks = 212.102.44.86:44236, method=aes-256-gcm, password=FWrXcxPZjJxAN89xLgqY3Acp, tag=🇺🇲 Pool_馃嚭馃嚫US_15457
+shadowsocks = 104.244.211.141:49126, method=aes-256-gcm, password=wrCaGtrUbzeRqQLdc8Kmk3Nd, tag=🇺🇲 Pool_🇺🇸US_2794 | 4.46Mb
+shadowsocks = 91.206.168.29:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=🇳🇱 Pool_馃嚦馃嚤NL_631
+shadowsocks = 194.41.112.35:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=Pool_馃嚤馃嚬LT_7657
+shadowsocks = 89.249.73.197:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=Pool__125 | 4.68Mb
+shadowsocks = 82.102.26.93:35294, method=aes-256-gcm, password=J9Y2ncrdPEC38gwydNFFGBna, tag=Pool_馃嚠馃嚬IT_6531
+shadowsocks = 66.115.177.143:48794, method=aes-256-gcm, password=r9Q3adc3ru9sfBDPEj4yp6U6, tag=🇺🇲 馃嚭馃嚫US_15983
+shadowsocks = 66.115.177.156:33998, method=aes-256-gcm, password=NHwQTPLCfaTMSqTnU3mjcSxe, tag=🇺🇲 US_3009 | 8.64Mb
+shadowsocks = 66.115.177.156:47027, method=aes-256-gcm, password=Vt5pBJFwdtNB26cJbTXxm88Z, tag=🇺🇲 Pool_馃嚭馃嚫US_14872
+shadowsocks = 193.29.106.29:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=🇷🇴 馃嚪馃嚧 RO_211
+shadowsocks = 66.115.177.156:49339, method=aes-256-gcm, password=suucSeVLmt6PQKAP77NtGw9x, tag=🇺🇲 Pool_馃嚭馃嚫US_15034
+shadowsocks = 66.115.177.156:42304, method=aes-256-gcm, password=p26v2JwhQVHDHsXk66fXt56r, tag=🇺🇲 Pool_馃嚭馃嚫US_13688
+shadowsocks = 66.115.177.156:45329, method=aes-256-gcm, password=CXSjgD7u7Ar7GxkZ4CgTMUsj, tag=🇺🇲 Pool_馃嚭馃嚫US_16152
+shadowsocks = 194.41.112.35:46642, method=aes-256-gcm, password=gYL83DQWXuDbxmZAVVtUTXaK, tag=Pool_馃嚤馃嚬LT_7636
+shadowsocks = 66.115.154.131:31944, method=aes-256-gcm, password=aYNeKDMzYQYw4KbUbJA8Wszq, tag=🇺🇲 Pool_馃嚭馃嚫US_16686
+shadowsocks = 82.102.26.93:33148, method=aes-256-gcm, password=CMduaFXddcQbwNAAs7xFDnc8, tag=Pool_馃嚠馃嚬IT_6456
+shadowsocks = 212.102.54.181:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, tag=馃嚠馃嚬IT_6774
+shadowsocks = 66.115.154.131:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇺🇲 Pool_馃嚭馃嚫US_14314
+shadowsocks = 66.115.177.143:50168, method=aes-256-gcm, password=WCuz7yrfZSCQQXSNrtGPz2HT, tag=🇺🇲 Pool_馃嚭馃嚫US_13804
+shadowsocks = 212.102.44.86:50168, method=aes-256-gcm, password=WCuz7yrfZSCQQXSNrtGPz2HT, tag=🇺🇲 Pool_馃嚭馃嚫US_18155
+shadowsocks = 82.102.26.93:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, tag=Pool_🇮🇹IT_1293 | 1.12Mb
+shadowsocks = 79.110.54.117:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, tag=🇷🇴 Pool_馃嚪馃嚧RO_11083
+shadowsocks = 37.120.217.149:36460, method=aes-256-gcm, password=yUXad7DGF8L5cTShEpnp2N6z, tag=🇩🇪 馃嚛馃嚜 DE_48
+trojan = t7.ssrsub.one:8443, password=217010a3-c48d-4c42-9b99-c4dfc173ec78, over-tls=true, tls-host=t7.ssrsub.one, tag=_853
+shadowsocks = 194.150.167.28:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇪🇸 馃嚜馃嚫 ES_18
+shadowsocks = 62.212.239.53:38620, method=aes-256-gcm, password=Kquv5UhvZXNMemAQy8DxZ7qn, tag=Pool_馃嚘馃嚳AZ_1020
+shadowsocks = 66.115.177.156:50024, method=aes-256-gcm, password=b2jDPHUQxCNa2KmGHZjy7C4B, tag=🇺🇲 Pool_馃嚭馃嚫US_13659
+shadowsocks = 89.249.73.197:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=🇧🇪 Pool_馃嚙馃嚜BE_1203
+shadowsocks = 104.244.211.141:34815, method=aes-256-gcm, password=LkFAzkzXkSCRYa2CsRdL8cGb, tag=🇺🇲 Pool_馃嚭馃嚫US_15567
+shadowsocks = 66.115.154.131:31764, method=aes-256-gcm, password=YgusH2MWA8PWc3p2VDsR7AVv, tag=🇺🇲 Pool_馃嚭馃嚫US_17087
+shadowsocks = 212.102.44.86:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=🇺🇲 Pool_馃嚭馃嚫US_14246
+shadowsocks = 62.212.239.53:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=Pool_馃嚘馃嚳AZ_941
+shadowsocks = 194.41.112.35:49126, method=aes-256-gcm, password=wrCaGtrUbzeRqQLdc8Kmk3Nd, tag=Pool_馃嚤馃嚬LT_7630
+shadowsocks = 62.212.239.53:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, tag=Pool_馃嚘馃嚳AZ_991
+shadowsocks = 212.102.44.86:50024, method=aes-256-gcm, password=b2jDPHUQxCNa2KmGHZjy7C4B, tag=🇺🇲 Pool_馃嚭馃嚫US_16296
+shadowsocks = 37.120.217.149:48089, method=aes-256-gcm, password=apqQgXJyVDsdJMAYV4xspRFK, tag=🇩🇪 馃嚛馃嚜 DE_76
+shadowsocks = 194.41.112.35:38620, method=aes-256-gcm, password=Kquv5UhvZXNMemAQy8DxZ7qn, tag=Pool_馃嚤馃嚬LT_7650
+shadowsocks = 194.41.112.35:45329, method=aes-256-gcm, password=CXSjgD7u7Ar7GxkZ4CgTMUsj, tag=Pool_馃嚤馃嚬LT_7654
+shadowsocks = 66.115.154.131:47121, method=aes-256-gcm, password=CTK8GXFQgKYQErrghPJfZ6tk, tag=🇺🇲 馃嚭馃嚫US_17142
+shadowsocks = 138.199.19.179:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=Pool_馃弫ZZ_20343
+shadowsocks = 176.125.231.5:33998, method=aes-256-gcm, password=NHwQTPLCfaTMSqTnU3mjcSxe, tag=GE_1002 | 3.14Mb
+shadowsocks = 176.125.231.5:35294, method=aes-256-gcm, password=J9Y2ncrdPEC38gwydNFFGBna, tag=Pool_馃嚞馃嚜GE_5407
+shadowsocks = 217.138.211.219:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=🇧🇪 Pool_馃嚙馃嚜BE_1223
+shadowsocks = 66.115.177.143:33998, method=aes-256-gcm, password=NHwQTPLCfaTMSqTnU3mjcSxe, tag=🇺🇲 Pool_馃嚭馃嚫US_15622
+shadowsocks = 82.102.26.93:50024, method=aes-256-gcm, password=b2jDPHUQxCNa2KmGHZjy7C4B, tag=Pool_馃嚠馃嚬IT_6693
+shadowsocks = 185.102.217.167:37588, method=aes-256-gcm, password=kD9vkjnE6dsUzwQfvKkPkQAd, tag=🇺🇲 Pool_馃嚭馃嚫US_18158
+shadowsocks = 194.41.112.35:34815, method=aes-256-gcm, password=LkFAzkzXkSCRYa2CsRdL8cGb, tag=Pool_馃嚤馃嚬LT_7651
+shadowsocks = 104.244.211.141:46642, method=aes-256-gcm, password=gYL83DQWXuDbxmZAVVtUTXaK, tag=🇺🇲 馃嚭馃嚫US_15402
+shadowsocks = 66.115.177.156:49653, method=aes-256-gcm, password=Y9GcTPemHMKEkrfGQPJqFDNr, tag=🇺🇲 Pool_馃嚭馃嚫US_13636
+shadowsocks = 27.131.164.94:33148, method=aes-256-gcm, password=CMduaFXddcQbwNAAs7xFDnc8, tag=🇹🇭 馃嚬馃嚟TH_12022
+shadowsocks = 91.90.123.163:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇷🇴 Pool_馃嚪馃嚧RO_10187
+shadowsocks = 66.115.177.143:38620, method=aes-256-gcm, password=Kquv5UhvZXNMemAQy8DxZ7qn, tag=🇺🇲 Pool_🇺🇸US_2900 | 6.35Mb
+shadowsocks = 66.115.177.156:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=🇺🇲 US_3377 | 8.50Mb
+shadowsocks = 5.226.139.225:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=馃嚞馃嚙 GB_1403
+shadowsocks = 66.115.177.156:47121, method=aes-256-gcm, password=CTK8GXFQgKYQErrghPJfZ6tk, tag=🇺🇲 Pool_馃嚭馃嚫US_16282
+shadowsocks = 194.41.112.35:47027, method=aes-256-gcm, password=Vt5pBJFwdtNB26cJbTXxm88Z, tag=Pool_馃嚤馃嚬LT_7664
+shadowsocks = 212.102.44.86:38620, method=aes-256-gcm, password=Kquv5UhvZXNMemAQy8DxZ7qn, tag=🇺🇲 馃嚭馃嚫US_16966
+shadowsocks = 64.44.42.56:49126, method=aes-256-gcm, password=wrCaGtrUbzeRqQLdc8Kmk3Nd, tag=🇺🇲 Pool_馃嚭馃嚫US_13798
+shadowsocks = 81.19.223.189:31764, method=aes-256-gcm, password=YgusH2MWA8PWc3p2VDsR7AVv, tag=馃嚞馃嚙 GB_175
+shadowsocks = 66.115.177.143:41676, method=aes-256-gcm, password=z6pH3RyttkRWhJ5tpRyt6dYk, tag=🇺🇲 US_2516 | 7.59Mb
+shadowsocks = 193.29.107.237:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇷🇴 RO_1891 | 5.89Mb
+shadowsocks = 104.244.211.141:31944, method=aes-256-gcm, password=aYNeKDMzYQYw4KbUbJA8Wszq, tag=🇺🇲 Pool_馃嚭馃嚫US_16199
+shadowsocks = 66.115.177.143:45329, method=aes-256-gcm, password=CXSjgD7u7Ar7GxkZ4CgTMUsj, tag=🇺🇲 Pool_馃嚭馃嚫US_15592
+shadowsocks = 66.115.177.156:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, tag=🇺🇲 Pool_馃嚭馃嚫US_13682
+shadowsocks = 66.115.177.156:50168, method=aes-256-gcm, password=WCuz7yrfZSCQQXSNrtGPz2HT, tag=🇺🇲 Pool_馃嚭馃嚫US_18820
+shadowsocks = 193.29.107.123:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=🇷🇴 馃嚪馃嚧 RO_2171
+vmess = 42.157.8.162:46006, method=chacha20-ietf-poly1305, password=3959477e-55c4-453f-bc80-3b13e64891ac, tag=🇨🇳 CN_496 | 4.08Mb
+shadowsocks = 194.41.112.35:50168, method=aes-256-gcm, password=WCuz7yrfZSCQQXSNrtGPz2HT, tag=Pool_馃嚤馃嚬LT_7656
+shadowsocks = 194.41.112.35:38742, method=aes-256-gcm, password=DKXfWwc4ebscpXTKpbt85rSH, tag=Pool_馃嚤馃嚬LT_7662
+shadowsocks = 185.108.106.146:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇫🇷 FR_834 | 4.35Mb
+shadowsocks = 212.102.54.168:44820, method=aes-256-gcm, password=jspgz9G3VmvBMCgMUWLBaZHu, tag=IT_1206 | 4.17Mb
+shadowsocks = 192.154.253.67:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇺🇲 馃嚭馃嚫 US_2664
+shadowsocks = 193.118.60.169:8091, method=aes-256-gcm, password=PCnnH6SQSnfoS27, tag=GB_933 | 3.00Mb
+shadowsocks = 66.115.177.143:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, tag=🇺🇲 馃嚭馃嚫US_15960
+shadowsocks = 5.226.139.65:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, tag=馃嚞馃嚙 GB_1409
+shadowsocks = 212.102.54.168:46642, method=aes-256-gcm, password=gYL83DQWXuDbxmZAVVtUTXaK, tag=IT_1250 | 2.64Mb
+shadowsocks = 176.125.231.5:44820, method=aes-256-gcm, password=jspgz9G3VmvBMCgMUWLBaZHu, tag=GE_1007 | 3.99Mb
+shadowsocks = 66.115.154.131:47027, method=aes-256-gcm, password=Vt5pBJFwdtNB26cJbTXxm88Z, tag=🇺🇲 Pool_🇺🇸US_3284 | 7.73Mb
+shadowsocks = 212.102.54.168:49126, method=aes-256-gcm, password=wrCaGtrUbzeRqQLdc8Kmk3Nd, tag=馃嚠馃嚬IT_7174
+shadowsocks = 146.70.27.37:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=馃嚞馃嚙 GB_172
+shadowsocks = 66.115.154.131:33148, method=aes-256-gcm, password=CMduaFXddcQbwNAAs7xFDnc8, tag=🇺🇲 Pool_馃嚭馃嚫US_15124
+vmess = 46.17.45.139:56967, method=chacha20-ietf-poly1305, password=5458261b-ec18-4673-9251-fa7859a5cacb, tag=🇷🇺 馃嚪馃嚭RU_11657
+shadowsocks = 82.102.26.93:44236, method=aes-256-gcm, password=FWrXcxPZjJxAN89xLgqY3Acp, tag=Pool_🇮🇹IT_1312 | 0.65Mb
+shadowsocks = 66.115.177.156:49126, method=aes-256-gcm, password=wrCaGtrUbzeRqQLdc8Kmk3Nd, tag=🇺🇲 Pool_馃嚭馃嚫US_14581
+shadowsocks = 134.195.196.79:8090, method=aes-256-gcm, password=PCnnH6SQSnfoS27, tag=馃弫ZZ_20313
+shadowsocks = 212.102.44.86:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇺🇲 Pool_馃嚭馃嚫US_13994
+shadowsocks = 66.115.177.143:34815, method=aes-256-gcm, password=LkFAzkzXkSCRYa2CsRdL8cGb, tag=🇺🇲 Pool_馃嚭馃嚫US_16721
+shadowsocks = 193.118.60.171:8091, method=aes-256-gcm, password=PCnnH6SQSnfoS27, tag=馃嚞馃嚙GB_4524
+shadowsocks = 212.102.54.168:49653, method=aes-256-gcm, password=Y9GcTPemHMKEkrfGQPJqFDNr, tag=馃嚠馃嚬IT_7017
+shadowsocks = 212.102.54.168:38742, method=aes-256-gcm, password=DKXfWwc4ebscpXTKpbt85rSH, tag=馃嚠馃嚬IT_6507
+shadowsocks = 91.90.123.131:33998, method=aes-256-gcm, password=NHwQTPLCfaTMSqTnU3mjcSxe, tag=🇷🇴 Pool_馃嚪馃嚧RO_9729
+shadowsocks = 37.120.217.149:39556, method=aes-256-gcm, password=g4AfpNELpdYEeLYhM8XCX9se, tag=🇩🇪 馃嚛馃嚜 DE_146
+shadowsocks = 167.88.63.82:8091, method=aes-256-gcm, password=PCnnH6SQSnfoS27, tag=🇺🇲 馃嚭馃嚫US_18170
+shadowsocks = 194.37.96.213:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=🇷🇴 RO_1849 | 4.19Mb
+shadowsocks = 66.115.154.131:38742, method=aes-256-gcm, password=DKXfWwc4ebscpXTKpbt85rSH, tag=🇺🇲 馃嚭馃嚫US_14668
+shadowsocks = 66.115.177.141:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, tag=🇺🇲 Pool_馃嚭馃嚫US_15251
+shadowsocks = 66.115.177.156:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, tag=🇺🇲 Pool_馃嚭馃嚫US_1025
+shadowsocks = 66.115.154.131:50695, method=aes-256-gcm, password=gqtwGu9bVreJqL3FTHSVKGzy, tag=🇺🇲 US_2512 | 8.99Mb
+shadowsocks = 193.29.107.123:31944, method=aes-256-gcm, password=aYNeKDMzYQYw4KbUbJA8Wszq, tag=🇷🇴 RO_1732 | 3.49Mb
+shadowsocks = 66.115.177.143:49339, method=aes-256-gcm, password=suucSeVLmt6PQKAP77NtGw9x, tag=🇺🇲 Pool_馃嚭馃嚫US_15623
+shadowsocks = 212.102.54.168:41676, method=aes-256-gcm, password=z6pH3RyttkRWhJ5tpRyt6dYk, tag=IT_1390 | 5.75Mb
+shadowsocks = 82.102.26.93:47121, method=aes-256-gcm, password=CTK8GXFQgKYQErrghPJfZ6tk, tag=Pool_馃嚠馃嚬IT_6791
+shadowsocks = 82.102.26.93:48794, method=aes-256-gcm, password=r9Q3adc3ru9sfBDPEj4yp6U6, tag=Pool_馃嚠馃嚬IT_6929
+shadowsocks = 82.102.26.94:38742, method=aes-256-gcm, password=DKXfWwc4ebscpXTKpbt85rSH, tag=馃嚠馃嚬IT_7050
+shadowsocks = 134.195.198.95:8091, method=aes-256-gcm, password=PCnnH6SQSnfoS27, tag=馃弫ZZ_20315
+shadowsocks = 212.102.40.68:49339, method=aes-256-gcm, password=suucSeVLmt6PQKAP77NtGw9x, tag=🇺🇲 Pool_馃嚭馃嚫US_18133
+shadowsocks = 134.195.196.154:8090, method=aes-256-gcm, password=PCnnH6SQSnfoS27, tag=馃弫ZZ_20311
+shadowsocks = 66.115.177.143:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇺🇲 Pool_馃嚭馃嚫US_15539
+shadowsocks = 66.115.177.143:50024, method=aes-256-gcm, password=b2jDPHUQxCNa2KmGHZjy7C4B, tag=🇺🇲 Pool_馃嚭馃嚫US_15633
+shadowsocks = 104.244.211.141:35294, method=aes-256-gcm, password=J9Y2ncrdPEC38gwydNFFGBna, tag=🇺🇲 Pool_馃嚭馃嚫US_16447
+shadowsocks = 45.12.221.179:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=馃嚛馃嚢 DK_1019
+shadowsocks = 212.102.54.181:42304, method=aes-256-gcm, password=p26v2JwhQVHDHsXk66fXt56r, tag=馃嚠馃嚬IT_7051
+shadowsocks = 82.102.26.93:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=Pool_馃嚠馃嚬IT_6450
+shadowsocks = 82.102.26.93:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=Pool_🇮🇹IT_1356 | 2.75Mb
+shadowsocks = 193.29.107.163:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇷🇴 馃嚪馃嚧 RO_213
+shadowsocks = 89.238.130.253:49339, method=aes-256-gcm, password=suucSeVLmt6PQKAP77NtGw9x, tag=馃嚞馃嚙 GB_177
+shadowsocks = 27.131.164.100:50695, method=aes-256-gcm, password=gqtwGu9bVreJqL3FTHSVKGzy, tag=🇹🇭 馃嚬馃嚟TH_12031
+shadowsocks = 82.102.26.93:38742, method=aes-256-gcm, password=DKXfWwc4ebscpXTKpbt85rSH, tag=Pool_馃嚠馃嚬IT_6674
+shadowsocks = 79.110.54.117:41676, method=aes-256-gcm, password=z6pH3RyttkRWhJ5tpRyt6dYk, tag=🇷🇴 Pool_馃嚪馃嚧RO_10913
+shadowsocks = 104.244.211.141:38620, method=aes-256-gcm, password=Kquv5UhvZXNMemAQy8DxZ7qn, tag=🇺🇲 Pool_馃嚭馃嚫US_14505
+shadowsocks = 104.244.211.141:37588, method=aes-256-gcm, password=kD9vkjnE6dsUzwQfvKkPkQAd, tag=🇺🇲 Pool_馃嚭馃嚫US_14189
+shadowsocks = 66.115.177.143:47027, method=aes-256-gcm, password=Vt5pBJFwdtNB26cJbTXxm88Z, tag=🇺🇲 馃嚭馃嚫US_15953
+shadowsocks = 64.44.42.56:47121, method=aes-256-gcm, password=CTK8GXFQgKYQErrghPJfZ6tk, tag=🇺🇲 Pool_馃嚭馃嚫US_18680
+shadowsocks = 104.244.211.141:33998, method=aes-256-gcm, password=NHwQTPLCfaTMSqTnU3mjcSxe, tag=🇺🇲 Pool_馃嚭馃嚫US_15412
+shadowsocks = 89.249.73.197:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇧🇪 馃嚙馃嚜 BE_296
+shadowsocks = 82.102.26.93:41676, method=aes-256-gcm, password=z6pH3RyttkRWhJ5tpRyt6dYk, tag=Pool_馃嚠馃嚬IT_6940
+shadowsocks = 66.115.177.156:48794, method=aes-256-gcm, password=r9Q3adc3ru9sfBDPEj4yp6U6, tag=🇺🇲 Pool_馃嚭馃嚫US_17096
+shadowsocks = 82.102.26.93:34815, method=aes-256-gcm, password=LkFAzkzXkSCRYa2CsRdL8cGb, tag=Pool_馃嚠馃嚬IT_6619
+shadowsocks = 91.90.123.131:35294, method=aes-256-gcm, password=J9Y2ncrdPEC38gwydNFFGBna, tag=🇷🇴 Pool_馃嚪馃嚧RO_10507
+shadowsocks = 66.115.154.131:35294, method=aes-256-gcm, password=J9Y2ncrdPEC38gwydNFFGBna, tag=🇺🇲 US_3231 | 6.91Mb
+shadowsocks = 82.102.26.93:49653, method=aes-256-gcm, password=Y9GcTPemHMKEkrfGQPJqFDNr, tag=Pool_🇮🇹IT_1264 | 5.81Mb
+shadowsocks = 66.115.177.141:44820, method=aes-256-gcm, password=jspgz9G3VmvBMCgMUWLBaZHu, tag=🇺🇲 Pool_馃嚭馃嚫US_15242
+vmess = els.jklist.ga:443, method=chacha20-ietf-poly1305, password=25290405-8ef7-4561-acc0-0d234fe8d9da, obfs=ws, obfs-host=a.189.cn, obfs-uri=/TS/recharge/tzUrl.html, tag=🇷🇺 Relay_馃嚪馃嚭RU-馃嚪馃嚭RU_11656
+shadowsocks = 66.115.177.143:42304, method=aes-256-gcm, password=p26v2JwhQVHDHsXk66fXt56r, tag=🇺🇲 Pool_馃嚭馃嚫US_16281
+shadowsocks = 212.102.44.86:31764, method=aes-256-gcm, password=YgusH2MWA8PWc3p2VDsR7AVv, tag=🇺🇲 Pool_🇺🇸US_2981 |11.70Mb
+shadowsocks = 37.120.217.149:41992, method=aes-256-gcm, password=XmQSxDCn5ehpcq6DBYms8FJf, tag=🇩🇪 馃嚛馃嚜 DE_129
+shadowsocks = 66.115.154.131:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, tag=🇺🇲 Pool_馃嚭馃嚫US_14542
+shadowsocks = 66.115.177.143:44236, method=aes-256-gcm, password=FWrXcxPZjJxAN89xLgqY3Acp, tag=🇺🇲 Pool_馃嚭馃嚫US_15598
+shadowsocks = 82.102.26.93:31764, method=aes-256-gcm, password=YgusH2MWA8PWc3p2VDsR7AVv, tag=Pool_馃嚠馃嚬IT_6530
+shadowsocks = 37.120.207.5:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=Pool_馃嚠馃嚬IT_6912
+shadowsocks = 91.90.123.131:44820, method=aes-256-gcm, password=jspgz9G3VmvBMCgMUWLBaZHu, tag=🇷🇴 Pool_馃嚪馃嚧RO_10376
+shadowsocks = 66.115.177.141:49126, method=aes-256-gcm, password=wrCaGtrUbzeRqQLdc8Kmk3Nd, tag=🇺🇲 馃嚭馃嚫US_16652
+shadowsocks = 66.115.177.141:34815, method=aes-256-gcm, password=LkFAzkzXkSCRYa2CsRdL8cGb, tag=🇺🇲 Pool_馃嚭馃嚫US_15198
+shadowsocks = 64.44.42.60:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=🇺🇲 Pool_馃嚭馃嚫US_18562
+shadowsocks = 176.125.231.5:49126, method=aes-256-gcm, password=wrCaGtrUbzeRqQLdc8Kmk3Nd, tag=Pool_馃嚞馃嚜GE_5341
+shadowsocks = 84.39.114.86:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=馃嚚馃嚟 CH_14
+shadowsocks = 66.115.177.143:33148, method=aes-256-gcm, password=CMduaFXddcQbwNAAs7xFDnc8, tag=🇺🇲 Pool_馃嚭馃嚫US_13812
+shadowsocks = 86.106.136.93:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=馃嚞馃嚙 GB_1407
+shadowsocks = 66.115.177.141:42185, method=aes-256-gcm, password=FaTG4zALZru72gxjgSHQ7Jdh, tag=🇺🇲 Pool_馃嚭馃嚫US_15632
+shadowsocks = 37.120.217.149:49653, method=aes-256-gcm, password=Y9GcTPemHMKEkrfGQPJqFDNr, tag=🇩🇪 馃嚛馃嚜 DE_31
+shadowsocks = 91.90.123.131:42304, method=aes-256-gcm, password=p26v2JwhQVHDHsXk66fXt56r, tag=🇷🇴 Pool_🇷🇴RO_1901 | 3.06Mb
+shadowsocks = 66.115.177.141:50168, method=aes-256-gcm, password=WCuz7yrfZSCQQXSNrtGPz2HT, tag=🇺🇲 馃嚭馃嚫US_15754
+shadowsocks = 66.115.177.141:35294, method=aes-256-gcm, password=J9Y2ncrdPEC38gwydNFFGBna, tag=🇺🇲 US_2507 | 8.52Mb
+shadowsocks = 82.102.26.93:38747, method=aes-256-gcm, password=RtbLkxbJZpUQ6m8y4qAeLYZj, tag=Pool_馃嚠馃嚬IT_6452
+shadowsocks = 66.115.177.141:47027, method=aes-256-gcm, password=Vt5pBJFwdtNB26cJbTXxm88Z, tag=🇺🇲 Pool_馃嚭馃嚫US_15252
+shadowsocks = 37.120.217.149:44742, method=aes-256-gcm, password=QCStKzZ56SHBc4tL7stCEqqd, tag=🇩🇪 馃嚛馃嚜 DE_112
+shadowsocks = 66.115.177.143:31764, method=aes-256-gcm, password=YgusH2MWA8PWc3p2VDsR7AVv, tag=🇺🇲 Pool_馃嚭馃嚫US_16283
+shadowsocks = 66.115.177.141:48794, method=aes-256-gcm, password=r9Q3adc3ru9sfBDPEj4yp6U6, tag=🇺🇲 Pool_馃嚭馃嚫US_15183
+shadowsocks = 66.115.177.141:33148, method=aes-256-gcm, password=CMduaFXddcQbwNAAs7xFDnc8, tag=🇺🇲 Pool_🇺🇸US_3343 | 9.76Mb
+shadowsocks = 66.115.177.143:46642, method=aes-256-gcm, password=gYL83DQWXuDbxmZAVVtUTXaK, tag=🇺🇲 US_3142 | 8.76Mb
+shadowsocks = 66.115.177.156:38620, method=aes-256-gcm, password=Kquv5UhvZXNMemAQy8DxZ7qn, tag=🇺🇲 Pool_馃嚭馃嚫US_17032
+shadowsocks = 82.102.26.93:50168, method=aes-256-gcm, password=WCuz7yrfZSCQQXSNrtGPz2HT, tag=IT_1274 | 4.80Mb
+shadowsocks = 66.115.177.156:31944, method=aes-256-gcm, password=aYNeKDMzYQYw4KbUbJA8Wszq, tag=🇺🇲 Pool_馃嚭馃嚫US_14891
+shadowsocks = 66.115.177.156:33148, method=aes-256-gcm, password=CMduaFXddcQbwNAAs7xFDnc8, tag=🇺🇲 Pool_馃嚭馃嚫US_14932
+shadowsocks = 66.115.177.143:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=🇺🇲 馃嚭馃嚫US_16591
+shadowsocks = 66.115.177.143:35294, method=aes-256-gcm, password=J9Y2ncrdPEC38gwydNFFGBna, tag=🇺🇲 Pool_馃嚭馃嚫US_14853
+shadowsocks = 66.115.177.141:41676, method=aes-256-gcm, password=z6pH3RyttkRWhJ5tpRyt6dYk, tag=🇺🇲 Pool_馃嚭馃嚫US_15308
+shadowsocks = 66.115.177.156:35294, method=aes-256-gcm, password=J9Y2ncrdPEC38gwydNFFGBna, tag=🇺🇲 Pool_馃嚭馃嚫US_14896
+shadowsocks = 66.115.154.131:49653, method=aes-256-gcm, password=Y9GcTPemHMKEkrfGQPJqFDNr, tag=🇺🇲 馃嚭馃嚫US_15648
+shadowsocks = 66.115.177.141:37588, method=aes-256-gcm, password=kD9vkjnE6dsUzwQfvKkPkQAd, tag=🇺🇲 US_3182 | 8.37Mb
+shadowsocks = 66.115.177.143:49653, method=aes-256-gcm, password=Y9GcTPemHMKEkrfGQPJqFDNr, tag=🇺🇲 Pool_馃嚭馃嚫US_15591
+shadowsocks = 66.115.177.156:44236, method=aes-256-gcm, password=FWrXcxPZjJxAN89xLgqY3Acp, tag=🇺🇲 Pool_馃嚭馃嚫US_13696
+shadowsocks = 104.244.211.141:47121, method=aes-256-gcm, password=CTK8GXFQgKYQErrghPJfZ6tk, tag=🇺🇲 Pool_馃嚭馃嚫US_16943
+shadowsocks = 66.115.177.156:46642, method=aes-256-gcm, password=gYL83DQWXuDbxmZAVVtUTXaK, tag=🇺🇲 Pool_馃嚭馃嚫US_16146
+shadowsocks = 66.115.177.141:42304, method=aes-256-gcm, password=p26v2JwhQVHDHsXk66fXt56r, tag=🇺🇲 US_3303 | 3.57Mb
+shadowsocks = 89.238.130.253:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=馃嚞馃嚙 GB_176
+shadowsocks = 66.115.177.141:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, tag=🇺🇲 Pool_馃嚭馃嚫US_15248
+shadowsocks = 86.106.136.93:31764, method=aes-256-gcm, password=YgusH2MWA8PWc3p2VDsR7AVv, tag=馃嚞馃嚙 GB_1381
+shadowsocks = 66.115.177.143:44820, method=aes-256-gcm, password=jspgz9G3VmvBMCgMUWLBaZHu, tag=🇺🇲 Pool_馃嚭馃嚫US_15609
+shadowsocks = 66.115.177.136:49339, method=aes-256-gcm, password=suucSeVLmt6PQKAP77NtGw9x, tag=🇺🇲 Pool_馃嚭馃嚫US_15031
+shadowsocks = 66.115.177.136:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=🇺🇲 Pool_馃嚭馃嚫US_15056
+trojan = t6.ssrsub.one:8443, password=217010a3-c48d-4c42-9b99-c4dfc173ec78, over-tls=true, tls-host=t6.ssrsub.one, tag=_845
+shadowsocks = 66.115.177.141:31944, method=aes-256-gcm, password=aYNeKDMzYQYw4KbUbJA8Wszq, tag=🇺🇲 Pool_馃嚭馃嚫US_16413
+shadowsocks = 66.115.177.141:49653, method=aes-256-gcm, password=Y9GcTPemHMKEkrfGQPJqFDNr, tag=🇺🇲 Pool_馃嚭馃嚫US_15196
+shadowsocks = 66.115.177.143:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, tag=🇺🇲 馃嚭馃嚫US_16918
+shadowsocks = 66.115.154.131:38620, method=aes-256-gcm, password=Kquv5UhvZXNMemAQy8DxZ7qn, tag=🇺🇲 Pool_馃嚭馃嚫US_14040
+shadowsocks = 66.115.177.141:50024, method=aes-256-gcm, password=b2jDPHUQxCNa2KmGHZjy7C4B, tag=🇺🇲 Pool_馃嚭馃嚫US_15327
+shadowsocks = 66.115.177.141:47121, method=aes-256-gcm, password=CTK8GXFQgKYQErrghPJfZ6tk, tag=🇺🇲 US_2470 | 6.49Mb
+shadowsocks = 66.115.177.143:37588, method=aes-256-gcm, password=kD9vkjnE6dsUzwQfvKkPkQAd, tag=🇺🇲 Pool_馃嚭馃嚫US_15532
+shadowsocks = 79.110.54.117:46642, method=aes-256-gcm, password=gYL83DQWXuDbxmZAVVtUTXaK, tag=🇷🇴 Pool_馃嚪馃嚧RO_9550
+
