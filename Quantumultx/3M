@@ -112,7 +112,6 @@ shadowsocks = 66.115.177.143:45329, method=aes-256-gcm, password=CXSjgD7u7Ar7Gxk
 shadowsocks = 66.115.177.156:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, tag=🇺🇲 Pool_馃嚭馃嚫US_13682
 shadowsocks = 66.115.177.156:50168, method=aes-256-gcm, password=WCuz7yrfZSCQQXSNrtGPz2HT, tag=🇺🇲 Pool_馃嚭馃嚫US_18820
 shadowsocks = 193.29.107.123:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=🇷🇴 馃嚪馃嚧 RO_2171
-vmess = 42.157.8.162:46006, method=chacha20-ietf-poly1305, password=3959477e-55c4-453f-bc80-3b13e64891ac, tag=🇨🇳 CN_496 | 4.08Mb
 shadowsocks = 194.41.112.35:50168, method=aes-256-gcm, password=WCuz7yrfZSCQQXSNrtGPz2HT, tag=Pool_馃嚤馃嚬LT_7656
 shadowsocks = 194.41.112.35:38742, method=aes-256-gcm, password=DKXfWwc4ebscpXTKpbt85rSH, tag=Pool_馃嚤馃嚬LT_7662
 shadowsocks = 185.108.106.146:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇫🇷 FR_834 | 4.35Mb
