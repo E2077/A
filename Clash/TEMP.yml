@@ -5,797 +5,429 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 🇮🇳 印度孟买01丨核心加速【5Gbps】, server: f2s.byjc.top, port: 57367, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}}
-  - {name: 🇸🇬 新加坡01丨核心加速【5Gbps】, server: f2s.byjc.top, port: 14753, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}}
-  - {name: 🇯🇵 日本专线1号丨核心加速【5Gbps】, server: f2s.byjc.top, port: 28468, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}}
-  - {name: 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】, server: 13.78.123.26, port: 1621, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 13.78.123.26}}
-  - {name: 🇦🇺 澳大利亚01丨核心加速【5Gbps】, server: f2s.byjc.top, port: 37760, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}}
-  - {name: 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】, server: f2s.byjc.top, port: 18705, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}}
-  - {name: 🇺🇲 美国02丨核心加速【5Gbps】, server: f2s.byjc.top, port: 22029, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}}
-  - {name: 🇰🇷 韩国01丨边缘加速【5Gbps】, server: f2s.byjc.top, port: 49627, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}}
-  - {name: 🇰🇷 韩国02丨核心加速【5Gbps】, server: f2s.byjc.top, port: 43843, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}}
-  - {name: 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】, server: 20.194.46.20, port: 1623, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 20.194.46.20}}
-  - {name: 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】, server: f2s.byjc.top, port: 61319, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}}
-  - {name: 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】, server: f2s.byjc.top, port: 56859, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}}
-  - {name: 🏳️‍🌈 过期时间：2021-09-17, server: www.qbklj.xyz, port: 10086, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇮🇳 印度孟买01丨核心加速【5Gbps】 2, server: f2s.byjc.top, port: 57367, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}, udp: true}
-  - {name: 🇸🇬 新加坡01丨核心加速【5Gbps】 2, server: f2s.byjc.top, port: 14753, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}, udp: true}
-  - {name: 🇯🇵 日本专线1号丨核心加速【5Gbps】 2, server: f2s.byjc.top, port: 28468, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}, udp: true}
-  - {name: 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】 2, server: 13.78.123.26, port: 1621, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 13.78.123.26}, udp: true}
-  - {name: 🇦🇺 澳大利亚01丨核心加速【5Gbps】 2, server: f2s.byjc.top, port: 37760, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}, udp: true}
-  - {name: 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】 2, server: f2s.byjc.top, port: 18705, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}, udp: true}
-  - {name: 🇺🇲 美国02丨核心加速【5Gbps】 2, server: f2s.byjc.top, port: 22029, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}, udp: true}
-  - {name: 🇰🇷 韩国01丨边缘加速【5Gbps】 2, server: f2s.byjc.top, port: 49627, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}, udp: true}
-  - {name: 🇰🇷 韩国02丨核心加速【5Gbps】 2, server: f2s.byjc.top, port: 43843, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}, udp: true}
-  - {name: 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】 2, server: 20.194.46.20, port: 1623, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 20.194.46.20}, udp: true}
-  - {name: 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】 2, server: f2s.byjc.top, port: 61319, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}, udp: true}
-  - {name: 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】 2, server: f2s.byjc.top, port: 56859, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}, udp: true}
-  - {name: 🇮🇳 印度孟买01丨核心加速【5Gbps】 3, server: f2s.byjc.top, port: 57367, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 0, cipher: chacha20-poly1305, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}}
-  - {name: 🇸🇬 新加坡01丨核心加速【5Gbps】 3, server: f2s.byjc.top, port: 14753, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 0, cipher: chacha20-poly1305, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}}
-  - {name: 🇯🇵 日本专线1号丨核心加速【5Gbps】 3, server: f2s.byjc.top, port: 28468, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 0, cipher: chacha20-poly1305, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}}
-  - {name: 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】 3, server: 13.78.123.26, port: 1621, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 0, cipher: chacha20-poly1305, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 13.78.123.26}}
-  - {name: 🇦🇺 澳大利亚01丨核心加速【5Gbps】 3, server: f2s.byjc.top, port: 37760, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 0, cipher: chacha20-poly1305, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}}
-  - {name: 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】 3, server: f2s.byjc.top, port: 18705, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 0, cipher: chacha20-poly1305, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}}
-  - {name: 🇺🇲 美国02丨核心加速【5Gbps】 3, server: f2s.byjc.top, port: 22029, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 0, cipher: chacha20-poly1305, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}}
-  - {name: 🇰🇷 韩国01丨边缘加速【5Gbps】 3, server: f2s.byjc.top, port: 49627, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 0, cipher: chacha20-poly1305, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}}
-  - {name: 🇰🇷 韩国02丨核心加速【5Gbps】 3, server: f2s.byjc.top, port: 43843, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 0, cipher: chacha20-poly1305, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}}
-  - {name: 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】 3, server: 20.194.46.20, port: 1623, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 0, cipher: chacha20-poly1305, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 20.194.46.20}}
-  - {name: 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】 3, server: f2s.byjc.top, port: 61319, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 0, cipher: chacha20-poly1305, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}}
-  - {name: 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】 3, server: f2s.byjc.top, port: 56859, type: vmess, uuid: 8bbfc275-56b0-3b5a-96fd-570a87592039, alterId: 0, cipher: chacha20-poly1305, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: f2s.byjc.top}}
-  - {name: 🇺🇲 拉斯维加斯01 | 中转 | 倍率 * 1.2, server: qd.bgp.nkeo.top, port: 26302, type: vmess, uuid: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /vegasa1, ws-headers: {Host: qd.bgp.nkeo.top}, udp: true}
-  - {name: 🇺🇲 拉斯维加斯02 | 中转 | 解锁NF | 倍率 * 1.3, server: gy.a2.nkeo.top, port: 26006, type: vmess, uuid: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /vegasa2, ws-headers: {Host: gy.a2.nkeo.top}, udp: true}
-  - {name: 🇺🇲 拉斯维加斯03 | 直连 | 解锁 NF | 倍率 * 1, server: vegasa.pigtail.ml, port: 35373, type: vmess, uuid: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /vegasa3, ws-headers: {Host: vegasa.pigtail.ml}, udp: true}
-  - {name: 🇷🇺 俄罗斯01 | 直连 | 不稳定 | 倍率 * 0.8, server: rusa.pigtail.ml, port: 11071, type: vmess, uuid: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /rusa1, ws-headers: {Host: rusa.pigtail.ml}, udp: true}
-  - {name: 🇿🇦 南非01 | 直连 | 倍率 * 1, server: nf.pigtail.ml, port: 35368, type: vmess, uuid: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /thisfast01/, ws-headers: {Host: nf.pigtail.ml}, udp: true}
-  - {name: 🇿🇦 南非02 | 小高速 | 中转 | 倍率 * 1.3, server: qd.bgp.nkeo.top, port: 26001, type: vmess, uuid: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /thisfast02/, ws-headers: {Host: qd.bgp.nkeo.top}, udp: true}
-  - {name: 🇿🇦 南非03 | 中转 | 解锁NF | 倍率 * 1.2, server: f0a98a81-f107.fkunky.cn, port: 51161, type: vmess, uuid: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /thisfast03/, ws-headers: {Host: f0a98a81-f107.fkunky.cn}, udp: true}
-  - {name: 🇯🇵 日本01 | 中转 | NF仅自制剧 | 倍率 * 1, server: f0a98a81-f107.fkunky.cn, port: 51152, type: vmess, uuid: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /cGSH2YVs/, ws-headers: {Host: f0a98a81-f107.fkunky.cn}, udp: true}
-  - {name: 🇯🇵 日本02 | 中转 | NF仅自制剧 | 倍率 * 1, server: cmjm.xhbao.me, port: 26001, type: vmess, uuid: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /lankerensjpp/, ws-headers: {Host: cmjm.xhbao.me}, udp: true}
-  - {name: 🇨🇳 台湾01 | 原生 | 解锁NF | 中转 | 倍率 * 1.5, server: qd.bgp.nkeo.top, port: 26007, type: vmess, uuid: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /cntwlanke/, ws-headers: {Host: qd.bgp.nkeo.top}, udp: true}
-  - {name: 🇨🇳 台湾02 | 原生 | 解锁NF | 倍率 * 1, server: nat-a-f56b41cvb.hinet-hua.xyz, port: 11381, type: vmess, uuid: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /cntwlankerens/, ws-headers: {Host: nat-a-f56b41cvb.hinet-hua.xyz}, udp: true}
-  - {name: 🇸🇬 新加坡01 | 中转 | 倍率 * 1.2, server: qd.bgp.nkeo.top, port: 26388, type: vmess, uuid: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /0kHyZqYL/, ws-headers: {Host: qd.bgp.nkeo.top}, udp: true}
-  - {name: 🇸🇬 新加坡02 | 中转 | 倍率 * 1.2, server: gy.a2.nkeo.top, port: 26389, type: vmess, uuid: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /KGM3Cmfy/, ws-headers: {Host: gy.a2.nkeo.top}, udp: true}
-  - {name: 🇭🇰 香港01 | 中转 | 倍率 * 1.2, server: gy.a2.nkeo.top, port: 26002, type: trojan, password: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, sni: hk1zhutou0, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 香港02 | 直连 | 倍率* 1.2, server: hk1.zhutou.cyou, port: 43265, type: trojan, password: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, sni: hk1zhutou1, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 香港03 | 直连 | 解锁 NF | 倍率 * 1.2, server: hk1.zhutou.cyou, port: 43266, type: trojan, password: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, sni: hk1zhutou2, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 香港04 | 直连 | 倍率 * 1.5, server: hk1.pigtail.ml, port: 43266, type: trojan, password: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, sni: hkt4, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 香港05 | 直连 | 倍率 * 1.5, server: hk1.pigtail.ml, port: 43201, type: trojan, password: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, sni: hkt4-1, skip-cert-verify: true, udp: true}
-  - {name: 🇮🇳 印度01 | 中转 | 倍率 * 1.2, server: sh.lt.nkeo.top, port: 26008, type: trojan, password: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, sni: indalan1, skip-cert-verify: true, udp: true}
-  - {name: 🇮🇳 印度02 | 中转 | 倍率 * 1.2, server: f0a98a81-f107.fkunky.cn, port: 51155, type: trojan, password: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, sni: indalan2, skip-cert-verify: true, udp: true}
-  - {name: 🇮🇳 印度03 | 直连 | 解锁NF | 倍率 * 1, server: inda.pigtail.ml, port: 43269, type: trojan, password: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, sni: indalan3, skip-cert-verify: true, udp: true}
-  - {name: 🇰🇷 首尔01 | 直连 | 倍率 * 1, server: hg1.pigtail.ml, port: 45235, type: vmess, uuid: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /WSnLPYov/, ws-headers: {Host: hg1.pigtail.ml}, udp: true}
-  - {name: 🇰🇷 首尔02 | 直连 | 倍率 * 1, server: hg1.zhutou.cyou, port: 43263, type: trojan, password: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, sni: zKjhvWHY, skip-cert-verify: true, udp: true}
-  - {name: 🇲🇴 澳门01 | 解锁 NF | 中转 | 倍率 * 1.2, server: gy.a2.nkeo.top, port: 41234, type: vmess, uuid: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /ctmpoloddns/, ws-headers: {Host: gy.a2.nkeo.top}, udp: true}
-  - {name: 🇲🇴 澳门02 | 直连 | 解锁NF | 倍率 * 1.2, server: ctm.poloddns.xyz, port: 41235, type: vmess, uuid: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /ctmpoloddns1/, ws-headers: {Host: ctm.poloddns.xyz}, udp: true}
-  - {name: 🇭🇰 香港06 | 80 | 纯翻墙请用其他 | 倍率 * 1.5, server: hk1.zhutou.cyou, port: 80, type: vmess, uuid: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /azdalao, ws-headers: {Host: hk1.zhutou.cyou}, udp: true}
-  - {name: 🇸🇬 新加坡03 | 80 | 纯翻墙请用其他 | 倍率 * 1, server: sgpb.pigtail.ml, port: 80, type: vmess, uuid: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /sbpb80, ws-headers: {Host: sgpb.pigtail.ml}, udp: true}
-  - {name: 🇸🇬 使用前请务必更新订阅！！建议设置自动更新, server: 127.0.0.1, port: 54321, type: ss, cipher: chacha20-ietf-poly1305, password: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, udp: true}
-  - {name: TG频道 https://t.me/myzhutou, server: 127.0.0.1, port: 25025, type: ss, cipher: chacha20-ietf-poly1305, password: 55170085-f2a0-41bc-a6c9-8eee1cec0ce5, udp: true}
-  - {name: 🇺🇲 US-03｜免流直连｜美国, server: h6.2mgy.com, port: 80, type: vmess, uuid: aa97d33d-7950-47ff-a867-db6a5053cf91, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: h6.2mgy.com}, udp: true}
-  - {name: 🇯🇵 JP-01｜免流直连｜日本, server: h1.2mgy.com, port: 80, type: vmess, uuid: aa97d33d-7950-47ff-a867-db6a5053cf91, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: h1.2mgy.com}, udp: true}
-  - {name: 🇭🇰 HK-01｜免流直连｜香港, server: h2.2mgy.com, port: 80, type: vmess, uuid: aa97d33d-7950-47ff-a867-db6a5053cf91, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: h2.2mgy.com}, udp: true}
-  - {name: 🇰🇷 KR-02｜免流直连｜韩国, server: kr2.2mgy.com, port: 80, type: vmess, uuid: aa97d33d-7950-47ff-a867-db6a5053cf91, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: kr2.2mgy.com}, udp: true}
-  - {name: 🇭🇰 US-02｜广港中转｜美国, server: cm.syhwdz.top, port: 41611, type: vmess, uuid: aa97d33d-7950-47ff-a867-db6a5053cf91, alterId: 2, cipher: auto, tls: false, udp: true}
-  - {name: 🇬🇧 UK-01｜广港中转｜英国, server: cm.syhwdz.top, port: 40739, type: vmess, uuid: aa97d33d-7950-47ff-a867-db6a5053cf91, alterId: 2, cipher: auto, tls: false, udp: true}
-  - {name: 🇭🇰 TW-01｜广港中转｜台湾, server: cm.syhwdz.top, port: 41612, type: vmess, uuid: aa97d33d-7950-47ff-a867-db6a5053cf91, alterId: 2, cipher: auto, tls: false, udp: true}
-  - {name: 🇭🇰 JP-02｜广港中转｜日本, server: cm.syhwdz.top, port: 40741, type: vmess, uuid: aa97d33d-7950-47ff-a867-db6a5053cf91, alterId: 2, cipher: auto, tls: false, udp: true}
-  - {name: 🇭🇰 HK-02｜香港中转｜香港, server: azhk01.sczssr.xyz, port: 30306, type: vmess, uuid: aa97d33d-7950-47ff-a867-db6a5053cf91, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: azhk01.sczssr.xyz}, udp: true}
-  - {name: 🏳️‍🌈 过期时间：2021-10-10, server: zz1234.xyz, port: 10086, type: vmess, uuid: 43b4fb06-759f-3176-b034-993a6613a69a, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇸🇬 新加坡, server: 13.70.57.93, port: 37800, type: vmess, uuid: 43b4fb06-759f-3176-b034-993a6613a69a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: 13.70.57.93}}
-  - {name: 🇯🇵 日本, server: 13.70.57.93, port: 18837, type: vmess, uuid: 43b4fb06-759f-3176-b034-993a6613a69a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: 13.70.57.93}}
-  - {name: 🇺🇲 美国, server: 13.70.57.93, port: 15926, type: vmess, uuid: 43b4fb06-759f-3176-b034-993a6613a69a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: 13.70.57.93}}
-  - {name: 🇳🇱 荷兰, server: 13.70.57.93, port: 51329, type: vmess, uuid: 43b4fb06-759f-3176-b034-993a6613a69a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: 13.70.57.93}}
-  - {name: 🇰🇷 韩国, server: 13.70.57.93, port: 44885, type: vmess, uuid: 43b4fb06-759f-3176-b034-993a6613a69a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: 13.70.57.93}}
-  - {name: 🇭🇰 香港HKT, server: hktddns.114514ms.me, port: 39000, type: vmess, uuid: 43b4fb06-759f-3176-b034-993a6613a69a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: hktddns.114514ms.me}}
-  - {name: 🇭🇰 香港免流01, server: 52.184.32.104, port: 80, type: vmess, uuid: 43b4fb06-759f-3176-b034-993a6613a69a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: 52.184.32.104}}
-  - {name: 🇭🇰 香港免流02, server: 52.175.14.7, port: 80, type: vmess, uuid: 43b4fb06-759f-3176-b034-993a6613a69a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: 52.175.14.7}}
-  - {name: 🇭🇰 香港免流03, server: 52.175.122.62, port: 80, type: vmess, uuid: 43b4fb06-759f-3176-b034-993a6613a69a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: 52.175.122.62}}
-  - {name: 🇭🇰 香港免流04, server: 207.46.155.109, port: 80, type: vmess, uuid: 43b4fb06-759f-3176-b034-993a6613a69a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: 207.46.155.109}}
-  - {name: 🇭🇰 香港免流05, server: 52.184.26.83, port: 80, type: vmess, uuid: 43b4fb06-759f-3176-b034-993a6613a69a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: 52.184.26.83}}
-  - {name: 🇭🇰 香港免流06, server: 13.70.57.93, port: 80, type: vmess, uuid: 43b4fb06-759f-3176-b034-993a6613a69a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 13.70.57.93}}
-  - {name: "🇭🇰 [VIP-2]1x 香港集负载", server: az.googo.in, port: 50060, type: vmess, uuid: 924c5686-fbe2-457d-ae72-dd67de5630c7, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: az.googo.in}}
-  - {name: "🇯🇵 [VIP-2]1x 日本の国负载", server: az.googo.in, port: 50061, type: vmess, uuid: 924c5686-fbe2-457d-ae72-dd67de5630c7, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: az.googo.in}}
-  - {name: "🇰🇷 [VIP-2]1x 韩 균형이负载", server: az.googo.in, port: 50062, type: vmess, uuid: 924c5686-fbe2-457d-ae72-dd67de5630c7, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: az.googo.in}}
-  - {name: "🇸🇬 [VIP-2]1x 新加坡负载", server: az.googo.in, port: 50063, type: vmess, uuid: 924c5686-fbe2-457d-ae72-dd67de5630c7, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: az.googo.in}}
-  - {name: "🇺🇲 [VIP-2]1x 美国集负载", server: az.googo.in, port: 50066, type: vmess, uuid: 924c5686-fbe2-457d-ae72-dd67de5630c7, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: az.googo.in}}
-  - {name: GOOGO温馨提醒：满意再购买正式套餐, server: 120.0.0.1, port: 10000, type: vmess, uuid: 924c5686-fbe2-457d-ae72-dd67de5630c7, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 120.0.0.1}}
+  - {name: 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_2055, server: icajm.moox.icu, port: 34019, type: vmess, uuid: e94d3ed5-d94c-49ea-9a6c-830b247a1656, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: icajm.moox.icu}}
+  - {name: 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_2051, server: ngzyd-1.okex-tradebot.xyz, port: 30004, type: vmess, uuid: 44a83c3d-dc4b-46c4-a9fd-f448302918e2, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: ngzyd-1.okex-tradebot.xyz}}
+  - {name: 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_11830, server: sg1.n-b.wiki, port: 80, type: vmess, uuid: 0722c15d-bcf0-4df8-8101-fa2ab01f6fa6, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: pull.free.video.10010.com}}
+  - {name: 🇯🇵 Relay_🇨🇳CN-🇯🇵JP_2050, server: icajm.moox.icu, port: 40005, type: vmess, uuid: e94d3ed5-d94c-49ea-9a6c-830b247a1656, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: icajm.moox.icu}}
+  - {name: "@SSRSUB-V24-付费推荐:suo.yt/ssrsub", server: uss111.liuwei01.tk, port: 443, type: vmess, uuid: 0fab5928-9d70-4666-b351-5debff8a15de, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /liuwei, ws-headers: {Host: uss111.liuwei01.tk}}
+  - {name: 🇨🇳 Pool_馃嚬馃嚰TW_11872, server: 2.58.241.29, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: "@SSRSUB-V26-付费推荐:suo.yt/ssrsub", server: uss222.liuwei01.tk, port: 443, type: vmess, uuid: 1b93051f-c9ad-4908-874e-ccb5e8da27ef, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /liuwei, ws-headers: {Host: uss222.liuwei01.tk}}
+  - {name: 🇨🇳 中国台湾, server: 35.201.218.125, port: 28879, type: vmess, uuid: 8f55c99d-d400-47d5-a949-638204907e0b, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇷🇺 @SSRSUB-俄罗斯V6-付费推荐::suo.yt/ssrsub, server: v6.ssrsub.one, port: 156, type: vmess, uuid: ed4b6594-ea16-40f6-a935-f3985c433973, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ssrsub, ws-headers: {Host: v6.ssrsub.one}}
+  - {name: www.ligonwen.cf_Trojan, server: www.ligonwen.cf, port: 443, type: trojan, password: 7836137d-2db0-4809-9b57-ed14cf2ed4ce, sni: www.ligonwen.cf}
+  - {name: 🇷🇺 @SSRSUB-俄罗斯V15-付费推荐::suo.yt/ssrsub, server: v7.ssrsub.one, port: 157, type: vmess, uuid: 217010a3-c48d-4c42-9b99-c4dfc173ec78, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ssrsub, ws-headers: {Host: v7.ssrsub.one}}
+  - {name: 🇺🇲 Relay_🇺🇸US-🇺🇸US_19663, server: kr1.np.qjnodeip.xyz, port: 80, type: vmess, uuid: 0fb54ce8-2d4e-4499-a793-04f43e38d0e9, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /index, ws-headers: {Host: kr1.np.qjnodeip.xyz}}
+  - {name: 🇺🇲 Relay_🇺🇸US-🇺🇸US_19645, server: kr1.np.qjnodeip.xyz, port: 80, type: vmess, uuid: 1a5cda73-b05e-4478-bffd-1731f0a751f1, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /index, ws-headers: {Host: kr1.np.qjnodeip.xyz}}
+  - {name: "@SSRSUB-V20-付费推荐:suo.yt/ssrsub", server: 107.167.9.122, port: 443, type: vmess, uuid: 2566d00f-218c-48f7-9a36-13d3d6f1a724, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.17080100.xyz}}
+  - {name: 🇺🇲 Relay_🇹🇼TW-🇺🇸US_12797, server: 7.ssrj.xyz, port: 65107, type: vmess, uuid: 24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae, alterId: 2, cipher: auto, tls: false}
+  - {name: 🇺🇲 Relay_🇺🇸US-🇺🇸US_19756, server: kr1.np.qjnodeip.xyz, port: 80, type: vmess, uuid: 27510934-ab1c-423e-9c3b-cce58f4b71a7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /index, ws-headers: {Host: kr1.np.qjnodeip.xyz}}
+  - {name: 🇭🇰 Relay_馃嚟馃嚢HK-馃嚫馃嚞SG_5105, server: 5.ssrj.xyz, port: 65105, type: vmess, uuid: 24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae, alterId: 2, cipher: auto, tls: false}
+  - {name: 🇰🇷 KR_7590, server: 13.125.163.148, port: 80, type: vmess, uuid: 74f39a02-edb2-4938-9da8-a5cc3d958bff, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: pull.free.video.10010.com}}
+  - {name: 🇭🇰 Relay_馃嚟馃嚢HK-馃嚡馃嚨JP_5099, server: 53.ssrj.xyz, port: 61153, type: vmess, uuid: 24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae, alterId: 2, cipher: auto, tls: false}
+  - {name: GB_4120 |58.93Mb, server: 89.238.130.227, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇨🇦 @SSRSUB-加拿大V16-付费推荐::suo.yt/ssrsub, server: v8.ssrsub.one, port: 156, type: vmess, uuid: 217010a3-c48d-4c42-9b99-c4dfc173ec78, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ssrsub, ws-headers: {Host: v8.ssrsub.one}}
+  - {name: 🇷🇺 @SSRSUB-俄罗斯V14-付费推荐::suo.yt/ssrsub, server: v6.ssrsub.one, port: 156, type: vmess, uuid: 217010a3-c48d-4c42-9b99-c4dfc173ec78, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ssrsub, ws-headers: {Host: v6.ssrsub.one}}
+  - {name: "@SSRSUB-V18-付费推荐:suo.yt/ssrsub", server: 96.43.91.58, port: 443, type: vmess, uuid: 3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.45218443.xyz}}
+  - {name: GE_4543 |30.27Mb, server: 176.125.231.5, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇷🇺 @SSRSUB-俄罗斯V7-付费推荐::suo.yt/ssrsub, server: v7.ssrsub.one, port: 157, type: vmess, uuid: ed4b6594-ea16-40f6-a935-f3985c433973, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ssrsub, ws-headers: {Host: v7.ssrsub.one}}
+  - {name: 🇭🇰 Relay_馃嚟馃嚢HK-馃嚟馃嚢HK_5071, server: 63.ssrj.xyz, port: 65163, type: vmess, uuid: 24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae, alterId: 2, cipher: auto, tls: false}
+  - {name: 🇨🇳 Pool_馃嚬馃嚰TW_11933, server: 2.58.241.29, port: 45948, type: ss, cipher: aes-256-gcm, password: j76EXqJcQhuQTr3EvUf7xaK9}
+  - {name: 🇨🇳 Pool_🇹🇼 TW_7964, server: 2.58.241.29, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
+  - {name: Israel-2, server: 185.162.125.91, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295}
+  - {name: 🇷🇺 @SSRSUB-俄罗斯V12-付费推荐::suo.yt/ssrsub, server: v4.ssrsub.one, port: 153, type: vmess, uuid: 217010a3-c48d-4c42-9b99-c4dfc173ec78, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ssrsub, ws-headers: {Host: v4.ssrsub.one}}
+  - {name: BA_1743 |45.37Mb, server: 185.212.111.6, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇨🇳 Pool_馃嚬馃嚰TW_11909, server: 2.58.241.29, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇨🇳 馃嚬馃嚰TW_11931, server: 2.58.242.46, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇨🇳 Pool_馃嚬馃嚰TW_11618, server: 2.58.241.29, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
+  - {name: 🇨🇳 Pool_馃嚬馃嚰TW_11640, server: 2.58.241.29, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR}
+  - {name: 🇫🇮 Finland-1, server: 95.216.5.254, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295}
+  - {name: 🇭🇰 Relay_馃嚟馃嚢HK-馃嚡馃嚨JP_5096, server: 51.ssrj.xyz, port: 65151, type: vmess, uuid: 24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae, alterId: 2, cipher: auto, tls: false}
+  - {name: 🇭🇰 Relay_馃嚟馃嚢HK-馃嚭馃嚫US_5094, server: 44.ssrj.xyz, port: 61144, type: vmess, uuid: 24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae, alterId: 2, cipher: auto, tls: false}
+  - {name: 🇨🇳 馃嚬馃嚰TW_11734, server: 2.58.242.46, port: 45948, type: ss, cipher: aes-256-gcm, password: j76EXqJcQhuQTr3EvUf7xaK9}
+  - {name: 🇭🇰 Relay_馃嚟馃嚢HK-馃嚭馃嚫US_5078, server: 6.ssrj.xyz, port: 65106, type: vmess, uuid: 24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae, alterId: 2, cipher: auto, tls: false}
+  - {name: 🇯🇵 Relay_🇨🇳CN-🇯🇵JP_2035, server: ngzyd-1.okex-tradebot.xyz, port: 30006, type: vmess, uuid: 44a83c3d-dc4b-46c4-a9fd-f448302918e2, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: ngzyd-1.okex-tradebot.xyz}}
+  - {name: 🇨🇦 @SSRSUB-加拿大V8-付费推荐::suo.yt/ssrsub, server: v8.ssrsub.one, port: 156, type: vmess, uuid: ed4b6594-ea16-40f6-a935-f3985c433973, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ssrsub, ws-headers: {Host: v8.ssrsub.one}}
+  - {name: 🇷🇺 @SSRSUB-俄罗斯V4-付费推荐::suo.yt/ssrsub, server: v4.ssrsub.one, port: 153, type: vmess, uuid: ed4b6594-ea16-40f6-a935-f3985c433973, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ssrsub, ws-headers: {Host: v4.ssrsub.one}}
+  - {name: 🇨🇳 馃嚬馃嚰TW_11791, server: 2.58.242.46, port: 31757, type: ss, cipher: aes-256-gcm, password: wj7nDCuNARchSeKNCN8VFK62}
+  - {name: 🇨🇳 Pool_馃嚬馃嚰TW_12018, server: 2.58.241.29, port: 50695, type: ss, cipher: aes-256-gcm, password: gqtwGu9bVreJqL3FTHSVKGzy}
+  - {name: 🇨🇳 Pool_馃嚬馃嚰TW_11992, server: 2.58.241.29, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇸🇬 Singapore-46, server: 51.79.166.171, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295}
+  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_7461, server: jp01.uuv2.uk, port: 8443, type: vmess, uuid: 884d6e99-59c8-40f1-89e7-433f6c6d5bbd, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /TG@mftizi, ws-headers: {Host: jp01.uuv2.uk}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】
-      - 🇺🇲 美国02丨核心加速【5Gbps】
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】
-      - 🇰🇷 韩国02丨核心加速【5Gbps】
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】
-      - 🏳️‍🌈 过期时间：2021-09-17
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】 2
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】 2
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】 2
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】 2
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】 2
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】 2
-      - 🇺🇲 美国02丨核心加速【5Gbps】 2
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】 2
-      - 🇰🇷 韩国02丨核心加速【5Gbps】 2
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】 2
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】 2
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】 2
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】 3
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】 3
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】 3
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】 3
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】 3
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】 3
-      - 🇺🇲 美国02丨核心加速【5Gbps】 3
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】 3
-      - 🇰🇷 韩国02丨核心加速【5Gbps】 3
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】 3
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】 3
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】 3
-      - 🇺🇲 拉斯维加斯01 | 中转 | 倍率 * 1.2
-      - 🇺🇲 拉斯维加斯02 | 中转 | 解锁NF | 倍率 * 1.3
-      - 🇺🇲 拉斯维加斯03 | 直连 | 解锁 NF | 倍率 * 1
-      - 🇷🇺 俄罗斯01 | 直连 | 不稳定 | 倍率 * 0.8
-      - 🇿🇦 南非01 | 直连 | 倍率 * 1
-      - 🇿🇦 南非02 | 小高速 | 中转 | 倍率 * 1.3
-      - 🇿🇦 南非03 | 中转 | 解锁NF | 倍率 * 1.2
-      - 🇯🇵 日本01 | 中转 | NF仅自制剧 | 倍率 * 1
-      - 🇯🇵 日本02 | 中转 | NF仅自制剧 | 倍率 * 1
-      - 🇨🇳 台湾01 | 原生 | 解锁NF | 中转 | 倍率 * 1.5
-      - 🇨🇳 台湾02 | 原生 | 解锁NF | 倍率 * 1
-      - 🇸🇬 新加坡01 | 中转 | 倍率 * 1.2
-      - 🇸🇬 新加坡02 | 中转 | 倍率 * 1.2
-      - 🇭🇰 香港01 | 中转 | 倍率 * 1.2
-      - 🇭🇰 香港02 | 直连 | 倍率* 1.2
-      - 🇭🇰 香港03 | 直连 | 解锁 NF | 倍率 * 1.2
-      - 🇭🇰 香港04 | 直连 | 倍率 * 1.5
-      - 🇭🇰 香港05 | 直连 | 倍率 * 1.5
-      - 🇮🇳 印度01 | 中转 | 倍率 * 1.2
-      - 🇮🇳 印度02 | 中转 | 倍率 * 1.2
-      - 🇮🇳 印度03 | 直连 | 解锁NF | 倍率 * 1
-      - 🇰🇷 首尔01 | 直连 | 倍率 * 1
-      - 🇰🇷 首尔02 | 直连 | 倍率 * 1
-      - 🇲🇴 澳门01 | 解锁 NF | 中转 | 倍率 * 1.2
-      - 🇲🇴 澳门02 | 直连 | 解锁NF | 倍率 * 1.2
-      - 🇭🇰 香港06 | 80 | 纯翻墙请用其他 | 倍率 * 1.5
-      - 🇸🇬 新加坡03 | 80 | 纯翻墙请用其他 | 倍率 * 1
-      - 🇸🇬 使用前请务必更新订阅！！建议设置自动更新
-      - TG频道 https://t.me/myzhutou
-      - 🇺🇲 US-03｜免流直连｜美国
-      - 🇯🇵 JP-01｜免流直连｜日本
-      - 🇭🇰 HK-01｜免流直连｜香港
-      - 🇰🇷 KR-02｜免流直连｜韩国
-      - 🇭🇰 US-02｜广港中转｜美国
-      - 🇬🇧 UK-01｜广港中转｜英国
-      - 🇭🇰 TW-01｜广港中转｜台湾
-      - 🇭🇰 JP-02｜广港中转｜日本
-      - 🇭🇰 HK-02｜香港中转｜香港
-      - 🏳️‍🌈 过期时间：2021-10-10
-      - 🇸🇬 新加坡
-      - 🇯🇵 日本
-      - 🇺🇲 美国
-      - 🇳🇱 荷兰
-      - 🇰🇷 韩国
-      - 🇭🇰 香港HKT
-      - 🇭🇰 香港免流01
-      - 🇭🇰 香港免流02
-      - 🇭🇰 香港免流03
-      - 🇭🇰 香港免流04
-      - 🇭🇰 香港免流05
-      - 🇭🇰 香港免流06
-      - 🇭🇰 [VIP-2]1x 香港集负载
-      - 🇯🇵 [VIP-2]1x 日本の国负载
-      - 🇰🇷 [VIP-2]1x 韩 균형이负载
-      - 🇸🇬 [VIP-2]1x 新加坡负载
-      - 🇺🇲 [VIP-2]1x 美国集负载
-      - GOOGO温馨提醒：满意再购买正式套餐
+      - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_2055
+      - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_2051
+      - 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_11830
+      - 🇯🇵 Relay_🇨🇳CN-🇯🇵JP_2050
+      - "@SSRSUB-V24-付费推荐:suo.yt/ssrsub"
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11872
+      - "@SSRSUB-V26-付费推荐:suo.yt/ssrsub"
+      - 🇨🇳 中国台湾
+      - 🇷🇺 @SSRSUB-俄罗斯V6-付费推荐::suo.yt/ssrsub
+      - www.ligonwen.cf_Trojan
+      - 🇷🇺 @SSRSUB-俄罗斯V15-付费推荐::suo.yt/ssrsub
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19663
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19645
+      - "@SSRSUB-V20-付费推荐:suo.yt/ssrsub"
+      - 🇺🇲 Relay_🇹🇼TW-🇺🇸US_12797
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19756
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚫馃嚞SG_5105
+      - 🇰🇷 KR_7590
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚡馃嚨JP_5099
+      - GB_4120 |58.93Mb
+      - 🇨🇦 @SSRSUB-加拿大V16-付费推荐::suo.yt/ssrsub
+      - 🇷🇺 @SSRSUB-俄罗斯V14-付费推荐::suo.yt/ssrsub
+      - "@SSRSUB-V18-付费推荐:suo.yt/ssrsub"
+      - GE_4543 |30.27Mb
+      - 🇷🇺 @SSRSUB-俄罗斯V7-付费推荐::suo.yt/ssrsub
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚟馃嚢HK_5071
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11933
+      - 🇨🇳 Pool_🇹🇼 TW_7964
+      - Israel-2
+      - 🇷🇺 @SSRSUB-俄罗斯V12-付费推荐::suo.yt/ssrsub
+      - BA_1743 |45.37Mb
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11909
+      - 🇨🇳 馃嚬馃嚰TW_11931
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11618
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11640
+      - 🇫🇮 Finland-1
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚡馃嚨JP_5096
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚭馃嚫US_5094
+      - 🇨🇳 馃嚬馃嚰TW_11734
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚭馃嚫US_5078
+      - 🇯🇵 Relay_🇨🇳CN-🇯🇵JP_2035
+      - 🇨🇦 @SSRSUB-加拿大V8-付费推荐::suo.yt/ssrsub
+      - 🇷🇺 @SSRSUB-俄罗斯V4-付费推荐::suo.yt/ssrsub
+      - 🇨🇳 馃嚬馃嚰TW_11791
+      - 🇨🇳 Pool_馃嚬馃嚰TW_12018
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11992
+      - 🇸🇬 Singapore-46
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_7461
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】
-      - 🇺🇲 美国02丨核心加速【5Gbps】
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】
-      - 🇰🇷 韩国02丨核心加速【5Gbps】
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】
-      - 🏳️‍🌈 过期时间：2021-09-17
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】 2
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】 2
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】 2
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】 2
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】 2
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】 2
-      - 🇺🇲 美国02丨核心加速【5Gbps】 2
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】 2
-      - 🇰🇷 韩国02丨核心加速【5Gbps】 2
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】 2
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】 2
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】 2
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】 3
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】 3
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】 3
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】 3
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】 3
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】 3
-      - 🇺🇲 美国02丨核心加速【5Gbps】 3
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】 3
-      - 🇰🇷 韩国02丨核心加速【5Gbps】 3
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】 3
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】 3
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】 3
-      - 🇺🇲 拉斯维加斯01 | 中转 | 倍率 * 1.2
-      - 🇺🇲 拉斯维加斯02 | 中转 | 解锁NF | 倍率 * 1.3
-      - 🇺🇲 拉斯维加斯03 | 直连 | 解锁 NF | 倍率 * 1
-      - 🇷🇺 俄罗斯01 | 直连 | 不稳定 | 倍率 * 0.8
-      - 🇿🇦 南非01 | 直连 | 倍率 * 1
-      - 🇿🇦 南非02 | 小高速 | 中转 | 倍率 * 1.3
-      - 🇿🇦 南非03 | 中转 | 解锁NF | 倍率 * 1.2
-      - 🇯🇵 日本01 | 中转 | NF仅自制剧 | 倍率 * 1
-      - 🇯🇵 日本02 | 中转 | NF仅自制剧 | 倍率 * 1
-      - 🇨🇳 台湾01 | 原生 | 解锁NF | 中转 | 倍率 * 1.5
-      - 🇨🇳 台湾02 | 原生 | 解锁NF | 倍率 * 1
-      - 🇸🇬 新加坡01 | 中转 | 倍率 * 1.2
-      - 🇸🇬 新加坡02 | 中转 | 倍率 * 1.2
-      - 🇭🇰 香港01 | 中转 | 倍率 * 1.2
-      - 🇭🇰 香港02 | 直连 | 倍率* 1.2
-      - 🇭🇰 香港03 | 直连 | 解锁 NF | 倍率 * 1.2
-      - 🇭🇰 香港04 | 直连 | 倍率 * 1.5
-      - 🇭🇰 香港05 | 直连 | 倍率 * 1.5
-      - 🇮🇳 印度01 | 中转 | 倍率 * 1.2
-      - 🇮🇳 印度02 | 中转 | 倍率 * 1.2
-      - 🇮🇳 印度03 | 直连 | 解锁NF | 倍率 * 1
-      - 🇰🇷 首尔01 | 直连 | 倍率 * 1
-      - 🇰🇷 首尔02 | 直连 | 倍率 * 1
-      - 🇲🇴 澳门01 | 解锁 NF | 中转 | 倍率 * 1.2
-      - 🇲🇴 澳门02 | 直连 | 解锁NF | 倍率 * 1.2
-      - 🇭🇰 香港06 | 80 | 纯翻墙请用其他 | 倍率 * 1.5
-      - 🇸🇬 新加坡03 | 80 | 纯翻墙请用其他 | 倍率 * 1
-      - 🇸🇬 使用前请务必更新订阅！！建议设置自动更新
-      - TG频道 https://t.me/myzhutou
-      - 🇺🇲 US-03｜免流直连｜美国
-      - 🇯🇵 JP-01｜免流直连｜日本
-      - 🇭🇰 HK-01｜免流直连｜香港
-      - 🇰🇷 KR-02｜免流直连｜韩国
-      - 🇭🇰 US-02｜广港中转｜美国
-      - 🇬🇧 UK-01｜广港中转｜英国
-      - 🇭🇰 TW-01｜广港中转｜台湾
-      - 🇭🇰 JP-02｜广港中转｜日本
-      - 🇭🇰 HK-02｜香港中转｜香港
-      - 🏳️‍🌈 过期时间：2021-10-10
-      - 🇸🇬 新加坡
-      - 🇯🇵 日本
-      - 🇺🇲 美国
-      - 🇳🇱 荷兰
-      - 🇰🇷 韩国
-      - 🇭🇰 香港HKT
-      - 🇭🇰 香港免流01
-      - 🇭🇰 香港免流02
-      - 🇭🇰 香港免流03
-      - 🇭🇰 香港免流04
-      - 🇭🇰 香港免流05
-      - 🇭🇰 香港免流06
-      - 🇭🇰 [VIP-2]1x 香港集负载
-      - 🇯🇵 [VIP-2]1x 日本の国负载
-      - 🇰🇷 [VIP-2]1x 韩 균형이负载
-      - 🇸🇬 [VIP-2]1x 新加坡负载
-      - 🇺🇲 [VIP-2]1x 美国集负载
-      - GOOGO温馨提醒：满意再购买正式套餐
+      - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_2055
+      - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_2051
+      - 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_11830
+      - 🇯🇵 Relay_🇨🇳CN-🇯🇵JP_2050
+      - "@SSRSUB-V24-付费推荐:suo.yt/ssrsub"
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11872
+      - "@SSRSUB-V26-付费推荐:suo.yt/ssrsub"
+      - 🇨🇳 中国台湾
+      - 🇷🇺 @SSRSUB-俄罗斯V6-付费推荐::suo.yt/ssrsub
+      - www.ligonwen.cf_Trojan
+      - 🇷🇺 @SSRSUB-俄罗斯V15-付费推荐::suo.yt/ssrsub
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19663
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19645
+      - "@SSRSUB-V20-付费推荐:suo.yt/ssrsub"
+      - 🇺🇲 Relay_🇹🇼TW-🇺🇸US_12797
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19756
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚫馃嚞SG_5105
+      - 🇰🇷 KR_7590
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚡馃嚨JP_5099
+      - GB_4120 |58.93Mb
+      - 🇨🇦 @SSRSUB-加拿大V16-付费推荐::suo.yt/ssrsub
+      - 🇷🇺 @SSRSUB-俄罗斯V14-付费推荐::suo.yt/ssrsub
+      - "@SSRSUB-V18-付费推荐:suo.yt/ssrsub"
+      - GE_4543 |30.27Mb
+      - 🇷🇺 @SSRSUB-俄罗斯V7-付费推荐::suo.yt/ssrsub
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚟馃嚢HK_5071
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11933
+      - 🇨🇳 Pool_🇹🇼 TW_7964
+      - Israel-2
+      - 🇷🇺 @SSRSUB-俄罗斯V12-付费推荐::suo.yt/ssrsub
+      - BA_1743 |45.37Mb
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11909
+      - 🇨🇳 馃嚬馃嚰TW_11931
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11618
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11640
+      - 🇫🇮 Finland-1
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚡馃嚨JP_5096
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚭馃嚫US_5094
+      - 🇨🇳 馃嚬馃嚰TW_11734
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚭馃嚫US_5078
+      - 🇯🇵 Relay_🇨🇳CN-🇯🇵JP_2035
+      - 🇨🇦 @SSRSUB-加拿大V8-付费推荐::suo.yt/ssrsub
+      - 🇷🇺 @SSRSUB-俄罗斯V4-付费推荐::suo.yt/ssrsub
+      - 🇨🇳 馃嚬馃嚰TW_11791
+      - 🇨🇳 Pool_馃嚬馃嚰TW_12018
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11992
+      - 🇸🇬 Singapore-46
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_7461
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】
-      - 🇺🇲 美国02丨核心加速【5Gbps】
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】
-      - 🇰🇷 韩国02丨核心加速【5Gbps】
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】
-      - 🏳️‍🌈 过期时间：2021-09-17
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】 2
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】 2
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】 2
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】 2
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】 2
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】 2
-      - 🇺🇲 美国02丨核心加速【5Gbps】 2
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】 2
-      - 🇰🇷 韩国02丨核心加速【5Gbps】 2
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】 2
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】 2
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】 2
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】 3
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】 3
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】 3
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】 3
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】 3
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】 3
-      - 🇺🇲 美国02丨核心加速【5Gbps】 3
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】 3
-      - 🇰🇷 韩国02丨核心加速【5Gbps】 3
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】 3
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】 3
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】 3
-      - 🇺🇲 拉斯维加斯01 | 中转 | 倍率 * 1.2
-      - 🇺🇲 拉斯维加斯02 | 中转 | 解锁NF | 倍率 * 1.3
-      - 🇺🇲 拉斯维加斯03 | 直连 | 解锁 NF | 倍率 * 1
-      - 🇷🇺 俄罗斯01 | 直连 | 不稳定 | 倍率 * 0.8
-      - 🇿🇦 南非01 | 直连 | 倍率 * 1
-      - 🇿🇦 南非02 | 小高速 | 中转 | 倍率 * 1.3
-      - 🇿🇦 南非03 | 中转 | 解锁NF | 倍率 * 1.2
-      - 🇯🇵 日本01 | 中转 | NF仅自制剧 | 倍率 * 1
-      - 🇯🇵 日本02 | 中转 | NF仅自制剧 | 倍率 * 1
-      - 🇨🇳 台湾01 | 原生 | 解锁NF | 中转 | 倍率 * 1.5
-      - 🇨🇳 台湾02 | 原生 | 解锁NF | 倍率 * 1
-      - 🇸🇬 新加坡01 | 中转 | 倍率 * 1.2
-      - 🇸🇬 新加坡02 | 中转 | 倍率 * 1.2
-      - 🇭🇰 香港01 | 中转 | 倍率 * 1.2
-      - 🇭🇰 香港02 | 直连 | 倍率* 1.2
-      - 🇭🇰 香港03 | 直连 | 解锁 NF | 倍率 * 1.2
-      - 🇭🇰 香港04 | 直连 | 倍率 * 1.5
-      - 🇭🇰 香港05 | 直连 | 倍率 * 1.5
-      - 🇮🇳 印度01 | 中转 | 倍率 * 1.2
-      - 🇮🇳 印度02 | 中转 | 倍率 * 1.2
-      - 🇮🇳 印度03 | 直连 | 解锁NF | 倍率 * 1
-      - 🇰🇷 首尔01 | 直连 | 倍率 * 1
-      - 🇰🇷 首尔02 | 直连 | 倍率 * 1
-      - 🇲🇴 澳门01 | 解锁 NF | 中转 | 倍率 * 1.2
-      - 🇲🇴 澳门02 | 直连 | 解锁NF | 倍率 * 1.2
-      - 🇭🇰 香港06 | 80 | 纯翻墙请用其他 | 倍率 * 1.5
-      - 🇸🇬 新加坡03 | 80 | 纯翻墙请用其他 | 倍率 * 1
-      - 🇸🇬 使用前请务必更新订阅！！建议设置自动更新
-      - TG频道 https://t.me/myzhutou
-      - 🇺🇲 US-03｜免流直连｜美国
-      - 🇯🇵 JP-01｜免流直连｜日本
-      - 🇭🇰 HK-01｜免流直连｜香港
-      - 🇰🇷 KR-02｜免流直连｜韩国
-      - 🇭🇰 US-02｜广港中转｜美国
-      - 🇬🇧 UK-01｜广港中转｜英国
-      - 🇭🇰 TW-01｜广港中转｜台湾
-      - 🇭🇰 JP-02｜广港中转｜日本
-      - 🇭🇰 HK-02｜香港中转｜香港
-      - 🏳️‍🌈 过期时间：2021-10-10
-      - 🇸🇬 新加坡
-      - 🇯🇵 日本
-      - 🇺🇲 美国
-      - 🇳🇱 荷兰
-      - 🇰🇷 韩国
-      - 🇭🇰 香港HKT
-      - 🇭🇰 香港免流01
-      - 🇭🇰 香港免流02
-      - 🇭🇰 香港免流03
-      - 🇭🇰 香港免流04
-      - 🇭🇰 香港免流05
-      - 🇭🇰 香港免流06
-      - 🇭🇰 [VIP-2]1x 香港集负载
-      - 🇯🇵 [VIP-2]1x 日本の国负载
-      - 🇰🇷 [VIP-2]1x 韩 균형이负载
-      - 🇸🇬 [VIP-2]1x 新加坡负载
-      - 🇺🇲 [VIP-2]1x 美国集负载
-      - GOOGO温馨提醒：满意再购买正式套餐
+      - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_2055
+      - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_2051
+      - 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_11830
+      - 🇯🇵 Relay_🇨🇳CN-🇯🇵JP_2050
+      - "@SSRSUB-V24-付费推荐:suo.yt/ssrsub"
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11872
+      - "@SSRSUB-V26-付费推荐:suo.yt/ssrsub"
+      - 🇨🇳 中国台湾
+      - 🇷🇺 @SSRSUB-俄罗斯V6-付费推荐::suo.yt/ssrsub
+      - www.ligonwen.cf_Trojan
+      - 🇷🇺 @SSRSUB-俄罗斯V15-付费推荐::suo.yt/ssrsub
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19663
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19645
+      - "@SSRSUB-V20-付费推荐:suo.yt/ssrsub"
+      - 🇺🇲 Relay_🇹🇼TW-🇺🇸US_12797
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19756
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚫馃嚞SG_5105
+      - 🇰🇷 KR_7590
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚡馃嚨JP_5099
+      - GB_4120 |58.93Mb
+      - 🇨🇦 @SSRSUB-加拿大V16-付费推荐::suo.yt/ssrsub
+      - 🇷🇺 @SSRSUB-俄罗斯V14-付费推荐::suo.yt/ssrsub
+      - "@SSRSUB-V18-付费推荐:suo.yt/ssrsub"
+      - GE_4543 |30.27Mb
+      - 🇷🇺 @SSRSUB-俄罗斯V7-付费推荐::suo.yt/ssrsub
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚟馃嚢HK_5071
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11933
+      - 🇨🇳 Pool_🇹🇼 TW_7964
+      - Israel-2
+      - 🇷🇺 @SSRSUB-俄罗斯V12-付费推荐::suo.yt/ssrsub
+      - BA_1743 |45.37Mb
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11909
+      - 🇨🇳 馃嚬馃嚰TW_11931
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11618
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11640
+      - 🇫🇮 Finland-1
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚡馃嚨JP_5096
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚭馃嚫US_5094
+      - 🇨🇳 馃嚬馃嚰TW_11734
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚭馃嚫US_5078
+      - 🇯🇵 Relay_🇨🇳CN-🇯🇵JP_2035
+      - 🇨🇦 @SSRSUB-加拿大V8-付费推荐::suo.yt/ssrsub
+      - 🇷🇺 @SSRSUB-俄罗斯V4-付费推荐::suo.yt/ssrsub
+      - 🇨🇳 馃嚬馃嚰TW_11791
+      - 🇨🇳 Pool_馃嚬馃嚰TW_12018
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11992
+      - 🇸🇬 Singapore-46
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_7461
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】
-      - 🇺🇲 美国02丨核心加速【5Gbps】
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】
-      - 🇰🇷 韩国02丨核心加速【5Gbps】
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】
-      - 🏳️‍🌈 过期时间：2021-09-17
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】 2
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】 2
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】 2
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】 2
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】 2
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】 2
-      - 🇺🇲 美国02丨核心加速【5Gbps】 2
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】 2
-      - 🇰🇷 韩国02丨核心加速【5Gbps】 2
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】 2
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】 2
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】 2
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】 3
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】 3
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】 3
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】 3
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】 3
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】 3
-      - 🇺🇲 美国02丨核心加速【5Gbps】 3
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】 3
-      - 🇰🇷 韩国02丨核心加速【5Gbps】 3
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】 3
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】 3
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】 3
-      - 🇺🇲 拉斯维加斯01 | 中转 | 倍率 * 1.2
-      - 🇺🇲 拉斯维加斯02 | 中转 | 解锁NF | 倍率 * 1.3
-      - 🇺🇲 拉斯维加斯03 | 直连 | 解锁 NF | 倍率 * 1
-      - 🇷🇺 俄罗斯01 | 直连 | 不稳定 | 倍率 * 0.8
-      - 🇿🇦 南非01 | 直连 | 倍率 * 1
-      - 🇿🇦 南非02 | 小高速 | 中转 | 倍率 * 1.3
-      - 🇿🇦 南非03 | 中转 | 解锁NF | 倍率 * 1.2
-      - 🇯🇵 日本01 | 中转 | NF仅自制剧 | 倍率 * 1
-      - 🇯🇵 日本02 | 中转 | NF仅自制剧 | 倍率 * 1
-      - 🇨🇳 台湾01 | 原生 | 解锁NF | 中转 | 倍率 * 1.5
-      - 🇨🇳 台湾02 | 原生 | 解锁NF | 倍率 * 1
-      - 🇸🇬 新加坡01 | 中转 | 倍率 * 1.2
-      - 🇸🇬 新加坡02 | 中转 | 倍率 * 1.2
-      - 🇭🇰 香港01 | 中转 | 倍率 * 1.2
-      - 🇭🇰 香港02 | 直连 | 倍率* 1.2
-      - 🇭🇰 香港03 | 直连 | 解锁 NF | 倍率 * 1.2
-      - 🇭🇰 香港04 | 直连 | 倍率 * 1.5
-      - 🇭🇰 香港05 | 直连 | 倍率 * 1.5
-      - 🇮🇳 印度01 | 中转 | 倍率 * 1.2
-      - 🇮🇳 印度02 | 中转 | 倍率 * 1.2
-      - 🇮🇳 印度03 | 直连 | 解锁NF | 倍率 * 1
-      - 🇰🇷 首尔01 | 直连 | 倍率 * 1
-      - 🇰🇷 首尔02 | 直连 | 倍率 * 1
-      - 🇲🇴 澳门01 | 解锁 NF | 中转 | 倍率 * 1.2
-      - 🇲🇴 澳门02 | 直连 | 解锁NF | 倍率 * 1.2
-      - 🇭🇰 香港06 | 80 | 纯翻墙请用其他 | 倍率 * 1.5
-      - 🇸🇬 新加坡03 | 80 | 纯翻墙请用其他 | 倍率 * 1
-      - 🇸🇬 使用前请务必更新订阅！！建议设置自动更新
-      - TG频道 https://t.me/myzhutou
-      - 🇺🇲 US-03｜免流直连｜美国
-      - 🇯🇵 JP-01｜免流直连｜日本
-      - 🇭🇰 HK-01｜免流直连｜香港
-      - 🇰🇷 KR-02｜免流直连｜韩国
-      - 🇭🇰 US-02｜广港中转｜美国
-      - 🇬🇧 UK-01｜广港中转｜英国
-      - 🇭🇰 TW-01｜广港中转｜台湾
-      - 🇭🇰 JP-02｜广港中转｜日本
-      - 🇭🇰 HK-02｜香港中转｜香港
-      - 🏳️‍🌈 过期时间：2021-10-10
-      - 🇸🇬 新加坡
-      - 🇯🇵 日本
-      - 🇺🇲 美国
-      - 🇳🇱 荷兰
-      - 🇰🇷 韩国
-      - 🇭🇰 香港HKT
-      - 🇭🇰 香港免流01
-      - 🇭🇰 香港免流02
-      - 🇭🇰 香港免流03
-      - 🇭🇰 香港免流04
-      - 🇭🇰 香港免流05
-      - 🇭🇰 香港免流06
-      - 🇭🇰 [VIP-2]1x 香港集负载
-      - 🇯🇵 [VIP-2]1x 日本の国负载
-      - 🇰🇷 [VIP-2]1x 韩 균형이负载
-      - 🇸🇬 [VIP-2]1x 新加坡负载
-      - 🇺🇲 [VIP-2]1x 美国集负载
-      - GOOGO温馨提醒：满意再购买正式套餐
+      - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_2055
+      - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_2051
+      - 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_11830
+      - 🇯🇵 Relay_🇨🇳CN-🇯🇵JP_2050
+      - "@SSRSUB-V24-付费推荐:suo.yt/ssrsub"
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11872
+      - "@SSRSUB-V26-付费推荐:suo.yt/ssrsub"
+      - 🇨🇳 中国台湾
+      - 🇷🇺 @SSRSUB-俄罗斯V6-付费推荐::suo.yt/ssrsub
+      - www.ligonwen.cf_Trojan
+      - 🇷🇺 @SSRSUB-俄罗斯V15-付费推荐::suo.yt/ssrsub
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19663
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19645
+      - "@SSRSUB-V20-付费推荐:suo.yt/ssrsub"
+      - 🇺🇲 Relay_🇹🇼TW-🇺🇸US_12797
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19756
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚫馃嚞SG_5105
+      - 🇰🇷 KR_7590
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚡馃嚨JP_5099
+      - GB_4120 |58.93Mb
+      - 🇨🇦 @SSRSUB-加拿大V16-付费推荐::suo.yt/ssrsub
+      - 🇷🇺 @SSRSUB-俄罗斯V14-付费推荐::suo.yt/ssrsub
+      - "@SSRSUB-V18-付费推荐:suo.yt/ssrsub"
+      - GE_4543 |30.27Mb
+      - 🇷🇺 @SSRSUB-俄罗斯V7-付费推荐::suo.yt/ssrsub
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚟馃嚢HK_5071
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11933
+      - 🇨🇳 Pool_🇹🇼 TW_7964
+      - Israel-2
+      - 🇷🇺 @SSRSUB-俄罗斯V12-付费推荐::suo.yt/ssrsub
+      - BA_1743 |45.37Mb
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11909
+      - 🇨🇳 馃嚬馃嚰TW_11931
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11618
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11640
+      - 🇫🇮 Finland-1
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚡馃嚨JP_5096
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚭馃嚫US_5094
+      - 🇨🇳 馃嚬馃嚰TW_11734
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚭馃嚫US_5078
+      - 🇯🇵 Relay_🇨🇳CN-🇯🇵JP_2035
+      - 🇨🇦 @SSRSUB-加拿大V8-付费推荐::suo.yt/ssrsub
+      - 🇷🇺 @SSRSUB-俄罗斯V4-付费推荐::suo.yt/ssrsub
+      - 🇨🇳 馃嚬馃嚰TW_11791
+      - 🇨🇳 Pool_馃嚬馃嚰TW_12018
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11992
+      - 🇸🇬 Singapore-46
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_7461
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】
-      - 🇺🇲 美国02丨核心加速【5Gbps】
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】
-      - 🇰🇷 韩国02丨核心加速【5Gbps】
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】
-      - 🏳️‍🌈 过期时间：2021-09-17
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】 2
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】 2
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】 2
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】 2
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】 2
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】 2
-      - 🇺🇲 美国02丨核心加速【5Gbps】 2
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】 2
-      - 🇰🇷 韩国02丨核心加速【5Gbps】 2
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】 2
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】 2
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】 2
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】 3
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】 3
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】 3
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】 3
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】 3
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】 3
-      - 🇺🇲 美国02丨核心加速【5Gbps】 3
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】 3
-      - 🇰🇷 韩国02丨核心加速【5Gbps】 3
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】 3
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】 3
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】 3
-      - 🇺🇲 拉斯维加斯01 | 中转 | 倍率 * 1.2
-      - 🇺🇲 拉斯维加斯02 | 中转 | 解锁NF | 倍率 * 1.3
-      - 🇺🇲 拉斯维加斯03 | 直连 | 解锁 NF | 倍率 * 1
-      - 🇷🇺 俄罗斯01 | 直连 | 不稳定 | 倍率 * 0.8
-      - 🇿🇦 南非01 | 直连 | 倍率 * 1
-      - 🇿🇦 南非02 | 小高速 | 中转 | 倍率 * 1.3
-      - 🇿🇦 南非03 | 中转 | 解锁NF | 倍率 * 1.2
-      - 🇯🇵 日本01 | 中转 | NF仅自制剧 | 倍率 * 1
-      - 🇯🇵 日本02 | 中转 | NF仅自制剧 | 倍率 * 1
-      - 🇨🇳 台湾01 | 原生 | 解锁NF | 中转 | 倍率 * 1.5
-      - 🇨🇳 台湾02 | 原生 | 解锁NF | 倍率 * 1
-      - 🇸🇬 新加坡01 | 中转 | 倍率 * 1.2
-      - 🇸🇬 新加坡02 | 中转 | 倍率 * 1.2
-      - 🇭🇰 香港01 | 中转 | 倍率 * 1.2
-      - 🇭🇰 香港02 | 直连 | 倍率* 1.2
-      - 🇭🇰 香港03 | 直连 | 解锁 NF | 倍率 * 1.2
-      - 🇭🇰 香港04 | 直连 | 倍率 * 1.5
-      - 🇭🇰 香港05 | 直连 | 倍率 * 1.5
-      - 🇮🇳 印度01 | 中转 | 倍率 * 1.2
-      - 🇮🇳 印度02 | 中转 | 倍率 * 1.2
-      - 🇮🇳 印度03 | 直连 | 解锁NF | 倍率 * 1
-      - 🇰🇷 首尔01 | 直连 | 倍率 * 1
-      - 🇰🇷 首尔02 | 直连 | 倍率 * 1
-      - 🇲🇴 澳门01 | 解锁 NF | 中转 | 倍率 * 1.2
-      - 🇲🇴 澳门02 | 直连 | 解锁NF | 倍率 * 1.2
-      - 🇭🇰 香港06 | 80 | 纯翻墙请用其他 | 倍率 * 1.5
-      - 🇸🇬 新加坡03 | 80 | 纯翻墙请用其他 | 倍率 * 1
-      - 🇸🇬 使用前请务必更新订阅！！建议设置自动更新
-      - TG频道 https://t.me/myzhutou
-      - 🇺🇲 US-03｜免流直连｜美国
-      - 🇯🇵 JP-01｜免流直连｜日本
-      - 🇭🇰 HK-01｜免流直连｜香港
-      - 🇰🇷 KR-02｜免流直连｜韩国
-      - 🇭🇰 US-02｜广港中转｜美国
-      - 🇬🇧 UK-01｜广港中转｜英国
-      - 🇭🇰 TW-01｜广港中转｜台湾
-      - 🇭🇰 JP-02｜广港中转｜日本
-      - 🇭🇰 HK-02｜香港中转｜香港
-      - 🏳️‍🌈 过期时间：2021-10-10
-      - 🇸🇬 新加坡
-      - 🇯🇵 日本
-      - 🇺🇲 美国
-      - 🇳🇱 荷兰
-      - 🇰🇷 韩国
-      - 🇭🇰 香港HKT
-      - 🇭🇰 香港免流01
-      - 🇭🇰 香港免流02
-      - 🇭🇰 香港免流03
-      - 🇭🇰 香港免流04
-      - 🇭🇰 香港免流05
-      - 🇭🇰 香港免流06
-      - 🇭🇰 [VIP-2]1x 香港集负载
-      - 🇯🇵 [VIP-2]1x 日本の国负载
-      - 🇰🇷 [VIP-2]1x 韩 균형이负载
-      - 🇸🇬 [VIP-2]1x 新加坡负载
-      - 🇺🇲 [VIP-2]1x 美国集负载
-      - GOOGO温馨提醒：满意再购买正式套餐
+      - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_2055
+      - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_2051
+      - 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_11830
+      - 🇯🇵 Relay_🇨🇳CN-🇯🇵JP_2050
+      - "@SSRSUB-V24-付费推荐:suo.yt/ssrsub"
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11872
+      - "@SSRSUB-V26-付费推荐:suo.yt/ssrsub"
+      - 🇨🇳 中国台湾
+      - 🇷🇺 @SSRSUB-俄罗斯V6-付费推荐::suo.yt/ssrsub
+      - www.ligonwen.cf_Trojan
+      - 🇷🇺 @SSRSUB-俄罗斯V15-付费推荐::suo.yt/ssrsub
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19663
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19645
+      - "@SSRSUB-V20-付费推荐:suo.yt/ssrsub"
+      - 🇺🇲 Relay_🇹🇼TW-🇺🇸US_12797
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19756
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚫馃嚞SG_5105
+      - 🇰🇷 KR_7590
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚡馃嚨JP_5099
+      - GB_4120 |58.93Mb
+      - 🇨🇦 @SSRSUB-加拿大V16-付费推荐::suo.yt/ssrsub
+      - 🇷🇺 @SSRSUB-俄罗斯V14-付费推荐::suo.yt/ssrsub
+      - "@SSRSUB-V18-付费推荐:suo.yt/ssrsub"
+      - GE_4543 |30.27Mb
+      - 🇷🇺 @SSRSUB-俄罗斯V7-付费推荐::suo.yt/ssrsub
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚟馃嚢HK_5071
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11933
+      - 🇨🇳 Pool_🇹🇼 TW_7964
+      - Israel-2
+      - 🇷🇺 @SSRSUB-俄罗斯V12-付费推荐::suo.yt/ssrsub
+      - BA_1743 |45.37Mb
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11909
+      - 🇨🇳 馃嚬馃嚰TW_11931
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11618
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11640
+      - 🇫🇮 Finland-1
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚡馃嚨JP_5096
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚭馃嚫US_5094
+      - 🇨🇳 馃嚬馃嚰TW_11734
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚭馃嚫US_5078
+      - 🇯🇵 Relay_🇨🇳CN-🇯🇵JP_2035
+      - 🇨🇦 @SSRSUB-加拿大V8-付费推荐::suo.yt/ssrsub
+      - 🇷🇺 @SSRSUB-俄罗斯V4-付费推荐::suo.yt/ssrsub
+      - 🇨🇳 馃嚬馃嚰TW_11791
+      - 🇨🇳 Pool_馃嚬馃嚰TW_12018
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11992
+      - 🇸🇬 Singapore-46
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_7461
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】
-      - 🇺🇲 美国02丨核心加速【5Gbps】
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】
-      - 🇰🇷 韩国02丨核心加速【5Gbps】
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】
-      - 🏳️‍🌈 过期时间：2021-09-17
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】 2
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】 2
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】 2
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】 2
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】 2
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】 2
-      - 🇺🇲 美国02丨核心加速【5Gbps】 2
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】 2
-      - 🇰🇷 韩国02丨核心加速【5Gbps】 2
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】 2
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】 2
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】 2
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】 3
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】 3
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】 3
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】 3
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】 3
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】 3
-      - 🇺🇲 美国02丨核心加速【5Gbps】 3
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】 3
-      - 🇰🇷 韩国02丨核心加速【5Gbps】 3
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】 3
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】 3
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】 3
-      - 🇺🇲 拉斯维加斯01 | 中转 | 倍率 * 1.2
-      - 🇺🇲 拉斯维加斯02 | 中转 | 解锁NF | 倍率 * 1.3
-      - 🇺🇲 拉斯维加斯03 | 直连 | 解锁 NF | 倍率 * 1
-      - 🇷🇺 俄罗斯01 | 直连 | 不稳定 | 倍率 * 0.8
-      - 🇿🇦 南非01 | 直连 | 倍率 * 1
-      - 🇿🇦 南非02 | 小高速 | 中转 | 倍率 * 1.3
-      - 🇿🇦 南非03 | 中转 | 解锁NF | 倍率 * 1.2
-      - 🇯🇵 日本01 | 中转 | NF仅自制剧 | 倍率 * 1
-      - 🇯🇵 日本02 | 中转 | NF仅自制剧 | 倍率 * 1
-      - 🇨🇳 台湾01 | 原生 | 解锁NF | 中转 | 倍率 * 1.5
-      - 🇨🇳 台湾02 | 原生 | 解锁NF | 倍率 * 1
-      - 🇸🇬 新加坡01 | 中转 | 倍率 * 1.2
-      - 🇸🇬 新加坡02 | 中转 | 倍率 * 1.2
-      - 🇭🇰 香港01 | 中转 | 倍率 * 1.2
-      - 🇭🇰 香港02 | 直连 | 倍率* 1.2
-      - 🇭🇰 香港03 | 直连 | 解锁 NF | 倍率 * 1.2
-      - 🇭🇰 香港04 | 直连 | 倍率 * 1.5
-      - 🇭🇰 香港05 | 直连 | 倍率 * 1.5
-      - 🇮🇳 印度01 | 中转 | 倍率 * 1.2
-      - 🇮🇳 印度02 | 中转 | 倍率 * 1.2
-      - 🇮🇳 印度03 | 直连 | 解锁NF | 倍率 * 1
-      - 🇰🇷 首尔01 | 直连 | 倍率 * 1
-      - 🇰🇷 首尔02 | 直连 | 倍率 * 1
-      - 🇲🇴 澳门01 | 解锁 NF | 中转 | 倍率 * 1.2
-      - 🇲🇴 澳门02 | 直连 | 解锁NF | 倍率 * 1.2
-      - 🇭🇰 香港06 | 80 | 纯翻墙请用其他 | 倍率 * 1.5
-      - 🇸🇬 新加坡03 | 80 | 纯翻墙请用其他 | 倍率 * 1
-      - 🇸🇬 使用前请务必更新订阅！！建议设置自动更新
-      - TG频道 https://t.me/myzhutou
-      - 🇺🇲 US-03｜免流直连｜美国
-      - 🇯🇵 JP-01｜免流直连｜日本
-      - 🇭🇰 HK-01｜免流直连｜香港
-      - 🇰🇷 KR-02｜免流直连｜韩国
-      - 🇭🇰 US-02｜广港中转｜美国
-      - 🇬🇧 UK-01｜广港中转｜英国
-      - 🇭🇰 TW-01｜广港中转｜台湾
-      - 🇭🇰 JP-02｜广港中转｜日本
-      - 🇭🇰 HK-02｜香港中转｜香港
-      - 🏳️‍🌈 过期时间：2021-10-10
-      - 🇸🇬 新加坡
-      - 🇯🇵 日本
-      - 🇺🇲 美国
-      - 🇳🇱 荷兰
-      - 🇰🇷 韩国
-      - 🇭🇰 香港HKT
-      - 🇭🇰 香港免流01
-      - 🇭🇰 香港免流02
-      - 🇭🇰 香港免流03
-      - 🇭🇰 香港免流04
-      - 🇭🇰 香港免流05
-      - 🇭🇰 香港免流06
-      - 🇭🇰 [VIP-2]1x 香港集负载
-      - 🇯🇵 [VIP-2]1x 日本の国负载
-      - 🇰🇷 [VIP-2]1x 韩 균형이负载
-      - 🇸🇬 [VIP-2]1x 新加坡负载
-      - 🇺🇲 [VIP-2]1x 美国集负载
-      - GOOGO温馨提醒：满意再购买正式套餐
+      - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_2055
+      - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_2051
+      - 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_11830
+      - 🇯🇵 Relay_🇨🇳CN-🇯🇵JP_2050
+      - "@SSRSUB-V24-付费推荐:suo.yt/ssrsub"
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11872
+      - "@SSRSUB-V26-付费推荐:suo.yt/ssrsub"
+      - 🇨🇳 中国台湾
+      - 🇷🇺 @SSRSUB-俄罗斯V6-付费推荐::suo.yt/ssrsub
+      - www.ligonwen.cf_Trojan
+      - 🇷🇺 @SSRSUB-俄罗斯V15-付费推荐::suo.yt/ssrsub
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19663
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19645
+      - "@SSRSUB-V20-付费推荐:suo.yt/ssrsub"
+      - 🇺🇲 Relay_🇹🇼TW-🇺🇸US_12797
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19756
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚫馃嚞SG_5105
+      - 🇰🇷 KR_7590
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚡馃嚨JP_5099
+      - GB_4120 |58.93Mb
+      - 🇨🇦 @SSRSUB-加拿大V16-付费推荐::suo.yt/ssrsub
+      - 🇷🇺 @SSRSUB-俄罗斯V14-付费推荐::suo.yt/ssrsub
+      - "@SSRSUB-V18-付费推荐:suo.yt/ssrsub"
+      - GE_4543 |30.27Mb
+      - 🇷🇺 @SSRSUB-俄罗斯V7-付费推荐::suo.yt/ssrsub
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚟馃嚢HK_5071
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11933
+      - 🇨🇳 Pool_🇹🇼 TW_7964
+      - Israel-2
+      - 🇷🇺 @SSRSUB-俄罗斯V12-付费推荐::suo.yt/ssrsub
+      - BA_1743 |45.37Mb
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11909
+      - 🇨🇳 馃嚬馃嚰TW_11931
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11618
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11640
+      - 🇫🇮 Finland-1
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚡馃嚨JP_5096
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚭馃嚫US_5094
+      - 🇨🇳 馃嚬馃嚰TW_11734
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚭馃嚫US_5078
+      - 🇯🇵 Relay_🇨🇳CN-🇯🇵JP_2035
+      - 🇨🇦 @SSRSUB-加拿大V8-付费推荐::suo.yt/ssrsub
+      - 🇷🇺 @SSRSUB-俄罗斯V4-付费推荐::suo.yt/ssrsub
+      - 🇨🇳 馃嚬馃嚰TW_11791
+      - 🇨🇳 Pool_馃嚬馃嚰TW_12018
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11992
+      - 🇸🇬 Singapore-46
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_7461
   - name: 📢 谷歌FCM
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】
-      - 🇺🇲 美国02丨核心加速【5Gbps】
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】
-      - 🇰🇷 韩国02丨核心加速【5Gbps】
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】
-      - 🏳️‍🌈 过期时间：2021-09-17
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】 2
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】 2
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】 2
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】 2
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】 2
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】 2
-      - 🇺🇲 美国02丨核心加速【5Gbps】 2
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】 2
-      - 🇰🇷 韩国02丨核心加速【5Gbps】 2
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】 2
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】 2
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】 2
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】 3
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】 3
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】 3
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】 3
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】 3
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】 3
-      - 🇺🇲 美国02丨核心加速【5Gbps】 3
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】 3
-      - 🇰🇷 韩国02丨核心加速【5Gbps】 3
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】 3
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】 3
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】 3
-      - 🇺🇲 拉斯维加斯01 | 中转 | 倍率 * 1.2
-      - 🇺🇲 拉斯维加斯02 | 中转 | 解锁NF | 倍率 * 1.3
-      - 🇺🇲 拉斯维加斯03 | 直连 | 解锁 NF | 倍率 * 1
-      - 🇷🇺 俄罗斯01 | 直连 | 不稳定 | 倍率 * 0.8
-      - 🇿🇦 南非01 | 直连 | 倍率 * 1
-      - 🇿🇦 南非02 | 小高速 | 中转 | 倍率 * 1.3
-      - 🇿🇦 南非03 | 中转 | 解锁NF | 倍率 * 1.2
-      - 🇯🇵 日本01 | 中转 | NF仅自制剧 | 倍率 * 1
-      - 🇯🇵 日本02 | 中转 | NF仅自制剧 | 倍率 * 1
-      - 🇨🇳 台湾01 | 原生 | 解锁NF | 中转 | 倍率 * 1.5
-      - 🇨🇳 台湾02 | 原生 | 解锁NF | 倍率 * 1
-      - 🇸🇬 新加坡01 | 中转 | 倍率 * 1.2
-      - 🇸🇬 新加坡02 | 中转 | 倍率 * 1.2
-      - 🇭🇰 香港01 | 中转 | 倍率 * 1.2
-      - 🇭🇰 香港02 | 直连 | 倍率* 1.2
-      - 🇭🇰 香港03 | 直连 | 解锁 NF | 倍率 * 1.2
-      - 🇭🇰 香港04 | 直连 | 倍率 * 1.5
-      - 🇭🇰 香港05 | 直连 | 倍率 * 1.5
-      - 🇮🇳 印度01 | 中转 | 倍率 * 1.2
-      - 🇮🇳 印度02 | 中转 | 倍率 * 1.2
-      - 🇮🇳 印度03 | 直连 | 解锁NF | 倍率 * 1
-      - 🇰🇷 首尔01 | 直连 | 倍率 * 1
-      - 🇰🇷 首尔02 | 直连 | 倍率 * 1
-      - 🇲🇴 澳门01 | 解锁 NF | 中转 | 倍率 * 1.2
-      - 🇲🇴 澳门02 | 直连 | 解锁NF | 倍率 * 1.2
-      - 🇭🇰 香港06 | 80 | 纯翻墙请用其他 | 倍率 * 1.5
-      - 🇸🇬 新加坡03 | 80 | 纯翻墙请用其他 | 倍率 * 1
-      - 🇸🇬 使用前请务必更新订阅！！建议设置自动更新
-      - TG频道 https://t.me/myzhutou
-      - 🇺🇲 US-03｜免流直连｜美国
-      - 🇯🇵 JP-01｜免流直连｜日本
-      - 🇭🇰 HK-01｜免流直连｜香港
-      - 🇰🇷 KR-02｜免流直连｜韩国
-      - 🇭🇰 US-02｜广港中转｜美国
-      - 🇬🇧 UK-01｜广港中转｜英国
-      - 🇭🇰 TW-01｜广港中转｜台湾
-      - 🇭🇰 JP-02｜广港中转｜日本
-      - 🇭🇰 HK-02｜香港中转｜香港
-      - 🏳️‍🌈 过期时间：2021-10-10
-      - 🇸🇬 新加坡
-      - 🇯🇵 日本
-      - 🇺🇲 美国
-      - 🇳🇱 荷兰
-      - 🇰🇷 韩国
-      - 🇭🇰 香港HKT
-      - 🇭🇰 香港免流01
-      - 🇭🇰 香港免流02
-      - 🇭🇰 香港免流03
-      - 🇭🇰 香港免流04
-      - 🇭🇰 香港免流05
-      - 🇭🇰 香港免流06
-      - 🇭🇰 [VIP-2]1x 香港集负载
-      - 🇯🇵 [VIP-2]1x 日本の国负载
-      - 🇰🇷 [VIP-2]1x 韩 균형이负载
-      - 🇸🇬 [VIP-2]1x 新加坡负载
-      - 🇺🇲 [VIP-2]1x 美国集负载
-      - GOOGO温馨提醒：满意再购买正式套餐
+      - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_2055
+      - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_2051
+      - 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_11830
+      - 🇯🇵 Relay_🇨🇳CN-🇯🇵JP_2050
+      - "@SSRSUB-V24-付费推荐:suo.yt/ssrsub"
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11872
+      - "@SSRSUB-V26-付费推荐:suo.yt/ssrsub"
+      - 🇨🇳 中国台湾
+      - 🇷🇺 @SSRSUB-俄罗斯V6-付费推荐::suo.yt/ssrsub
+      - www.ligonwen.cf_Trojan
+      - 🇷🇺 @SSRSUB-俄罗斯V15-付费推荐::suo.yt/ssrsub
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19663
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19645
+      - "@SSRSUB-V20-付费推荐:suo.yt/ssrsub"
+      - 🇺🇲 Relay_🇹🇼TW-🇺🇸US_12797
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19756
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚫馃嚞SG_5105
+      - 🇰🇷 KR_7590
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚡馃嚨JP_5099
+      - GB_4120 |58.93Mb
+      - 🇨🇦 @SSRSUB-加拿大V16-付费推荐::suo.yt/ssrsub
+      - 🇷🇺 @SSRSUB-俄罗斯V14-付费推荐::suo.yt/ssrsub
+      - "@SSRSUB-V18-付费推荐:suo.yt/ssrsub"
+      - GE_4543 |30.27Mb
+      - 🇷🇺 @SSRSUB-俄罗斯V7-付费推荐::suo.yt/ssrsub
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚟馃嚢HK_5071
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11933
+      - 🇨🇳 Pool_🇹🇼 TW_7964
+      - Israel-2
+      - 🇷🇺 @SSRSUB-俄罗斯V12-付费推荐::suo.yt/ssrsub
+      - BA_1743 |45.37Mb
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11909
+      - 🇨🇳 馃嚬馃嚰TW_11931
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11618
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11640
+      - 🇫🇮 Finland-1
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚡馃嚨JP_5096
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚭馃嚫US_5094
+      - 🇨🇳 馃嚬馃嚰TW_11734
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚭馃嚫US_5078
+      - 🇯🇵 Relay_🇨🇳CN-🇯🇵JP_2035
+      - 🇨🇦 @SSRSUB-加拿大V8-付费推荐::suo.yt/ssrsub
+      - 🇷🇺 @SSRSUB-俄罗斯V4-付费推荐::suo.yt/ssrsub
+      - 🇨🇳 馃嚬馃嚰TW_11791
+      - 🇨🇳 Pool_馃嚬馃嚰TW_12018
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11992
+      - 🇸🇬 Singapore-46
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_7461
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -818,100 +450,54 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】
-      - 🇺🇲 美国02丨核心加速【5Gbps】
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】
-      - 🇰🇷 韩国02丨核心加速【5Gbps】
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】
-      - 🏳️‍🌈 过期时间：2021-09-17
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】 2
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】 2
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】 2
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】 2
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】 2
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】 2
-      - 🇺🇲 美国02丨核心加速【5Gbps】 2
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】 2
-      - 🇰🇷 韩国02丨核心加速【5Gbps】 2
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】 2
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】 2
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】 2
-      - 🇮🇳 印度孟买01丨核心加速【5Gbps】 3
-      - 🇸🇬 新加坡01丨核心加速【5Gbps】 3
-      - 🇯🇵 日本专线1号丨核心加速【5Gbps】 3
-      - 🇯🇵 日本专线2号丨Twitter解锁丨核心加速【10Gbps】 3
-      - 🇦🇺 澳大利亚01丨核心加速【5Gbps】 3
-      - 🇺🇲 美国01丨核心加速丨核心加速【5Gbps】 3
-      - 🇺🇲 美国02丨核心加速【5Gbps】 3
-      - 🇰🇷 韩国01丨边缘加速【5Gbps】 3
-      - 🇰🇷 韩国02丨核心加速【5Gbps】 3
-      - 🇰🇷 韩国专线1号丨Twitter解锁丨核心加速【10Gbps】 3
-      - 🇭🇰 香港01丨AZ转AWS丨核心加速【5Gbps】 3
-      - 🇭🇰 香港02丨AZ转AWS丨核心加速【5Gbps】 3
-      - 🇺🇲 拉斯维加斯01 | 中转 | 倍率 * 1.2
-      - 🇺🇲 拉斯维加斯02 | 中转 | 解锁NF | 倍率 * 1.3
-      - 🇺🇲 拉斯维加斯03 | 直连 | 解锁 NF | 倍率 * 1
-      - 🇷🇺 俄罗斯01 | 直连 | 不稳定 | 倍率 * 0.8
-      - 🇿🇦 南非01 | 直连 | 倍率 * 1
-      - 🇿🇦 南非02 | 小高速 | 中转 | 倍率 * 1.3
-      - 🇿🇦 南非03 | 中转 | 解锁NF | 倍率 * 1.2
-      - 🇯🇵 日本01 | 中转 | NF仅自制剧 | 倍率 * 1
-      - 🇯🇵 日本02 | 中转 | NF仅自制剧 | 倍率 * 1
-      - 🇨🇳 台湾01 | 原生 | 解锁NF | 中转 | 倍率 * 1.5
-      - 🇨🇳 台湾02 | 原生 | 解锁NF | 倍率 * 1
-      - 🇸🇬 新加坡01 | 中转 | 倍率 * 1.2
-      - 🇸🇬 新加坡02 | 中转 | 倍率 * 1.2
-      - 🇭🇰 香港01 | 中转 | 倍率 * 1.2
-      - 🇭🇰 香港02 | 直连 | 倍率* 1.2
-      - 🇭🇰 香港03 | 直连 | 解锁 NF | 倍率 * 1.2
-      - 🇭🇰 香港04 | 直连 | 倍率 * 1.5
-      - 🇭🇰 香港05 | 直连 | 倍率 * 1.5
-      - 🇮🇳 印度01 | 中转 | 倍率 * 1.2
-      - 🇮🇳 印度02 | 中转 | 倍率 * 1.2
-      - 🇮🇳 印度03 | 直连 | 解锁NF | 倍率 * 1
-      - 🇰🇷 首尔01 | 直连 | 倍率 * 1
-      - 🇰🇷 首尔02 | 直连 | 倍率 * 1
-      - 🇲🇴 澳门01 | 解锁 NF | 中转 | 倍率 * 1.2
-      - 🇲🇴 澳门02 | 直连 | 解锁NF | 倍率 * 1.2
-      - 🇭🇰 香港06 | 80 | 纯翻墙请用其他 | 倍率 * 1.5
-      - 🇸🇬 新加坡03 | 80 | 纯翻墙请用其他 | 倍率 * 1
-      - 🇸🇬 使用前请务必更新订阅！！建议设置自动更新
-      - TG频道 https://t.me/myzhutou
-      - 🇺🇲 US-03｜免流直连｜美国
-      - 🇯🇵 JP-01｜免流直连｜日本
-      - 🇭🇰 HK-01｜免流直连｜香港
-      - 🇰🇷 KR-02｜免流直连｜韩国
-      - 🇭🇰 US-02｜广港中转｜美国
-      - 🇬🇧 UK-01｜广港中转｜英国
-      - 🇭🇰 TW-01｜广港中转｜台湾
-      - 🇭🇰 JP-02｜广港中转｜日本
-      - 🇭🇰 HK-02｜香港中转｜香港
-      - 🏳️‍🌈 过期时间：2021-10-10
-      - 🇸🇬 新加坡
-      - 🇯🇵 日本
-      - 🇺🇲 美国
-      - 🇳🇱 荷兰
-      - 🇰🇷 韩国
-      - 🇭🇰 香港HKT
-      - 🇭🇰 香港免流01
-      - 🇭🇰 香港免流02
-      - 🇭🇰 香港免流03
-      - 🇭🇰 香港免流04
-      - 🇭🇰 香港免流05
-      - 🇭🇰 香港免流06
-      - 🇭🇰 [VIP-2]1x 香港集负载
-      - 🇯🇵 [VIP-2]1x 日本の国负载
-      - 🇰🇷 [VIP-2]1x 韩 균형이负载
-      - 🇸🇬 [VIP-2]1x 新加坡负载
-      - 🇺🇲 [VIP-2]1x 美国集负载
-      - GOOGO温馨提醒：满意再购买正式套餐
+      - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_2055
+      - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_2051
+      - 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_11830
+      - 🇯🇵 Relay_🇨🇳CN-🇯🇵JP_2050
+      - "@SSRSUB-V24-付费推荐:suo.yt/ssrsub"
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11872
+      - "@SSRSUB-V26-付费推荐:suo.yt/ssrsub"
+      - 🇨🇳 中国台湾
+      - 🇷🇺 @SSRSUB-俄罗斯V6-付费推荐::suo.yt/ssrsub
+      - www.ligonwen.cf_Trojan
+      - 🇷🇺 @SSRSUB-俄罗斯V15-付费推荐::suo.yt/ssrsub
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19663
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19645
+      - "@SSRSUB-V20-付费推荐:suo.yt/ssrsub"
+      - 🇺🇲 Relay_🇹🇼TW-🇺🇸US_12797
+      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_19756
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚫馃嚞SG_5105
+      - 🇰🇷 KR_7590
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚡馃嚨JP_5099
+      - GB_4120 |58.93Mb
+      - 🇨🇦 @SSRSUB-加拿大V16-付费推荐::suo.yt/ssrsub
+      - 🇷🇺 @SSRSUB-俄罗斯V14-付费推荐::suo.yt/ssrsub
+      - "@SSRSUB-V18-付费推荐:suo.yt/ssrsub"
+      - GE_4543 |30.27Mb
+      - 🇷🇺 @SSRSUB-俄罗斯V7-付费推荐::suo.yt/ssrsub
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚟馃嚢HK_5071
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11933
+      - 🇨🇳 Pool_🇹🇼 TW_7964
+      - Israel-2
+      - 🇷🇺 @SSRSUB-俄罗斯V12-付费推荐::suo.yt/ssrsub
+      - BA_1743 |45.37Mb
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11909
+      - 🇨🇳 馃嚬馃嚰TW_11931
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11618
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11640
+      - 🇫🇮 Finland-1
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚡馃嚨JP_5096
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚭馃嚫US_5094
+      - 🇨🇳 馃嚬馃嚰TW_11734
+      - 🇭🇰 Relay_馃嚟馃嚢HK-馃嚭馃嚫US_5078
+      - 🇯🇵 Relay_🇨🇳CN-🇯🇵JP_2035
+      - 🇨🇦 @SSRSUB-加拿大V8-付费推荐::suo.yt/ssrsub
+      - 🇷🇺 @SSRSUB-俄罗斯V4-付费推荐::suo.yt/ssrsub
+      - 🇨🇳 馃嚬馃嚰TW_11791
+      - 🇨🇳 Pool_馃嚬馃嚰TW_12018
+      - 🇨🇳 Pool_馃嚬馃嚰TW_11992
+      - 🇸🇬 Singapore-46
+      - 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_7461
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
@@ -2626,6 +2212,7 @@ rules:
  - IP-CIDR,74.125.203.188/32,📢 谷歌FCM,no-resolve
  - IP-CIDR,74.125.204.188/32,📢 谷歌FCM,no-resolve
  - IP-CIDR,74.125.206.188/32,📢 谷歌FCM,no-resolve
+ - IP-CIDR,108.177.97.188/32,📢 谷歌FCM,no-resolve
  - IP-CIDR,108.177.125.188/32,📢 谷歌FCM,no-resolve
  - IP-CIDR,142.250.4.188/32,📢 谷歌FCM,no-resolve
  - IP-CIDR,142.250.10.188/32,📢 谷歌FCM,no-resolve
