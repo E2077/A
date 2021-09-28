@@ -1,0 +1,928 @@
+proxies:
+  - {name: 🇺🇸 Relay_馃嚟馃嚢HK-馃嚭馃嚫US_5515, server: 18.167.36.24, port: 56789, type: vmess, uuid: 48eda63e-f681-4e24-a563-204e4b3774c5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: microsoft.com}}
+  - {name: 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_2133 |12.30Mb, server: www.ligonwen.cf, port: 443, type: trojan, password: 7836137d-2db0-4809-9b57-ed14cf2ed4ce, sni: www.ligonwen.cf}
+  - {name: 🇭🇰 HK_1069 |35.10Mb, server: 35.ssrj.xyz, port: 65135, type: vmess, uuid: 24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae, alterId: 2, cipher: auto, tls: false}
+  - {name: Pool_馃嚪馃嚧RO_9521, server: 185.124.240.171, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: Pool_馃嚪馃嚧RO_9549, server: 79.110.54.117, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇷🇺 Relay_馃嚪馃嚭RU-馃嚪馃嚭RU_11656, server: els.jklist.ga, port: 443, type: vmess, uuid: 25290405-8ef7-4561-acc0-0d234fe8d9da, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html, ws-headers: {Host: a.189.cn}}
+  - {name: Pool_馃嚪馃嚧RO_11183, server: 185.124.240.171, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: Pool_馃嚪馃嚧RO_10283, server: 185.124.240.171, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17919, server: 212.102.46.54, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇷🇺 馃嚪馃嚭RU_11657, server: 46.17.45.139, port: 56967, type: vmess, uuid: 5458261b-ec18-4673-9251-fa7859a5cacb, alterId: 0, cipher: auto, tls: false}
+  - {name: Pool_馃嚪馃嚧RO_11083, server: 79.110.54.117, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17941, server: 212.102.46.54, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17931, server: 212.102.46.54, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇺🇸 馃嚭馃嚫US_12179, server: 185.242.5.149, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13638, server: 66.115.177.156, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: Pool_馃嚪馃嚧RO_10913, server: 79.110.54.117, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16713, server: 212.102.46.67, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇭🇰 HK_1068 |25.68Mb, server: 7.ssrj.xyz, port: 65107, type: vmess, uuid: 24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae, alterId: 2, cipher: auto, tls: false}
+  - {name: Pool_馃嚪馃嚧RO_11199, server: 185.124.240.171, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18904, server: 66.115.147.89, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17080, server: 199.58.187.67, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16375, server: 212.102.44.86, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇺🇸 馃嚭馃嚫 US_267, server: 212.102.44.86, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇺🇸 馃嚭馃嚫US_12178, server: 185.242.5.149, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: Pool_馃嚪馃嚧RO_9550, server: 79.110.54.117, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: Pool_馃嚪馃嚧RO_9233, server: 79.110.54.117, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17169, server: 199.58.187.67, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15457, server: 212.102.44.86, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15057, server: 66.115.177.136, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17420, server: 199.58.187.67, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17079, server: 199.58.187.67, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13682, server: 66.115.177.156, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15549, server: 212.102.46.54, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: Pool_馃嚙馃嚜BE_1222, server: 5.253.205.229, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: Pool_馃嚪馃嚧RO_10561, server: 79.110.54.133, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13804, server: 66.115.177.143, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13924, server: 212.102.44.86, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_884, server: 66.115.147.92, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17232, server: 199.58.187.67, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17233, server: 199.58.187.67, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 🇺🇸 Pool_🇺🇸US_2632 | 3.65Mb, server: 199.58.187.67, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇺🇸 馃嚭馃嚫 US_234, server: 66.115.147.72, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15532, server: 66.115.177.143, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_1082, server: 212.102.44.98, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17226, server: 199.58.187.67, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇺🇸 馃嚭馃嚫US_16918, server: 66.115.177.143, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17211, server: 199.58.187.67, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: _845, server: t6.ssrsub.one, port: 8443, type: trojan, password: 217010a3-c48d-4c42-9b99-c4dfc173ec78, sni: t6.ssrsub.one}
+  - {name: 🇺🇸 US_3142 | 8.76Mb, server: 66.115.177.143, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇺🇸 US_3069 | 1.16Mb, server: 198.8.92.84, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇺🇸 US_2666 | 6.28Mb, server: 66.115.147.89, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17178, server: 199.58.187.67, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16283, server: 66.115.177.143, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16447, server: 104.244.211.141, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇸 馃嚭馃嚫US_15953, server: 66.115.177.143, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17085, server: 199.58.187.67, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇺🇸 US_3009 | 8.64Mb, server: 66.115.177.156, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: Pool_🇬🇧GB_876 | 4.46Mb, server: 89.238.130.227, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇺🇸 馃嚭馃嚫 US_261, server: 66.115.147.72, port: 45948, type: ss, cipher: aes-256-gcm, password: j76EXqJcQhuQTr3EvUf7xaK9}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17179, server: 199.58.187.67, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 🇺🇸 馃嚭馃嚫US_15754, server: 66.115.177.141, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18828, server: 64.44.42.56, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15539, server: 66.115.177.143, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 US_3303 | 3.57Mb, server: 66.115.177.141, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 🇺🇸 US_2853, server: 212.102.44.86, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇺🇸 US_2516 | 7.59Mb, server: 66.115.177.143, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16413, server: 66.115.177.141, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16721, server: 66.115.177.143, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇸 馃嚭馃嚫 US_276, server: 66.115.147.89, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15633, server: 66.115.177.143, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18820, server: 66.115.177.156, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14040, server: 66.115.154.131, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17671, server: 64.44.42.56, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 馃嚛馃嚜 DE_80, server: 37.120.217.149, port: 47553, type: ss, cipher: aes-256-gcm, password: t2JnnFqjDMmzWurseJPgBsYY}
+  - {name: 🇺🇸 馃嚭馃嚫US_15983, server: 66.115.177.143, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇸🇬 Relay_馃嚟馃嚢HK-馃嚫馃嚞SG_5536, server: 51.ssrj.xyz, port: 65151, type: vmess, uuid: 24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae, alterId: 2, cipher: auto, tls: false}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16146, server: 66.115.177.156, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14314, server: 66.115.154.131, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16365, server: 104.244.211.141, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18119, server: 104.244.208.211, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇺🇸 US_2507 | 8.52Mb, server: 66.115.177.141, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇸 Pool_🇺🇸US_3343 | 9.76Mb, server: 66.115.177.141, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 🇺🇸 Pool_🇺🇸US_2571, server: 198.147.22.87, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: GE_1002 | 3.14Mb, server: 176.125.231.5, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇺🇸 馃嚭馃嚫 US_242, server: 66.115.147.72, port: 39720, type: ss, cipher: aes-256-gcm, password: kq8xQKC3K4jYQPwLXTNbJjm6}
+  - {name: 🇰🇷 Pool_馃嚢馃嚪KR_7608, server: 61.14.210.237, port: 40220, type: ss, cipher: aes-256-gcm, password: ugyBkSEFxVEmUYSHyvxmWNj9}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15034, server: 66.115.177.156, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15183, server: 66.115.177.141, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇺🇸 馃嚭馃嚫 US_266, server: 66.115.147.72, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇭🇰 Relay_馃嚟馃嚢HK-馃嚟馃嚢HK_5539, server: hk2.free80ml.tk, port: 80, type: vmess, uuid: 35fa01b6-aff0-3350-81d3-9185e6be42d1, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: hk2.free80ml.tk}}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13994, server: 212.102.44.86, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15264, server: 66.115.177.141, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17252, server: 199.58.187.67, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15622, server: 66.115.177.143, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15623, server: 66.115.177.143, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17096, server: 66.115.177.156, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13659, server: 66.115.177.156, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_908, server: 66.115.147.92, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 馃嚛馃嚜 DE_35, server: 37.120.217.149, port: 49468, type: ss, cipher: aes-256-gcm, password: LsYSQDxmPj9AcWpSX5HrYfu6}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15386, server: 104.244.211.141, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16425, server: 66.115.154.131, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15412, server: 104.244.211.141, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 馃嚛馃嚜 DE_84, server: 37.120.217.149, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16601, server: 104.244.211.141, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 馃嚛馃嚜 DE_61, server: 37.120.217.149, port: 50225, type: ss, cipher: aes-256-gcm, password: J2M953QbkCvvzx3vYWdyBQ4K}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15632, server: 66.115.177.141, port: 42185, type: ss, cipher: aes-256-gcm, password: FaTG4zALZru72gxjgSHQ7Jdh}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15196, server: 66.115.177.141, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇺🇸 US_3182 | 8.37Mb, server: 66.115.177.141, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: RO_1849 | 4.19Mb, server: 194.37.96.213, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇺🇸 Pool_🇺🇸US_3316 | 5.20Mb, server: 212.102.44.86, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 🇺🇸 Pool_🇺🇸US_2900 | 6.35Mb, server: 66.115.177.143, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: GE_1009 | 2.77Mb, server: 176.125.231.5, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13812, server: 66.115.177.143, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 馃嚛馃嚜 DE_139, server: 37.120.217.149, port: 40220, type: ss, cipher: aes-256-gcm, password: ugyBkSEFxVEmUYSHyvxmWNj9}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15621, server: 66.115.177.143, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15598, server: 66.115.177.143, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 🇰🇷 Pool_馃嚢馃嚪KR_7546, server: 61.14.210.237, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17192, server: 199.58.187.67, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 馃嚛馃嚜 DE_120, server: 37.120.217.149, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 馃嚞馃嚙GB_4453 |112.06Mb, server: 195.181.171.231, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14505, server: 104.244.211.141, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14853, server: 66.115.177.143, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18155, server: 212.102.44.86, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇺🇸 馃嚭馃嚫US_15960, server: 66.115.177.143, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15056, server: 66.115.177.136, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14035, server: 212.102.44.86, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15308, server: 66.115.177.141, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 🇺🇸 馃嚭馃嚫US_16588, server: 66.115.177.143, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13688, server: 66.115.177.156, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16686, server: 66.115.154.131, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15634, server: 64.44.42.56, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16199, server: 104.244.211.141, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇺🇸 馃嚭馃嚫US_16652, server: 66.115.177.141, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇸🇬 Relay_馃嚟馃嚢HK-馃嚫馃嚞SG_5514, server: 53.ssrj.xyz, port: 61153, type: vmess, uuid: 24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae, alterId: 2, cipher: auto, tls: false}
+  - {name: 🇺🇸 馃嚭馃嚫US_14668, server: 66.115.154.131, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15195, server: 66.115.177.141, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14189, server: 104.244.211.141, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇺🇸 馃嚭馃嚫 US_2664, server: 192.154.253.67, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 馃嚠馃嚬 IT_191, server: 37.120.207.5, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 Relay_馃嚭馃嚫US-馃嚭馃嚫US_19047, server: t1.ssrsub.one, port: 8443, type: trojan, password: ed4b6594-ea16-40f6-a935-f3985c433973, sni: t1.ssrsub.one}
+  - {name: 🇺🇸 US_3266 | 8.11Mb, server: 66.115.154.131, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇺🇸 US_2762 | 6.22Mb, server: 66.115.177.143, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇺🇸 Pool_🇺🇸US_2556 | 9.97Mb, server: 66.115.177.141, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17180, server: 199.58.187.67, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇰🇷 Pool_馃嚢馃嚪KR_7548, server: 61.14.210.237, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14908, server: 66.115.177.156, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: Pool_馃嚪馃嚧RO_9442, server: 193.29.106.181, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15252, server: 66.115.177.141, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15327, server: 66.115.177.141, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 馃嚪馃嚧 RO_2077, server: 193.29.106.27, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 馃嚛馃嚜 DE_31, server: 37.120.217.149, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 馃嚠馃嚬IT_7050, server: 82.102.26.94, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18680, server: 64.44.42.56, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14051, server: 104.244.211.141, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: Pool_馃嚪馃嚧RO_9858, server: 91.90.123.131, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: Pool_馃嚪馃嚧RO_10077, server: 91.90.123.115, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: Pool_馃嚠馃嚬IT_6452, server: 82.102.26.93, port: 38747, type: ss, cipher: aes-256-gcm, password: RtbLkxbJZpUQ6m8y4qAeLYZj}
+  - {name: Pool_馃嚙馃嚜BE_1203, server: 89.249.73.197, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 馃嚚馃嚟 CH_14, server: 84.39.114.86, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 馃嚞馃嚙 GB_1352, server: 86.106.136.93, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15198, server: 66.115.177.141, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13613, server: 64.44.42.56, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15031, server: 66.115.177.136, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17231, server: 199.58.187.67, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: _852, server: t8.ssrsub.one, port: 8443, type: trojan, password: 217010a3-c48d-4c42-9b99-c4dfc173ec78, sni: t8.ssrsub.one}
+  - {name: 🇺🇸 US_2992 | 5.75Mb, server: 64.44.42.56, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇺🇸 US_2512 | 8.99Mb, server: 66.115.154.131, port: 50695, type: ss, cipher: aes-256-gcm, password: gqtwGu9bVreJqL3FTHSVKGzy}
+  - {name: Pool_🇮🇹IT_1356 | 2.75Mb, server: 82.102.26.93, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: Pool_🇮🇹IT_1312 | 0.65Mb, server: 82.102.26.93, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: Pool_🇬🇧GB_869 | 0.70Mb, server: 195.181.171.228, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: GE_1006 | 2.79Mb, server: 176.125.231.5, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: Pool_馃嚬馃嚪TR_12337, server: 107.150.94.27, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇺🇸 馃嚭馃嚫 US_228, server: 66.115.147.72, port: 35200, type: ss, cipher: aes-256-gcm, password: WBLAbN6AwtV5avBx73hFRLB3}
+  - {name: 🇺🇸 馃嚭馃嚫US_18175, server: 192.169.112.168, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 馃嚭馃嚫 US_254, server: 66.115.147.72, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 馃嚛馃嚜 DE_113, server: 37.120.217.149, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15251, server: 66.115.177.141, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 馃嚛馃嚜 DE_26, server: 37.120.217.149, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15248, server: 66.115.177.141, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 馃嚛馃嚜 DE_110, server: 37.120.217.149, port: 44745, type: ss, cipher: aes-256-gcm, password: fyXdw87yCH9SAmFkPvsvLVqC}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14934, server: 66.115.177.156, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14896, server: 66.115.177.156, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: Pool_馃嚪馃嚧RO_10187, server: 91.90.123.163, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 馃嚞馃嚙 GB_1381, server: 86.106.136.93, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14542, server: 66.115.154.131, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16152, server: 66.115.177.156, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18800, server: 64.44.42.56, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18792, server: 212.102.44.86, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: Pool_馃嚞馃嚙GB_4854, server: 86.106.136.83, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18836, server: 64.44.42.56, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇰🇷 Pool_馃嚢馃嚪KR_7539, server: 61.14.210.237, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17203, server: 199.58.187.67, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇺🇸 US_3305 | 7.22Mb, server: 66.115.154.131, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 🇺🇸 US_2470 | 6.49Mb, server: 66.115.177.141, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: IT_1274 | 4.80Mb, server: 82.102.26.93, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: Pool_🇷🇴RO_1773 | 6.62Mb, server: 89.38.227.163, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: Pool_🇮🇹IT_1358 | 0.68Mb, server: 82.102.26.93, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇺🇸 馃嚭馃嚫 US_278, server: 66.115.147.72, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
+  - {name: 馃嚛馃嚜 DE_82, server: 37.120.217.149, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 馃嚛馃嚜 DE_146, server: 37.120.217.149, port: 39556, type: ss, cipher: aes-256-gcm, password: g4AfpNELpdYEeLYhM8XCX9se}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16367, server: 212.102.44.86, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15591, server: 66.115.177.143, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇺🇸 馃嚭馃嚫US_16591, server: 66.115.177.143, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇺🇸 馃嚭馃嚫US_18169, server: 167.88.63.99, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 馃嚛馃嚜 DE_69, server: 37.120.217.149, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16296, server: 212.102.44.86, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15400, server: 104.244.211.141, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: Pool_馃嚪馃嚧RO_10521, server: 91.90.123.131, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14431, server: 104.244.211.141, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 馃嚪馃嚧 RO_209, server: 91.90.123.115, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14363, server: 104.244.211.141, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: Pool_馃嚪馃嚧RO_10179, server: 91.90.123.115, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 馃嚞馃嚙GB_4343 |166.97Mb, server: 195.181.171.233, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14547, server: 64.44.42.56, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 馃嚨馃嚤 PL_202, server: 5.187.49.189, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16974, server: 64.44.42.56, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 馃嚞馃嚙 GB_176, server: 89.238.130.253, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15856, server: 198.147.22.163, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15124, server: 66.115.154.131, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 馃嚞馃嚙 GB_1407, server: 86.106.136.93, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17216, server: 199.58.187.67, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: Pool_馃嚠馃嚬IT_6940, server: 82.102.26.93, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 馃嚬馃嚟TH_12048, server: 27.131.164.100, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17032, server: 66.115.177.156, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇺🇸 馃嚭馃嚫 US_291, server: 198.147.22.87, port: 35200, type: ss, cipher: aes-256-gcm, password: WBLAbN6AwtV5avBx73hFRLB3}
+  - {name: 🇺🇸 馃嚭馃嚫US_12786, server: 104.244.208.205, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 馃嚠馃嚬IT_6947, server: 212.102.54.181, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: Pool_馃嚞馃嚜GE_5341, server: 176.125.231.5, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: Pool_馃嚞馃嚜GE_5345, server: 176.125.231.5, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+  - {name: Pool_馃嚞馃嚜GE_5360, server: 176.125.231.5, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: ZZ_3541 | 8.56Mb, server: 134.195.196.97, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 US_3411 | 8.78Mb, server: 66.115.154.131, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇺🇸 US_3014 | 5.48Mb, server: 66.115.177.156, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇺🇸 US_2814 | 4.84Mb, server: 66.115.154.131, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: Pool_🇷🇴RO_1756 | 4.70Mb, server: 91.90.123.131, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: Pool_🇷🇴RO_1709 | 4.72Mb, server: 91.90.123.131, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: Pool_🇮🇹IT_1264 | 5.81Mb, server: 82.102.26.93, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: Pool_🇮🇹IT_1293 | 1.12Mb, server: 82.102.26.93, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15592, server: 66.115.177.143, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15609, server: 66.115.177.143, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 馃嚛馃嚜 DE_137, server: 37.120.217.149, port: 40282, type: ss, cipher: aes-256-gcm, password: Pvvaw486867D2w4yctL2ULTQ}
+  - {name: 馃嚛馃嚜 DE_38, server: 37.120.217.149, port: 35371, type: ss, cipher: aes-256-gcm, password: pjeDhAJGuML8xKUxcjRqq6a9}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14872, server: 66.115.177.156, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 馃嚛馃嚜 DE_57, server: 37.120.217.149, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: Pool_馃嚙馃嚜BE_1285, server: 89.249.73.195, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇺🇸 馃嚭馃嚫US_18171, server: 167.88.63.108, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 馃嚭馃嚫US_15402, server: 104.244.211.141, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16282, server: 66.115.177.156, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 馃嚛馃嚜 DE_129, server: 37.120.217.149, port: 41992, type: ss, cipher: aes-256-gcm, password: XmQSxDCn5ehpcq6DBYms8FJf}
+  - {name: 馃嚛馃嚜 DE_48, server: 37.120.217.149, port: 36460, type: ss, cipher: aes-256-gcm, password: yUXad7DGF8L5cTShEpnp2N6z}
+  - {name: Pool_馃嚙馃嚜BE_1256, server: 5.253.205.179, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17087, server: 66.115.154.131, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 馃嚦馃嚧NO_8531, server: 46.29.218.6, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: Pool_馃嚪馃嚧RO_9297, server: 91.90.123.131, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18910, server: 64.44.42.60, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 馃嚞馃嚙 GB_177, server: 89.238.130.253, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: Pool_馃嚚馃嚟CH_126, server: 84.17.53.227, port: 46726, type: ss, cipher: aes-256-gcm, password: 2fqKbFPGHpcmMTJzGsUbsfYf}
+  - {name: 🇰🇷 Pool_馃嚢馃嚪KR_7590, server: 61.14.210.237, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇺🇸 US_2473 | 8.87Mb, server: 66.115.154.131, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: RO_1801 | 8.53Mb, server: 89.38.227.163, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: IT_1378 | 4.04Mb, server: 212.102.54.168, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇺🇸 Pool_🇺🇸US_2794 | 4.46Mb, server: 104.244.211.141, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: Pool_🇷🇴RO_1901 | 3.06Mb, server: 91.90.123.131, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: Pool_🇮🇹IT_1238 | 0.54Mb, server: 82.102.26.93, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: IT_1169 | 4.37Mb, server: 212.102.54.168, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18826, server: 64.44.42.60, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 馃嚛馃嚜 DE_117, server: 37.120.217.149, port: 44539, type: ss, cipher: aes-256-gcm, password: r6hDrkP4Et6EENTS8Qy7Tcmg}
+  - {name: 馃嚛馃嚜 DE_160, server: 37.120.217.149, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14568, server: 66.115.154.131, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14581, server: 66.115.177.156, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14594, server: 66.115.177.156, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: Pool_馃嚠馃嚬IT_6530, server: 82.102.26.93, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 馃嚛馃嚜DE_2686, server: 193.108.118.34, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: Pool_馃嚠馃嚬IT_6631, server: 82.102.26.93, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14628, server: 64.44.42.56, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15567, server: 104.244.211.141, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18785, server: 64.44.42.60, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_927, server: 66.115.147.92, port: 32558, type: ss, cipher: aes-256-gcm, password: gJYzm3TLbdL495ryQptaJXQk}
+  - {name: Pool_馃嚠馃嚬IT_6456, server: 82.102.26.93, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: Pool_馃嚠馃嚬IT_6674, server: 82.102.26.93, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇺🇸 馃嚭馃嚫US_18174, server: 192.169.112.166, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇨🇳 馃嚬馃嚰TW_12526, server: 2.58.242.46, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14759, server: 64.44.42.60, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16004, server: 107.175.104.84, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇺🇸 馃嚭馃嚫 US_2453, server: 107.175.104.84, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13636, server: 66.115.177.156, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 馃嚠馃嚬IT_6660, server: 212.102.54.168, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 馃嚠馃嚬IT_6507, server: 212.102.54.168, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 馃嚬馃嚟TH_12285, server: 27.131.164.100, port: 45948, type: ss, cipher: aes-256-gcm, password: j76EXqJcQhuQTr3EvUf7xaK9}
+  - {name: 馃嚠馃嚬IT_6955, server: 212.102.54.181, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18844, server: 64.44.42.60, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇺🇸 US_3377 | 8.50Mb, server: 66.115.177.156, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: Pool_🇷🇴RO_1794 | 5.58Mb, server: 91.90.123.131, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: Pool__125 | 4.68Mb, server: 89.249.73.197, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 馃嚬馃嚟TH_12286, server: 27.131.164.94, port: 48970, type: ss, cipher: aes-256-gcm, password: ZKEsXkFbUZ2z667YA8A7cEDP}
+  - {name: 馃嚬馃嚟TH_12101, server: 27.131.164.100, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+  - {name: 馃嚬馃嚳TZ_12859, server: 45.59.185.164, port: 56534, type: vmess, uuid: f708789a-bac5-4473-9640-f539a9076bc7, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15242, server: 66.115.177.141, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 馃嚛馃嚜 DE_44, server: 37.120.217.149, port: 49202, type: ss, cipher: aes-256-gcm, password: btzEYXKZxnR7g6H2vFTQK5TD}
+  - {name: 馃嚛馃嚜 DE_49, server: 37.120.217.149, port: 48970, type: ss, cipher: aes-256-gcm, password: ZKEsXkFbUZ2z667YA8A7cEDP}
+  - {name: 馃嚪馃嚧 RO_211, server: 193.29.106.29, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 馃弫ZZ_20311, server: 134.195.196.154, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 馃嚭馃嚫 US_247, server: 104.244.211.141, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15321, server: 104.244.211.141, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18779, server: 64.44.42.56, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇺🇸 馃嚭馃嚫US_17142, server: 66.115.154.131, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18873, server: 64.44.42.56, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 馃嚞馃嚙 GB_173, server: 195.181.171.233, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: Pool_馃嚠馃嚬IT_6793, server: 82.102.26.93, port: 42185, type: ss, cipher: aes-256-gcm, password: FaTG4zALZru72gxjgSHQ7Jdh}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17051, server: 64.44.42.56, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: Pool_馃嚠馃嚬IT_6693, server: 82.102.26.93, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: Pool_馃嚠馃嚬IT_6635, server: 82.102.26.93, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18799, server: 64.44.42.60, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇺🇸 馃嚭馃嚫 US_236, server: 84.17.35.83, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: Pool_馃嚠馃嚬IT_6929, server: 82.102.26.93, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: Pool_馃嚪馃嚧RO_9496, server: 91.90.123.131, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18638, server: 64.44.42.60, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 🇺🇸 馃嚭馃嚫US_14588, server: 64.44.42.60, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16617, server: 198.147.22.163, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: Pool_馃嚠馃嚬IT_7105, server: 82.102.26.93, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15161, server: 66.115.154.131, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 馃弫ZZ_20314, server: 134.195.196.163, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 馃嚞馃嚙GB_4523, server: 193.118.60.165, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: Pool_馃嚠馃嚬IT_6912, server: 37.120.207.5, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: Pool_馃嚠馃嚬IT_6450, server: 82.102.26.93, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: _140 |14.67Mb, server: 91.90.123.115, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: Pool_馃弫ZZ_20032, server: 138.199.19.169, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Pool_馃弫ZZ_19389, server: 138.199.19.169, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 馃嚬馃嚟TH_12045, server: 27.131.164.100, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: Pool_馃嚠馃嚬IT_6531, server: 82.102.26.93, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 馃嚬馃嚟TH_12067, server: 27.131.164.100, port: 44628, type: ss, cipher: aes-256-gcm, password: VASQbVcukHfdBGmeS9L7Z8TT}
+  - {name: 馃嚙馃嚜 BE_296, server: 89.249.73.197, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Pool_馃嚙馃嚜BE_1326, server: 188.95.55.105, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 馃嚬馃嚟TH_12072, server: 27.131.164.100, port: 42816, type: ss, cipher: aes-256-gcm, password: tBKBf4pVzNCFKdbPgvwrNXq3}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18615, server: 64.44.42.60, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇺🇸 US_3257 | 4.92Mb, server: 66.115.154.131, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: UA_2304 | 4.66Mb, server: 37.19.220.199, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: IT_1290 | 4.53Mb, server: 212.102.54.168, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: IT_1206 | 4.17Mb, server: 212.102.54.168, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: DE_605 | 4.06Mb, server: 37.120.217.149, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 Pool_🇺🇸US_3001 | 7.40Mb, server: 64.44.42.60, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: RO_1734 | 6.03Mb, server: 193.29.107.181, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇺🇸 Pool_🇺🇸US_3284 | 7.73Mb, server: 66.115.154.131, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇺🇸 馃嚭馃嚫 US_272, server: 66.115.147.72, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 馃嚬馃嚟TH_12247, server: 27.131.164.94, port: 44628, type: ss, cipher: aes-256-gcm, password: VASQbVcukHfdBGmeS9L7Z8TT}
+  - {name: 馃嚬馃嚟TH_12242, server: 27.131.164.94, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 🇺🇸 馃嚭馃嚫 US_258, server: 66.115.147.72, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇺🇸 馃嚭馃嚫 US_253, server: 66.115.147.72, port: 42816, type: ss, cipher: aes-256-gcm, password: tBKBf4pVzNCFKdbPgvwrNXq3}
+  - {name: 🇸🇬 馃嚫馃嚞SG_11789, server: 139.99.122.148, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇨🇳 馃嚚馃嚦CN_2805 | 2.28Mb, server: ngzyd-1.okex-tradebot.xyz, port: 30012, type: vmess, uuid: 44a83c3d-dc4b-46c4-a9fd-f448302918e2, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: ngzyd-1.okex-tradebot.xyz}}
+  - {name: 馃嚛馃嚜 DE_76, server: 37.120.217.149, port: 48089, type: ss, cipher: aes-256-gcm, password: apqQgXJyVDsdJMAYV4xspRFK}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16281, server: 66.115.177.143, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 馃嚛馃嚜 DE_93, server: 37.120.217.149, port: 46354, type: ss, cipher: aes-256-gcm, password: MYPKdC7n6qjL6xmJBBcrzzqS}
+  - {name: 🇺🇸 馃嚭馃嚫US_15648, server: 66.115.154.131, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 馃嚛馃嚜 DE_135, server: 37.120.217.149, port: 41372, type: ss, cipher: aes-256-gcm, password: 5kGAhC3AmVC35GbruHjSrZf2}
+  - {name: 🇺🇸 馃嚭馃嚫US_16966, server: 212.102.44.86, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇨🇳 Pool_馃嚬馃嚰TW_12633, server: 2.58.241.29, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18763, server: 212.102.46.67, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 馃嚛馃嚜 DE_112, server: 37.120.217.149, port: 44742, type: ss, cipher: aes-256-gcm, password: QCStKzZ56SHBc4tL7stCEqqd}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13798, server: 64.44.42.56, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇺🇸 馃嚭馃嚫US_18170, server: 167.88.63.82, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13696, server: 66.115.177.156, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: Pool_馃嚪馃嚧RO_9739, server: 193.29.106.3, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 馃嚨馃嚤 PL_1998, server: 5.187.49.189, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 馃嚛馃嚜 DE_851, server: 82.102.16.101, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15322, server: 66.115.177.141, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_1025, server: 66.115.177.156, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18777, server: 64.44.42.60, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 馃嚞馃嚙 GB_171, server: 86.106.136.85, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: Pool_馃嚪馃嚧RO_10616, server: 91.90.123.115, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 馃嚨馃嚤PL_7281, server: 5.253.206.67, port: 41992, type: ss, cipher: aes-256-gcm, password: XmQSxDCn5ehpcq6DBYms8FJf}
+  - {name: 馃弫ZZ_20313, server: 134.195.196.79, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 馃嚞馃嚙GB_4522, server: 193.118.60.167, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 馃嚛馃嚜DE_2572, server: 185.102.219.51, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: Pool_馃嚞馃嚙GB_5154, server: 86.106.136.83, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 馃嚞馃嚙 GB_1409, server: 5.226.139.65, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16284, server: 84.17.35.76, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: Pool_馃嚙馃嚜BE_1228, server: 188.95.55.105, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 馃嚬馃嚟TH_12103, server: 27.131.164.100, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 馃嚠馃嚬IT_7174, server: 212.102.54.168, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 馃嚬馃嚟TH_12027, server: 27.131.164.94, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17259, server: 64.44.42.60, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 馃嚬馃嚟TH_12235, server: 27.131.164.94, port: 40282, type: ss, cipher: aes-256-gcm, password: Pvvaw486867D2w4yctL2ULTQ}
+  - {name: 馃嚠馃嚬IT_6658, server: 212.102.54.168, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 馃嚠馃嚬IT_6455, server: 212.102.54.168, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: _293 |42.57Mb, server: 156.146.62.36, port: 49468, type: ss, cipher: aes-256-gcm, password: LsYSQDxmPj9AcWpSX5HrYfu6}
+  - {name: Pool_馃嚚馃嚳CZ_2290, server: 89.187.168.39, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 馃嚠馃嚬IT_7027, server: 212.102.54.181, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: Pool_馃嚚馃嚟CH_223, server: 84.17.53.227, port: 41992, type: ss, cipher: aes-256-gcm, password: XmQSxDCn5ehpcq6DBYms8FJf}
+  - {name: Pool_馃嚞馃嚜GE_5235, server: 176.125.231.5, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇺🇸 Relay_馃嚚馃嚦CN-馃嚭馃嚫US_2044, server: 65.ssrj.xyz, port: 65165, type: vmess, uuid: 24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae, alterId: 2, cipher: auto, tls: false}
+  - {name: IT_1390 | 5.75Mb, server: 212.102.54.168, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 🇺🇸 Pool_🇺🇸US_2981 |11.70Mb, server: 212.102.44.86, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: Pool_🇷🇴RO_2030 | 2.84Mb, server: 193.29.107.181, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: IT_1250 | 2.64Mb, server: 212.102.54.168, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇷🇺 RU_2091, server: 46.17.43.179, port: 26010, type: vmess, uuid: 6d201803-0972-472b-b2a8-0667340281a3, alterId: 0, cipher: auto, tls: false}
+  - {name: IT_1376 | 3.95Mb, server: 212.102.54.181, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: Pool_馃嚪馃嚧RO_11023, server: 91.90.123.131, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: IT_1182 | 5.32Mb, server: 212.102.54.181, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇺🇸 馃嚭馃嚫 US_269, server: 66.115.147.72, port: 47553, type: ss, cipher: aes-256-gcm, password: t2JnnFqjDMmzWurseJPgBsYY}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13824, server: 212.102.44.86, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: Pool_馃嚪馃嚧RO_10376, server: 91.90.123.131, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: Pool_馃嚪馃嚧RO_10208, server: 91.90.123.131, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: Pool_馃嚙馃嚜BE_1223, server: 217.138.211.219, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: Pool_馃嚠馃嚬IT_6619, server: 82.102.26.93, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: Pool_馃嚪馃嚧RO_10507, server: 91.90.123.131, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18562, server: 64.44.42.60, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 馃嚛馃嚜 DE_37, server: 37.120.217.149, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: Pool_馃嚪馃嚧RO_10180, server: 91.90.123.115, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Pool_馃嚪馃嚧RO_11082, server: 91.90.123.131, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: Pool_馃嚠馃嚬IT_7045, server: 82.102.26.93, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 馃嚙馃嚜 BE_02, server: 5.253.205.179, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16113, server: 66.115.154.131, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: Pool_馃嚠馃嚬IT_7222, server: 87.101.94.211, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16943, server: 104.244.211.141, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: Pool_馃嚙馃嚜BE_1318, server: 188.95.55.105, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 馃嚠馃嚬IT_6676, server: 212.102.54.168, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 馃嚬馃嚟TH_12035, server: 27.131.164.94, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 馃嚠馃嚬IT_6572, server: 212.102.54.181, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 馃嚛馃嚜DE_2950, server: 185.102.219.51, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 馃嚠馃嚬IT_7051, server: 212.102.54.181, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 馃嚠馃嚬IT_7017, server: 212.102.54.168, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 馃嚠馃嚬IT_7019, server: 212.102.54.168, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 馃嚠馃嚬 IT_194, server: 212.102.54.181, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 馃嚠馃嚬 IT_193, server: 212.102.54.181, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: Pool_馃嚙馃嚞BG_1470, server: 37.120.152.35, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: Pool_馃嚠馃嚬IT_6795, server: 212.102.54.180, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 馃嚠馃嚬IT_6774, server: 212.102.54.181, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 馃嚠馃嚬IT_7041, server: 212.102.54.181, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: Pool_馃嚬馃嚪TR_12353, server: 107.150.94.27, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 馃嚚馃嚟 CH_547, server: 84.17.53.227, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Pool_馃嚤馃嚬LT_7664, server: 194.41.112.35, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: Pool_馃嚤馃嚬LT_7630, server: 194.41.112.35, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: Pool_馃嚞馃嚜GE_5407, server: 176.125.231.5, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇰🇷 KR_1439 | 6.24Mb, server: 61.14.210.237, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: IT_1319 | 0.70Mb, server: 212.102.54.168, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇺🇸 Pool_🇺🇸US_2850 | 4.64Mb, server: 104.244.211.141, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: Pool_🇷🇴RO_1735 | 4.42Mb, server: 193.29.107.181, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: Pool_🇬🇧GB_862 | 5.06Mb, server: 185.134.23.40, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: GB_933 | 3.00Mb, server: 193.118.60.169, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: GE_1007 | 3.99Mb, server: 176.125.231.5, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 馃嚬馃嚟TH_12063, server: 27.131.164.100, port: 44945, type: ss, cipher: aes-256-gcm, password: F5bKkb9ggkLx4JbQrbLn7LjZ}
+  - {name: 🇺🇸 馃嚭馃嚫US_18168, server: 38.107.226.146, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: Pool_馃嚙馃嚘BA_1144, server: 185.164.34.250, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇰🇷 Pool_馃嚢馃嚪KR_7545, server: 61.14.210.237, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14246, server: 212.102.44.86, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14932, server: 66.115.177.156, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14811, server: 66.115.154.131, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇸 馃嚭馃嚫US_17488, server: 66.115.154.131, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: Pool_馃嚭馃嚘UA_13016, server: 37.19.211.130, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13722, server: 64.44.42.56, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18807, server: 64.44.42.60, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 馃嚞馃嚙GB_4524, server: 193.118.60.171, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 馃弫ZZ_19816, server: 138.199.19.185, port: 46726, type: ss, cipher: aes-256-gcm, password: 2fqKbFPGHpcmMTJzGsUbsfYf}
+  - {name: 馃嚬馃嚟TH_12288, server: 27.131.164.100, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 馃嚠馃嚬IT_6903, server: 212.102.54.181, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: Pool_馃弫ZZ_20343, server: 138.199.19.179, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 馃嚬馃嚟TH_12044, server: 27.131.164.100, port: 49202, type: ss, cipher: aes-256-gcm, password: btzEYXKZxnR7g6H2vFTQK5TD}
+  - {name: 馃嚞馃嚙 GB_1403, server: 5.226.139.225, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 馃嚟馃嚪 HR_1454, server: 89.164.99.111, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 馃嚠馃嚬IT_6408, server: 212.102.54.168, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 馃嚠馃嚬IT_7155, server: 212.102.54.168, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 馃嚟馃嚪 HR_1465, server: 89.164.99.111, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 馃嚠馃嚬IT_6913, server: 212.102.54.181, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: Pool_馃嚚馃嚟CH_155, server: 84.17.53.227, port: 45948, type: ss, cipher: aes-256-gcm, password: j76EXqJcQhuQTr3EvUf7xaK9}
+  - {name: 馃嚪馃嚧 RO_2171, server: 193.29.107.123, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 馃嚝馃嚪FR_4325, server: 145.239.1.175, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: Pool_馃嚤馃嚬LT_7656, server: 194.41.112.35, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: Pool_馃嚘馃嚳AZ_991, server: 62.212.239.53, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: Pool_馃嚤馃嚬LT_7644, server: 194.41.112.35, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: Pool_馃嚙馃嚘BA_1066, server: 185.212.111.59, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇺🇸 US_3231 | 6.91Mb, server: 66.115.154.131, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇸 US_3016 | 2.72Mb, server: 212.102.44.86, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: RO_1751 | 4.85Mb, server: 91.90.123.115, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: GB_959 | 2.15Mb, server: 193.118.60.166, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 馃嚬馃嚟TH_11996, server: 27.131.164.94, port: 44945, type: ss, cipher: aes-256-gcm, password: F5bKkb9ggkLx4JbQrbLn7LjZ}
+  - {name: 馃嚬馃嚟TH_12069, server: 27.131.164.100, port: 44539, type: ss, cipher: aes-256-gcm, password: r6hDrkP4Et6EENTS8Qy7Tcmg}
+  - {name: 🇷🇺 Relay_馃嚪馃嚭RU-馃嚪馃嚭RU_11662, server: t3.ssrsub.one, port: 8443, type: trojan, password: ed4b6594-ea16-40f6-a935-f3985c433973, sni: t3.ssrsub.one}
+  - {name: _853, server: t7.ssrsub.one, port: 8443, type: trojan, password: 217010a3-c48d-4c42-9b99-c4dfc173ec78, sni: t7.ssrsub.one}
+  - {name: 馃嚛馃嚜 DE_144, server: 37.120.217.149, port: 39720, type: ss, cipher: aes-256-gcm, password: kq8xQKC3K4jYQPwLXTNbJjm6}
+  - {name: 馃嚞馃嚙 GB_175, server: 81.19.223.189, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇨🇳 馃嚬馃嚰TW_12476, server: 2.58.242.46, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17422, server: 199.58.187.67, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18788, server: 64.44.42.60, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16573, server: 104.244.211.141, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: Pool_馃嚪馃嚧RO_10144, server: 91.90.123.115, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 馃弫ZZ_20716, server: 138.199.19.169, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 馃弫ZZ_20259, server: 138.199.19.169, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇺🇸 馃嚭馃嚫US_18183, server: 38.39.192.74, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 馃嚚馃嚘CA_1540, server: 198.57.27.238, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 馃嚬馃嚟TH_12083, server: 27.131.164.100, port: 39720, type: ss, cipher: aes-256-gcm, password: kq8xQKC3K4jYQPwLXTNbJjm6}
+  - {name: 馃嚠馃嚬IT_6979, server: 212.102.54.168, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 馃嚬馃嚟TH_12046, server: 27.131.164.94, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13275, server: 156.146.62.36, port: 45948, type: ss, cipher: aes-256-gcm, password: j76EXqJcQhuQTr3EvUf7xaK9}
+  - {name: Pool_馃嚪馃嚧RO_9782, server: 193.29.107.221, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 馃嚬馃嚟TH_12061, server: 27.131.164.100, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13264, server: 156.146.62.36, port: 41992, type: ss, cipher: aes-256-gcm, password: XmQSxDCn5ehpcq6DBYms8FJf}
+  - {name: 馃嚠馃嚬IT_6723, server: 212.102.54.168, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13271, server: 156.146.62.36, port: 44745, type: ss, cipher: aes-256-gcm, password: fyXdw87yCH9SAmFkPvsvLVqC}
+  - {name: 馃嚬馃嚟TH_12244, server: 27.131.164.94, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
+  - {name: Pool_馃嚪馃嚧RO_11007, server: 193.29.107.221, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: Pool_馃嚚馃嚟CH_95, server: 84.17.53.227, port: 47553, type: ss, cipher: aes-256-gcm, password: t2JnnFqjDMmzWurseJPgBsYY}
+  - {name: 馃嚠馃嚬IT_6636, server: 212.102.54.181, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 馃嚛馃嚢 DK_1019, server: 45.12.221.179, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 馃嚠馃嚬IT_6528, server: 212.102.54.181, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: Pool_馃嚙馃嚘BA_1185, server: 185.164.34.250, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 馃嚜馃嚫 ES_18, server: 194.150.167.28, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Pool_馃嚤馃嚬LT_7657, server: 194.41.112.35, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Pool_馃嚤馃嚬LT_7650, server: 194.41.112.35, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: Pool_馃嚤馃嚬LT_7655, server: 194.41.112.35, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: Pool_馃嚤馃嚬LT_7659, server: 194.41.112.35, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: Pool_馃嚤馃嚬LT_7627, server: 194.41.112.35, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: Pool_馃嚘馃嚳AZ_892, server: 62.212.239.51, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 馃嚬馃嚟TH_12031, server: 27.131.164.100, port: 50695, type: ss, cipher: aes-256-gcm, password: gqtwGu9bVreJqL3FTHSVKGzy}
+  - {name: RO_1732 | 3.49Mb, server: 193.29.107.123, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇸🇬 Relay_🇭🇰HK-🇸🇬SG_1070 |24.15Mb, server: 5.ssrj.xyz, port: 65105, type: vmess, uuid: 24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae, alterId: 2, cipher: auto, tls: false}
+  - {name: Pool_🇳🇱NL_1565 | 4.82Mb, server: 91.206.168.24, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇨🇳 馃嚬馃嚰TW_12471, server: 2.58.242.46, port: 41372, type: ss, cipher: aes-256-gcm, password: 5kGAhC3AmVC35GbruHjSrZf2}
+  - {name: 馃嚬馃嚟TH_12007, server: 27.131.164.94, port: 35371, type: ss, cipher: aes-256-gcm, password: pjeDhAJGuML8xKUxcjRqq6a9}
+  - {name: Pool_🇱🇹LT_1458 | 5.61Mb, server: 194.41.112.35, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17236, server: 199.58.187.67, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_15969, server: 66.115.154.131, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇨🇳 Pool_馃嚬馃嚰TW_12467, server: 2.58.241.29, port: 41738, type: ss, cipher: aes-256-gcm, password: X6yMGXnfUsuKTvEDYZSLPk4d}
+  - {name: 馃弫ZZ_20315, server: 134.195.198.95, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 馃嚬馃嚟TH_12025, server: 27.131.164.94, port: 32558, type: ss, cipher: aes-256-gcm, password: gJYzm3TLbdL495ryQptaJXQk}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18135, server: 104.244.208.211, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 馃嚬馃嚟TH_12028, server: 27.131.164.94, port: 31757, type: ss, cipher: aes-256-gcm, password: wj7nDCuNARchSeKNCN8VFK62}
+  - {name: 馃嚥馃嚢 MK_1836, server: 185.225.28.93, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 馃嚬馃嚟TH_12237, server: 27.131.164.94, port: 41372, type: ss, cipher: aes-256-gcm, password: 5kGAhC3AmVC35GbruHjSrZf2}
+  - {name: 馃嚪馃嚧 RO_213, server: 193.29.107.163, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: Pool_馃嚚馃嚟CH_1750, server: 84.17.53.166, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇺🇸 馃嚭馃嚫US_18182, server: 172.107.233.234, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: Pool_馃嚚馃嚟CH_102, server: 84.17.53.227, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: Pool_馃嚚馃嚟CH_105, server: 84.17.53.227, port: 50768, type: ss, cipher: aes-256-gcm, password: MgWc3J8tAHsZrVqg4BaBHmGs}
+  - {name: 馃嚠馃嚬IT_7033, server: 212.102.54.168, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: Pool_馃嚝馃嚪FR_517, server: 185.166.84.87, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Pool_馃嚘馃嚳AZ_1001, server: 62.212.239.53, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: Pool_馃嚤馃嚬LT_7654, server: 194.41.112.35, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: Pool_馃嚦馃嚤NL_631, server: 91.206.168.29, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 馃嚘馃嚳AZ_1029, server: 62.212.239.53, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: Pool_馃嚞馃嚜GE_5249, server: 176.125.231.5, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇷🇺 Relay_馃嚪馃嚭RU-馃嚪馃嚭RU_11658, server: t6.ssrsub.one, port: 8443, type: trojan, password: ed4b6594-ea16-40f6-a935-f3985c433973, sni: t6.ssrsub.one}
+  - {name: 🇺🇸 US_3229 | 7.89Mb, server: 104.244.211.141, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: FR_834 | 4.35Mb, server: 185.108.106.146, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: FR_809 | 6.45Mb, server: 185.108.106.145, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: Pool_馃嚪馃嚧RO_9729, server: 91.90.123.131, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17255, server: 66.115.175.50, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇰🇷 Pool_馃嚢馃嚪KR_7570, server: 61.14.210.242, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇨🇳 馃嚬馃嚰 TW_224, server: 2.58.241.29, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
+  - {name: 🇨🇳 馃嚬馃嚰TW_13068, server: 203.69.59.118, port: 80, type: vmess, uuid: d51b0f1b-cf5a-454c-bc4c-171491ff5e74, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: en.tgchannels.org/channel/vpnpool}}
+  - {name: 馃嚬馃嚟TH_12107, server: 27.131.164.100, port: 32843, type: ss, cipher: aes-256-gcm, password: G35YSR2LFNEM9bq2dkjmKQRr}
+  - {name: Pool_馃嚙馃嚜BE_1266, server: 5.253.205.227, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 馃嚬馃嚟TH_12037, server: 27.131.164.94, port: 47861, type: ss, cipher: aes-256-gcm, password: LJcChRsGQRhywrtXUU55TLTu}
+  - {name: 馃嚬馃嚟TH_12100, server: 27.131.164.100, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 馃嚬馃嚟TH_12012, server: 27.131.164.94, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 馃嚬馃嚟TH_11998, server: 27.131.164.94, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇺🇸 馃嚭馃嚫US_18181, server: 172.107.233.230, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: Pool_馃嚠馃嚬IT_6713, server: 84.17.58.190, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 馃嚬馃嚟TH_12022, server: 27.131.164.94, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: Pool_馃嚝馃嚠FI_3681, server: 196.196.203.85, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 馃嚞馃嚙 GB_172, server: 146.70.27.37, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: Pool_馃嚪馃嚧RO_10964, server: 89.45.7.51, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: Pool_馃嚚馃嚟CH_59, server: 84.17.53.227, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: Pool_馃嚬馃嚪TR_12338, server: 107.150.94.27, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18158, server: 185.102.217.167, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: Pool_馃嚤馃嚬LT_7668, server: 194.41.112.35, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: Pool_馃嚤馃嚬LT_7651, server: 194.41.112.35, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: Pool_馃嚤馃嚬LT_7669, server: 194.41.112.35, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: Pool_馃嚤馃嚬LT_7636, server: 194.41.112.35, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 馃嚘馃嚳AZ_1031, server: 62.212.239.53, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: Pool_馃嚛馃嚜DE_2938, server: 176.227.241.21, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: Pool_馃嚘馃嚳AZ_941, server: 62.212.239.53, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: Pool_馃嚘馃嚳AZ_1037, server: 62.212.239.53, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: BA_337 | 1.11Mb, server: 185.99.3.102, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: Pool_🇮🇹IT_1318 | 1.19Mb, server: 82.102.26.93, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: Pool_🇬🇧 GB_847 | 4.69Mb, server: 5.226.139.225, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: Pool_🇱🇹LT_1456 | 6.26Mb, server: 194.41.112.35, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: Pool_馃嚤馃嚬LT_7645, server: 194.41.112.35, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 馃嚬馃嚟TH_12000, server: 27.131.164.94, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 馃嚛馃嚜 DE_156, server: 37.120.217.149, port: 31757, type: ss, cipher: aes-256-gcm, password: wj7nDCuNARchSeKNCN8VFK62}
+  - {name: 馃嚛馃嚜 DE_66, server: 37.120.217.149, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇨🇳 馃嚬馃嚰TW_12459, server: 2.58.242.46, port: 44742, type: ss, cipher: aes-256-gcm, password: QCStKzZ56SHBc4tL7stCEqqd}
+  - {name: Pool_馃嚠馃嚬IT_6791, server: 82.102.26.93, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: Relay_馃嚚馃嚘CA-馃嚚馃嚘CA_1653, server: ssr4.ssrsub.one, port: 22478, type: ss, cipher: aes-256-cfb, password: https://dlj.tf/ssrsub}
+  - {name: 馃嚬馃嚟TH_12068, server: 27.131.164.94, port: 50225, type: ss, cipher: aes-256-gcm, password: J2M953QbkCvvzx3vYWdyBQ4K}
+  - {name: 馃嚬馃嚟TH_12240, server: 27.131.164.94, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 馃嚠馃嚬IT_6797, server: 212.102.54.168, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 馃嚛馃嚜 DE_54, server: 185.102.219.6, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: Pool_馃嚪馃嚧RO_10462, server: 193.29.107.221, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 馃嚠馃嚬IT_6633, server: 212.102.54.181, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: Pool_馃嚬馃嚪TR_12378, server: 107.150.94.27, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: Pool_馃嚤馃嚬LT_7662, server: 194.41.112.35, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: Pool_馃嚘馃嚳AZ_925, server: 62.212.239.53, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: Pool_馃嚦馃嚤NL_8471, server: 91.206.168.3, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: Pool_馃嚤馃嚬LT_7667, server: 194.41.112.35, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 馃嚜馃嚫 ES_19, server: 194.150.167.36, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Pool_馃嚘馃嚳AZ_1052, server: 62.212.239.53, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: Pool_馃嚤馃嚬LT_7637, server: 194.41.112.35, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 馃嚘馃嚳AZ_1652 | 8.55Mb, server: 62.212.239.53, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: Pool_馃嚤馃嚬LT_7640, server: 194.41.112.35, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: Pool_馃嚘馃嚳AZ_909, server: 62.212.239.53, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 馃嚬馃嚟TH_12050, server: 27.131.164.100, port: 48089, type: ss, cipher: aes-256-gcm, password: apqQgXJyVDsdJMAYV4xspRFK}
+  - {name: 🇺🇸 馃嚭馃嚫 US_245, server: 66.115.147.72, port: 41372, type: ss, cipher: aes-256-gcm, password: 5kGAhC3AmVC35GbruHjSrZf2}
+  - {name: 🇺🇸 馃嚭馃嚫 US_257, server: 66.115.147.72, port: 44745, type: ss, cipher: aes-256-gcm, password: fyXdw87yCH9SAmFkPvsvLVqC}
+  - {name: 🇯🇵 Relay_🇭🇰HK-🇯🇵JP_1064 |45.95Mb, server: 42.ssrj.xyz, port: 65142, type: vmess, uuid: 24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae, alterId: 2, cipher: auto, tls: false}
+  - {name: 🇰🇷 Pool_馃嚢馃嚪KR_7618, server: 61.14.210.242, port: 32558, type: ss, cipher: aes-256-gcm, password: gJYzm3TLbdL495ryQptaJXQk}
+  - {name: 🇺🇸 馃嚭馃嚫 US_3013, server: 66.115.154.131, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13566, server: 64.44.42.56, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17578, server: 64.44.42.56, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇺🇸 馃嚭馃嚫US_18185, server: 172.99.190.35, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: Pool_馃嚙馃嚜BE_1331, server: 5.253.205.229, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 馃嚪馃嚧RO_9338, server: 91.90.123.150, port: 50232, type: ss, cipher: aes-256-gcm, password: CjchzpwdSjRtDjezYMwx9BKM}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18868, server: 64.44.42.56, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 馃嚚馃嚘CA_1658, server: 45.62.231.50, port: 28139, type: ss, cipher: aes-256-cfb, password: suo.yt/ssrsub}
+  - {name: 馃嚬馃嚟TH_12010, server: 27.131.164.94, port: 46412, type: ss, cipher: aes-256-gcm, password: GEqk9WGyybeyXW97YEdanDYs}
+  - {name: 馃嚪馃嚧 RO_2123, server: 86.106.137.147, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 馃嚬馃嚟TH_12241, server: 27.131.164.94, port: 41738, type: ss, cipher: aes-256-gcm, password: X6yMGXnfUsuKTvEDYZSLPk4d}
+  - {name: 馃嚬馃嚟TH_12001, server: 27.131.164.94, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
+  - {name: 馃嚬馃嚟TH_12086, server: 27.131.164.94, port: 50232, type: ss, cipher: aes-256-gcm, password: CjchzpwdSjRtDjezYMwx9BKM}
+  - {name: 馃嚟馃嚪HR_5635, server: 89.164.99.111, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 馃嚨馃嚤PL_8972, server: 51.77.53.200, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: Pool_馃嚬馃嚪TR_12329, server: 107.150.94.27, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 馃嚝馃嚪FR_4010, server: 185.108.106.145, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: Pool_馃嚞馃嚜GE_5309, server: 176.125.231.5, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: Pool_馃嚘馃嚳AZ_978, server: 62.212.239.53, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 馃嚤馃嚬LT_8137 |13.30Mb, server: 194.41.112.35, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 馃嚬馃嚟TH_12034, server: 27.131.164.100, port: 50225, type: ss, cipher: aes-256-gcm, password: J2M953QbkCvvzx3vYWdyBQ4K}
+  - {name: 馃嚘馃嚳AZ_1009, server: 62.212.239.53, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: Pool_馃嚘馃嚳AZ_974, server: 62.212.239.53, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 馃嚬馃嚟TH_12054, server: 27.131.164.100, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 馃嚛馃嚜 DE_136, server: 185.102.219.6, port: 41372, type: ss, cipher: aes-256-gcm, password: 5kGAhC3AmVC35GbruHjSrZf2}
+  - {name: 🇺🇸 US_2746 | 3.84Mb, server: 212.102.44.86, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: IT_1203 | 2.25Mb, server: 212.102.54.181, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: Pool_🇫🇷FR_757 | 5.86Mb, server: 185.166.84.21, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14952, server: 63.141.248.181, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14891, server: 66.115.177.156, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 馃嚚馃嚘CA_1659, server: 45.62.231.50, port: 22478, type: ss, cipher: aes-256-cfb, password: https://dlj.tf/ssrsub}
+  - {name: BA_335 | 5.68Mb, server: 185.164.34.250, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14910, server: 66.115.177.156, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇨🇳 Pool_馃嚬馃嚰TW_12638, server: 2.58.241.29, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17452, server: 64.44.42.60, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇨🇳 Pool_馃嚬馃嚰TW_12531, server: 2.58.241.29, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17088, server: 199.58.187.67, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 馃嚬馃嚟TH_12015, server: 27.131.164.94, port: 46726, type: ss, cipher: aes-256-gcm, password: 2fqKbFPGHpcmMTJzGsUbsfYf}
+  - {name: 馃嚬馃嚟TH_12021, server: 27.131.164.94, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 馃嚨馃嚤PL_8971, server: 51.77.52.206, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 馃嚘馃嚭AU_737, server: 172.105.172.37, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: Pool_馃嚙馃嚘BA_1064, server: 185.164.34.250, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: Pool_馃嚞馃嚜GE_5264, server: 176.125.231.5, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 馃嚘馃嚳AZ_1004, server: 62.212.239.53, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 馃嚘馃嚳AZ_1026, server: 62.212.239.53, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR}
+  - {name: 🇷🇺 Pool_馃嚪馃嚭RU_11578, server: 5.189.202.14, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: Pool_馃嚞馃嚜GE_5363, server: 176.125.231.5, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: Pool_馃嚘馃嚳AZ_1020, server: 62.212.239.53, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13833, server: 63.141.248.181, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 馃嚛馃嚜 DE_30, server: 185.102.219.6, port: 49719, type: ss, cipher: aes-256-gcm, password: 42SjT9vBF6ma9eFF3URaJpQ4}
+  - {name: RO_1891 | 5.89Mb, server: 193.29.107.237, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇨🇳 CN_496 | 4.08Mb, server: 42.157.8.162, port: 46006, type: vmess, uuid: 3959477e-55c4-453f-bc80-3b13e64891ac, alterId: 64, cipher: auto, tls: false}
+  - {name: _843, server: t4.ssrsub.one, port: 8443, type: trojan, password: 217010a3-c48d-4c42-9b99-c4dfc173ec78, sni: t4.ssrsub.one}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17278, server: 66.115.175.50, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 🇺🇸 US_2784 | 3.54Mb, server: 63.141.248.181, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 馃嚪馃嚧 RO_206, server: 193.29.106.61, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 馃嚭馃嚫US_17468, server: 66.115.154.131, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 🇨🇳 馃嚬馃嚰TW_12447, server: 2.58.242.46, port: 47861, type: ss, cipher: aes-256-gcm, password: LJcChRsGQRhywrtXUU55TLTu}
+  - {name: 馃嚪馃嚧 RO_2096, server: 86.106.137.147, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇨🇳 馃嚬馃嚰TW_12637, server: 2.58.242.46, port: 32558, type: ss, cipher: aes-256-gcm, password: gJYzm3TLbdL495ryQptaJXQk}
+  - {name: Pool_馃嚠馃嚬IT_6513, server: 212.102.54.180, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 馃嚘馃嚭AU_735, server: 172.105.167.214, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: Pool_馃嚝馃嚪FR_4128, server: 185.166.84.87, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 馃嚝馃嚪FR_4513, server: 185.108.106.145, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: Pool_馃嚘馃嚳AZ_1051, server: 62.212.239.53, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: Pool_馃嚞馃嚜GE_5331, server: 176.125.231.5, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: Pool_馃嚞馃嚜GE_5205, server: 176.125.231.5, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: Pool_馃嚘馃嚳AZ_1039, server: 62.212.239.53, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: Pool_馃嚘馃嚳AZ_963, server: 62.212.239.51, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇨🇳 馃嚚馃嚦 CN_621, server: 117.28.243.187, port: 8333, type: ss, cipher: rc4-md5, password: passfw2xs4e!}
+  - {name: 馃嚬馃嚟TH_12075, server: 27.131.164.100, port: 42185, type: ss, cipher: aes-256-gcm, password: FaTG4zALZru72gxjgSHQ7Jdh}
+  - {name: 馃嚠馃嚦 IN_190, server: in1-1.noojat.com, port: 1443, type: trojan, password: 7x42LetRa0, sni: in1-1.noojat.com}
+  - {name: 🇺🇸 Relay_馃嚭馃嚫US-馃嚭馃嚫US_18990, server: jp1.xh.qjnodeip.xyz, port: 2010, type: vmess, uuid: 366d7513-7e22-353b-8ac3-412a16eb80a2, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /index, ws-headers: {Host: jp1.xh.qjnodeip.xyz}}
+  - {name: 🇨🇳 Pool_馃嚬馃嚰TW_12533, server: 2.58.241.29, port: 50695, type: ss, cipher: aes-256-gcm, password: gqtwGu9bVreJqL3FTHSVKGzy}
+  - {name: 馃嚬馃嚟TH_12269, server: 27.131.164.94, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 馃嚠馃嚬IT_7023, server: 212.102.54.181, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 馃嚘馃嚳AZ_1042, server: 62.212.239.53, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 馃嚠馃嚦IN_6102, server: 103.94.27.182, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 馃嚬馃嚟TH_12013, server: 27.131.164.94, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 馃嚬馃嚟TH_12082, server: 27.131.164.100, port: 40220, type: ss, cipher: aes-256-gcm, password: ugyBkSEFxVEmUYSHyvxmWNj9}
+  - {name: Pool_馃嚙馃嚘BA_1153, server: 185.164.34.250, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: Pool_🇱🇹LT_1460 | 3.17Mb, server: 194.41.112.35, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇨🇳 Pool_馃嚬馃嚰TW_12481, server: 2.58.241.29, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇺🇸 馃嚭馃嚫US_18988, server: 192.74.254.112, port: 58719, type: vmess, uuid: ae1048eb-a962-48f6-b15f-013d83d0b6c7, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇰🇷 馃嚢馃嚪 KR_1744, server: 61.14.210.237, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14380, server: 212.102.44.86, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 馃嚬馃嚟TH_12110, server: 27.131.164.94, port: 50768, type: ss, cipher: aes-256-gcm, password: MgWc3J8tAHsZrVqg4BaBHmGs}
+  - {name: 馃嚬馃嚟TH_11999, server: 27.131.164.94, port: 37559, type: ss, cipher: aes-256-gcm, password: Qbt22F6JsxzFGqcsK5SaR8q3}
+  - {name: 馃嚬馃嚟TH_12043, server: 27.131.164.94, port: 49202, type: ss, cipher: aes-256-gcm, password: btzEYXKZxnR7g6H2vFTQK5TD}
+  - {name: Pool_馃嚛馃嚜DE_2358, server: 45.134.224.15, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 馃嚞馃嚜 GE_178, server: 176.125.231.5, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 馃嚘馃嚳AZ_1008, server: 62.212.239.53, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 馃嚠馃嚦IN_6093, server: 103.94.27.182, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: Pool_馃嚘馃嚳AZ_1016, server: 62.212.239.51, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 馃嚬馃嚟TH_12002, server: 27.131.164.94, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14904, server: 63.141.248.181, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 馃嚫馃嚠 SI_223, server: 195.158.249.36, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18772, server: 64.44.42.60, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇰🇷 Pool_馃嚢馃嚪KR_7612, server: 61.14.210.242, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Pool_馃嚘馃嚳AZ_950, server: 62.212.239.53, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 馃嚛馃嚜 DE_114, server: 185.102.219.6, port: 44742, type: ss, cipher: aes-256-gcm, password: QCStKzZ56SHBc4tL7stCEqqd}
+  - {name: 🇺🇸 Relay_🇭🇰HK-🇺🇸US_1061 |10.43Mb, server: 44.ssrj.xyz, port: 61144, type: vmess, uuid: 24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae, alterId: 2, cipher: auto, tls: false}
+  - {name: 🇺🇸 US_2647, server: 63.141.248.181, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17027, server: 63.141.248.181, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 馃嚤馃嚭 LU_198, server: 185.153.151.100, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: FR_765 | 5.47Mb, server: 185.108.106.145, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇺🇸 US_2398 |22.91Mb, server: 172.104.206.241, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_871, server: 66.115.147.72, port: 38747, type: ss, cipher: aes-256-gcm, password: RtbLkxbJZpUQ6m8y4qAeLYZj}
+  - {name: 🇺🇸 馃嚭馃嚫US_12181, server: 185.242.5.149, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_14931, server: 66.115.177.156, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 馃嚪馃嚧 RO_215, server: 91.90.123.115, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18798, server: 64.44.42.60, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18908, server: 64.44.42.56, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇸 馃嚭馃嚫US_1115, server: 207.246.64.166, port: 2019, type: ss, cipher: aes-256-cfb, password: Life!sAwesome}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16799, server: 63.141.248.181, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 馃嚚馃嚘CA_1656, server: 45.62.231.50, port: 28139, type: ss, cipher: aes-256-cfb, password: suo.yt/ssrsub}
+  - {name: 馃嚛馃嚜 DE_70, server: 185.102.219.6, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 馃嚚馃嚟 CH_448, server: 84.17.53.219, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 馃嚝馃嚪FR_3882, server: 185.108.106.145, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 馃嚞馃嚜 GE_180, server: 176.125.231.5, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 馃嚝馃嚪FR_4087, server: 185.108.106.145, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_17069, server: 104.244.211.141, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 馃嚠馃嚦IN_6180, server: 172.105.55.72, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: Pool_馃嚘馃嚳AZ_1015, server: 62.212.239.51, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: Pool_馃嚤馃嚬LT_7646, server: 194.41.112.35, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: Pool_馃嚠馃嚤IL_5923, server: 87.239.255.114, port: 38747, type: ss, cipher: aes-256-gcm, password: RtbLkxbJZpUQ6m8y4qAeLYZj}
+  - {name: 馃嚠馃嚦IN_6182, server: 172.105.38.55, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 馃嚛馃嚜 DE_126, server: 185.102.219.6, port: 42185, type: ss, cipher: aes-256-gcm, password: FaTG4zALZru72gxjgSHQ7Jdh}
+  - {name: 馃嚠馃嚬IT_6985, server: 212.102.54.168, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 🇺🇸 US_2565 | 5.36Mb, server: 104.244.211.141, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: _161 | 3.88Mb, server: 91.90.123.115, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇺🇸 Pool_🇺🇸US_2816 | 1.61Mb, server: 63.141.248.181, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: Pool_🇷🇴RO_2026 | 3.64Mb, server: 89.37.95.23, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇨🇳 馃嚬馃嚰 TW_225, server: 2.58.241.29, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 馃嚠馃嚦IN_6094, server: 103.94.27.182, port: 46726, type: ss, cipher: aes-256-gcm, password: 2fqKbFPGHpcmMTJzGsUbsfYf}
+  - {name: 🇺🇸 馃嚭馃嚫 US_260, server: 66.115.147.72, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 馃嚬馃嚟TH_12041, server: 27.131.164.94, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 馃嚬馃嚟TH_12040, server: 27.131.164.94, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 馃嚬馃嚟TH_12078, server: 27.131.164.100, port: 41992, type: ss, cipher: aes-256-gcm, password: XmQSxDCn5ehpcq6DBYms8FJf}
+  - {name: 馃嚛馃嚜 DE_65, server: 185.102.219.6, port: 50768, type: ss, cipher: aes-256-gcm, password: MgWc3J8tAHsZrVqg4BaBHmGs}
+  - {name: 🇺🇸 馃嚭馃嚫US_16798, server: 104.244.211.141, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: Pool_馃嚬馃嚪TR_12348, server: 107.150.94.27, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 馃嚛馃嚜 DE_111, server: 185.102.219.6, port: 44745, type: ss, cipher: aes-256-gcm, password: fyXdw87yCH9SAmFkPvsvLVqC}
+  - {name: 馃嚝馃嚪FR_4420, server: 185.108.106.145, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 馃嚝馃嚪FR_3956, server: 185.108.106.145, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 馃嚨馃嚬 PT_205, server: 5.154.174.67, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 馃嚛馃嚜 DE_79, server: 185.102.219.6, port: 47861, type: ss, cipher: aes-256-gcm, password: LJcChRsGQRhywrtXUU55TLTu}
+  - {name: 馃嚙馃嚪BR_1520, server: 128.14.222.215, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 馃嚠馃嚦IN_6174, server: 45.79.127.97, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 馃嚬馃嚟TH_12023, server: 27.131.164.94, port: 32843, type: ss, cipher: aes-256-gcm, password: G35YSR2LFNEM9bq2dkjmKQRr}
+  - {name: 馃嚠馃嚦IN_6064, server: 103.94.27.182, port: 50695, type: ss, cipher: aes-256-gcm, password: gqtwGu9bVreJqL3FTHSVKGzy}
+  - {name: 馃嚠馃嚦IN_6091, server: 103.94.27.182, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 馃嚬馃嚟TH_12052, server: 27.131.164.100, port: 47553, type: ss, cipher: aes-256-gcm, password: t2JnnFqjDMmzWurseJPgBsYY}
+  - {name: 馃嚘馃嚭AU_1485 |24.64Mb, server: 45.248.79.51, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 馃嚠馃嚦IN_6132, server: 103.94.27.182, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: Pool_馃嚪馃嚧RO_9776, server: 91.90.123.131, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 馃嚛馃嚜 DE_52, server: 185.102.219.6, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
+  - {name: 🇨🇳 TW_2213 | 1.91Mb, server: 2.58.241.29, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR}
+  - {name: TR_2201 | 3.27Mb, server: 107.150.94.27, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: HU_1094 | 4.31Mb, server: 37.120.144.211, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇺🇸 Pool_🇺🇸US_2837 | 5.91Mb, server: 207.244.67.149, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: Pool_馃嚝馃嚪FR_4445, server: 185.166.84.21, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: Pool_馃嚝馃嚪FR_3829, server: 185.166.84.21, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇺🇸 馃嚭馃嚫US_18965, server: 137.175.30.251, port: 49902, type: vmess, uuid: 153b7bfa-0d1b-11ec-891d-00163c1393a8, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16925, server: 66.115.154.131, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18847, server: 64.44.42.60, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13807, server: 63.141.248.181, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: Pool_馃嚙馃嚜BE_1247, server: 5.253.205.181, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 馃嚬馃嚟TH_12141, server: 27.131.164.94, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 馃嚛馃嚜 DE_103, server: 185.102.219.6, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 馃嚛馃嚜 DE_94, server: 185.102.219.6, port: 46354, type: ss, cipher: aes-256-gcm, password: MYPKdC7n6qjL6xmJBBcrzzqS}
+  - {name: 馃嚝馃嚪FR_4441, server: 185.108.106.145, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 馃嚬馃嚟TH_12245, server: 27.131.164.94, port: 44742, type: ss, cipher: aes-256-gcm, password: QCStKzZ56SHBc4tL7stCEqqd}
+  - {name: 馃嚠馃嚬IT_6874, server: 212.102.54.181, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: Pool_馃嚙馃嚘BA_1190, server: 185.164.34.250, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 馃嚝馃嚪FR_4402, server: 185.108.106.145, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18133, server: 212.102.40.68, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: Pool_馃嚘馃嚳AZ_969, server: 62.212.239.51, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: Pool_馃嚘馃嚳AZ_934, server: 62.212.239.51, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 馃嚛馃嚜 DE_75, server: 185.102.219.6, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 馃嚠馃嚦IN_6077, server: 103.94.27.182, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 馃嚠馃嚦IN_6119, server: 103.94.27.182, port: 41372, type: ss, cipher: aes-256-gcm, password: 5kGAhC3AmVC35GbruHjSrZf2}
+  - {name: 馃嚠馃嚦IN_6100, server: 103.94.27.182, port: 44945, type: ss, cipher: aes-256-gcm, password: F5bKkb9ggkLx4JbQrbLn7LjZ}
+  - {name: 馃嚬馃嚟TH_12038, server: 27.131.164.94, port: 48089, type: ss, cipher: aes-256-gcm, password: apqQgXJyVDsdJMAYV4xspRFK}
+  - {name: 馃嚬馃嚟TH_12057, server: 27.131.164.100, port: 46354, type: ss, cipher: aes-256-gcm, password: MYPKdC7n6qjL6xmJBBcrzzqS}
+  - {name: 馃嚠馃嚦IN_6101, server: 103.94.27.182, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 馃嚠馃嚦IN_6116, server: 103.94.27.182, port: 41992, type: ss, cipher: aes-256-gcm, password: XmQSxDCn5ehpcq6DBYms8FJf}
+  - {name: Pool_馃嚘馃嚭AU_319, server: 45.248.79.67, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: Pool_馃嚪馃嚧RO_11099, server: 91.90.123.131, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇺🇸 馃嚭馃嚫US_17427, server: 64.44.42.56, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 馃嚛馃嚜 DE_27, server: 185.102.219.6, port: 36460, type: ss, cipher: aes-256-gcm, password: yUXad7DGF8L5cTShEpnp2N6z}
+  - {name: IE_1115 | 6.22Mb, server: se.free-v2ray.tk, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇸 Pool_🇺🇸US_2595 | 7.96Mb, server: 66.115.177.143, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: IT_1192 | 3.36Mb, server: 212.102.54.181, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: Pool_🇷🇴RO_2009 | 4.26Mb, server: 91.90.123.115, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: Pool_馃嚦馃嚳NZ_8615, server: 180.149.231.69, port: 36460, type: ss, cipher: aes-256-gcm, password: yUXad7DGF8L5cTShEpnp2N6z}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16778, server: 63.141.248.181, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇨🇳 馃嚬馃嚰TW_12477, server: 2.58.242.46, port: 39720, type: ss, cipher: aes-256-gcm, password: kq8xQKC3K4jYQPwLXTNbJjm6}
+  - {name: Pool_馃嚪馃嚧RO_10041, server: 91.90.123.115, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 馃嚚馃嚘 CA_374, server: 72.140.224.195, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 馃嚬馃嚟TH_11993, server: 27.131.164.94, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 馃嚛馃嚜 DE_60, server: 185.102.219.6, port: 50225, type: ss, cipher: aes-256-gcm, password: J2M953QbkCvvzx3vYWdyBQ4K}
+  - {name: 馃嚛馃嚜 DE_161, server: 185.102.219.6, port: 32558, type: ss, cipher: aes-256-gcm, password: gJYzm3TLbdL495ryQptaJXQk}
+  - {name: 🇨🇳 馃嚬馃嚰TW_12439, server: 2.58.242.46, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇺🇸 馃嚭馃嚫US_18184, server: 172.107.233.234, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 馃嚝馃嚪FR_4031, server: 185.108.106.145, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: Pool_馃嚝馃嚠FI_3546, server: 196.244.191.93, port: 48970, type: ss, cipher: aes-256-gcm, password: ZKEsXkFbUZ2z667YA8A7cEDP}
+  - {name: 馃嚝馃嚪FR_3960, server: 185.108.106.145, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: Pool_馃嚙馃嚘BA_1125, server: 185.164.34.250, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: Pool_馃嚬馃嚪TR_12331, server: 107.150.94.27, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 馃嚝馃嚪FR_4471, server: 185.108.106.145, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: Pool_馃嚨馃嚬PT_9041, server: 194.39.127.191, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: Pool_馃嚞馃嚜GE_5275, server: 176.125.231.5, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 馃嚥馃嚲 MY_1867, server: 42.0.30.209, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 馃嚬馃嚟TH_12042, server: 27.131.164.100, port: 49468, type: ss, cipher: aes-256-gcm, password: LsYSQDxmPj9AcWpSX5HrYfu6}
+  - {name: 馃嚠馃嚦IN_6145, server: 103.94.27.182, port: 36460, type: ss, cipher: aes-256-gcm, password: yUXad7DGF8L5cTShEpnp2N6z}
+  - {name: 馃嚠馃嚦IN_6137, server: 103.94.27.182, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
+  - {name: Pool_馃嚘馃嚭AU_852, server: 45.248.79.67, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_474 |67.22Mb, server: n37.boom.party, port: 33300, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 254637:Ol4zZv, obfs-param: download.windowsupdate.com}
+  - {name: 🇨🇳 馃嚬馃嚰TW_12448, server: 175.98.195.102, port: 18336, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+  - {name: 🇨🇳 Relay_馃嚚馃嚦CN-馃嚬馃嚰TW_2021, server: 120.232.193.3, port: 11113, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+  - {name: Pool_馃嚙馃嚘BA_1154, server: 185.164.34.250, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: Pool_馃嚘馃嚳AZ_946, server: 62.212.239.53, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 馃嚛馃嚜 DE_73, server: 185.102.219.6, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13864, server: 66.115.154.131, port: 42185, type: ss, cipher: aes-256-gcm, password: FaTG4zALZru72gxjgSHQ7Jdh}
+  - {name: Pool_馃嚘馃嚳AZ_940, server: 62.212.239.51, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: Pool_馃嚝馃嚪FR_4263, server: 185.108.106.146, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Pool_馃嚪馃嚧RO_9530, server: 91.90.123.131, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 馃嚛馃嚜 DE_116, server: 185.102.219.6, port: 44628, type: ss, cipher: aes-256-gcm, password: VASQbVcukHfdBGmeS9L7Z8TT}
+  - {name: 馃嚛馃嚜 DE_98, server: 185.102.219.6, port: 45948, type: ss, cipher: aes-256-gcm, password: j76EXqJcQhuQTr3EvUf7xaK9}
+  - {name: 🇯🇵 Relay_馃嚟馃嚢HK-馃嚡馃嚨JP_5523, server: 63.ssrj.xyz, port: 65163, type: vmess, uuid: 24ea3f63-d495-3a0a-a7de-f92a4e6fb9ae, alterId: 2, cipher: auto, tls: false}
+  - {name: 馃嚠馃嚦IN_6105, server: 103.94.27.182, port: 44628, type: ss, cipher: aes-256-gcm, password: VASQbVcukHfdBGmeS9L7Z8TT}
+  - {name: Pool_馃嚙馃嚘BA_1079, server: 185.164.34.250, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 馃嚬馃嚟TH_11991, server: 27.131.164.94, port: 39556, type: ss, cipher: aes-256-gcm, password: g4AfpNELpdYEeLYhM8XCX9se}
+  - {name: 馃嚛馃嚜 DE_95, server: 185.102.219.6, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 馃嚛馃嚜 DE_45, server: 185.102.219.6, port: 49202, type: ss, cipher: aes-256-gcm, password: btzEYXKZxnR7g6H2vFTQK5TD}
+  - {name: 馃嚛馃嚜 DE_152, server: 185.102.219.6, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇺🇸 馃嚭馃嚫US_14186, server: 154.17.20.103, port: 18331, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+  - {name: 馃嚛馃嚜 DE_104, server: 185.102.219.6, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 馃嚛馃嚜 DE_124, server: 185.102.219.6, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: Pool_馃嚦馃嚳NZ_8584, server: 180.149.231.67, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 馃嚛馃嚜 DE_58, server: 185.102.219.6, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: Pool_馃嚞馃嚜GE_5272, server: 176.125.231.5, port: 42185, type: ss, cipher: aes-256-gcm, password: FaTG4zALZru72gxjgSHQ7Jdh}
+  - {name: 馃嚝馃嚪FR_4461, server: 185.108.106.145, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 馃嚠馃嚦IN_6080, server: 103.94.27.182, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR}
+  - {name: 馃嚠馃嚦IN_6081, server: 103.94.27.182, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 馃嚬馃嚟TH_12099, server: 27.131.164.100, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: Pool_馃嚙馃嚘BA_1194, server: 185.164.34.250, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: Pool_馃嚪馃嚧RO_10159, server: 91.90.123.115, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 馃嚙馃嚪BR_1517, server: 128.14.222.218, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 馃嚛馃嚜 DE_68, server: 185.102.219.6, port: 35200, type: ss, cipher: aes-256-gcm, password: WBLAbN6AwtV5avBx73hFRLB3}
+  - {name: 馃嚛馃嚜 DE_40, server: 185.102.219.6, port: 35371, type: ss, cipher: aes-256-gcm, password: pjeDhAJGuML8xKUxcjRqq6a9}
+  - {name: 馃嚨馃嚬 PT_203, server: 5.154.174.189, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 馃嚬馃嚟TH_12084, server: 27.131.164.100, port: 39556, type: ss, cipher: aes-256-gcm, password: g4AfpNELpdYEeLYhM8XCX9se}
+  - {name: 馃嚠馃嚦IN_6087, server: 103.94.27.182, port: 47861, type: ss, cipher: aes-256-gcm, password: LJcChRsGQRhywrtXUU55TLTu}
+  - {name: 馃嚬馃嚟TH_12056, server: 27.131.164.94, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
+  - {name: 馃嚙馃嚪BR_1522, server: 128.14.222.201, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇨🇳 馃嚬馃嚰TW_12636, server: 2.58.242.46, port: 32843, type: ss, cipher: aes-256-gcm, password: G35YSR2LFNEM9bq2dkjmKQRr}
+  - {name: 馃嚬馃嚟TH_12026, server: 27.131.164.94, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 馃嚛馃嚜 DE_119, server: 185.102.219.6, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16965, server: 63.141.248.181, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 馃嚪馃嚧 RO_2157, server: 86.106.137.147, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 馃嚛馃嚜 DE_149, server: 185.102.219.6, port: 38747, type: ss, cipher: aes-256-gcm, password: RtbLkxbJZpUQ6m8y4qAeLYZj}
+  - {name: 馃嚠馃嚦IN_6163, server: 103.94.27.182, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇨🇳 馃嚬馃嚰TW_12513, server: 2.58.242.46, port: 37559, type: ss, cipher: aes-256-gcm, password: Qbt22F6JsxzFGqcsK5SaR8q3}
+  - {name: 馃嚠馃嚦IN_6231, server: 103.94.27.182, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: Pool_馃嚞馃嚜GE_5262, server: 176.125.231.5, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 馃嚬馃嚟TH_12064, server: 27.131.164.94, port: 49719, type: ss, cipher: aes-256-gcm, password: 42SjT9vBF6ma9eFF3URaJpQ4}
+  - {name: 馃嚠馃嚦IN_6085, server: 103.94.27.182, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 馃嚠馃嚬IT_6806, server: 212.102.54.181, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 馃嚘馃嚭AU_736, server: 172.105.174.182, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_13418, server: 207.244.67.149, port: 47861, type: ss, cipher: aes-256-gcm, password: LJcChRsGQRhywrtXUU55TLTu}
+  - {name: 馃嚦馃嚤NL_7003, server: 91.206.168.41, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: Relay_馃嚝馃嚪FR-馃嚝馃嚪FR_4326, server: 51.89.99.52, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: Pool_馃嚬馃嚪TR_12330, server: 107.150.94.27, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 馃嚛馃嚜 DE_138, server: 185.102.219.6, port: 40282, type: ss, cipher: aes-256-gcm, password: Pvvaw486867D2w4yctL2ULTQ}
+  - {name: 馃嚛馃嚜 DE_165, server: 185.102.219.6, port: 44539, type: ss, cipher: aes-256-gcm, password: r6hDrkP4Et6EENTS8Qy7Tcmg}
+  - {name: 🇨🇳 馃嚬馃嚰TW_12483, server: 2.58.242.46, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: Pool_馃嚘馃嚳AZ_996, server: 62.212.239.51, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: Pool_馃嚙馃嚘BA_1157, server: 185.164.34.250, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: 馃嚝馃嚪FR_4129, server: 62.210.206.236, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 馃嚝馃嚪FR_4404, server: 62.210.38.178, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 馃嚝馃嚪 FR_1195, server: 51.159.30.61, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_18629, server: 64.44.42.60, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 馃嚚馃嚘CA_1642, server: 72.140.224.195, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇨🇳 馃嚬馃嚰TW_12399, server: 2.58.242.46, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+  - {name: 馃嚛馃嚜 DE_128, server: 185.102.219.6, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
+  - {name: 馃嚞馃嚙GB_4766, server: 146.70.27.12, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 馃弫ZZ_20390, server: 35.200.202.178, port: 31248, type: vmess, uuid: a0dab56c-b270-46db-bcba-5419cd176485, alterId: 64, cipher: auto, tls: false}
+  - {name: 馃嚚馃嚘 CA_06, server: ss5.ssrsub.one, port: 10443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
+  - {name: 馃嚠馃嚦IN_6096, server: 103.94.27.182, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: Pool_馃嚘馃嚳AZ_1030, server: 62.212.239.51, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 馃嚛馃嚜 DE_50, server: 185.102.219.6, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: Pool_馃嚪馃嚧RO_10066, server: 91.90.123.115, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇨🇳 馃嚬馃嚰TW_12441, server: 2.58.242.46, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 馃嚬馃嚟TH_12233, server: 27.131.164.94, port: 40220, type: ss, cipher: aes-256-gcm, password: ugyBkSEFxVEmUYSHyvxmWNj9}
+  - {name: 馃嚬馃嚟TH_12070, server: 27.131.164.100, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: CA_427 | 6.39Mb, server: 72.140.224.195, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: Pool_馃嚪馃嚧RO_10073, server: 91.90.123.115, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 馃嚛馃嚜 DE_85, server: 185.102.219.6, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇺🇸 Pool_馃嚭馃嚫US_16803, server: 63.141.248.181, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇨🇳 馃嚬馃嚰TW_12496, server: 2.58.242.46, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 馃嚝馃嚪FR_3950, server: 185.108.106.145, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 馃嚠馃嚦IN_6118, server: 103.94.27.182, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 馃嚛馃嚜 DE_141, server: 185.102.219.6, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 馃嚛馃嚜 DE_159, server: 185.102.219.6, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 馃嚘馃嚭 AU_189, server: 45.248.79.19, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 馃嚝馃嚪FR_3973, server: 185.108.106.145, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: _854, server: t2.ssrsub.one, port: 8443, type: trojan, password: 217010a3-c48d-4c42-9b99-c4dfc173ec78, sni: t2.ssrsub.one}
+  - {name: 馃嚠馃嚦IN_6089, server: 103.94.27.182, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: Pool_馃嚘馃嚳AZ_985, server: 62.212.239.51, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: Pool_馃嚙馃嚘BA_1132, server: 185.99.3.146, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇨🇳 馃嚬馃嚰TW_12443, server: 2.58.242.46, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
+  - {name: 馃嚛馃嚜 DE_63, server: 185.102.219.6, port: 50695, type: ss, cipher: aes-256-gcm, password: gqtwGu9bVreJqL3FTHSVKGzy}
+  - {name: Pool_馃嚤馃嚬LT_7647, server: 194.41.112.35, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 馃弫 ZZ_299, server: 91.205.230.160, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 馃嚛馃嚜 DE_109, server: 185.102.219.6, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 馃嚛馃嚜 DE_101, server: 185.102.219.6, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR}
+  - {name: 馃嚛馃嚜 DE_83, server: 185.102.219.6, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 馃嚛馃嚜 DE_36, server: 185.102.219.6, port: 49468, type: ss, cipher: aes-256-gcm, password: LsYSQDxmPj9AcWpSX5HrYfu6}
+  - {name: 馃嚛馃嚜 DE_77, server: 185.102.219.6, port: 48089, type: ss, cipher: aes-256-gcm, password: apqQgXJyVDsdJMAYV4xspRFK}
