@@ -1,0 +1,145 @@
+proxies:
+  - {"name":"🇯🇵 V0日本公益节点丨不保证速度与稳定性，如需长期使用请购买套餐","type":"trojan","server":"hz-cu-kl.klee.icu","port":20011,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇭🇰 V0香港公益节点丨不保证速度与稳定性，如需长期使用请购买套餐","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20012,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇷🇺 V1俄罗斯B01丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20078,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇨🇦 V1加拿大B01丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20073,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇮🇩 V1印尼B01丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20075,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇮🇳 V1印度B01丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20074,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇹🇼 V1台湾B01丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20061,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇹🇼 V1台湾B02丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20062,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇹🇼 V1台湾B03丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20063,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇹🇼 V1台湾B04丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20061,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇹🇼 V1台湾B05丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20062,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇹🇼 V1台湾B06丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20063,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇹🇼 V1台湾B08丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20064,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇹🇼 V1台湾B09丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20065,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇹🇼 V1台湾B11丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20065,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇹🇼 V1台湾B12丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20066,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇹🇼 V1台湾B13丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20067,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇹🇼 V1台湾B14丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20068,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇹🇼 V1台湾B15丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20068,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇹🇼 V1台湾B16丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20069,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇹🇷 V1土耳其B01丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20078,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"V1墨西哥B01丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20081,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇧🇷 V1巴西B01丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20079,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇩🇪 V1德国B01丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20074,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇦🇺 V1悉尼B01丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20076,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇸🇬 V1新加坡B01丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20013,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇸🇬 V1新加坡B02丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20014,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇸🇬 V1新加坡B03丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20015,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇸🇬 V1新加坡B04丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20016,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇸🇬 V1新加坡B05丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20017,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇸🇬 V1新加坡B06丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20018,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇸🇬 V1新加坡B07丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20013,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇸🇬 V1新加坡B08丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20014,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇸🇬 V1新加坡B09丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20015,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇸🇬 V1新加坡B10丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20016,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇸🇬 V1新加坡B11丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20017,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇸🇬 V1新加坡B12丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20018,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇸🇬 V1新加坡B13丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20019,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇸🇬 V1新加坡B14丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20019,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇸🇬 V1新加坡B15丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20020,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇯🇵 V1日本B01丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20001,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇯🇵 V1日本B02丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20002,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇯🇵 V1日本B03丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20003,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇯🇵 V1日本B04丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20001,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇯🇵 V1日本B05丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20002,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇯🇵 V1日本B06丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20003,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇯🇵 V1日本B07丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20004,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇯🇵 V1日本B08丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20005,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇯🇵 V1日本B09丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20006,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇯🇵 V1日本B10丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20004,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇯🇵 V1日本B11丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20005,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇯🇵 V1日本B12丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20006,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇯🇵 V1日本B13丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20007,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇯🇵 V1日本B14丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20008,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇯🇵 V1日本B15丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20009,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇯🇵 V1日本B16丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20007,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇯🇵 V1日本B17丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20008,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇯🇵 V1日本B18丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20009,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"V1波兰B01丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20077,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇨🇭 V1瑞士B01丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20080,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇺🇲 V1美国B01丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20049,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇺🇲 V1美国B02丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20050,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇺🇲 V1美国B03丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20051,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇺🇲 V1美国B04丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20052,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇺🇲 V1美国B05丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20053,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇺🇲 V1美国B06丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20054,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇺🇲 V1美国B07丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20049,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇺🇲 V1美国B08丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20050,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇺🇲 V1美国B09丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20051,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇺🇲 V1美国B10丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20052,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇺🇲 V1美国B11丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20053,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇺🇲 V1美国B12丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20054,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇺🇲 V1美国B13丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20055,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇺🇲 V1美国B14丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20056,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇺🇲 V1美国B15丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20055,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇺🇲 V1美国B16丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20056,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇬🇧 V1英国B01丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20075,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇳🇱 V1荷兰B01丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20076,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇦🇷 V1阿根廷B01丨3x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20073,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇰🇷 V1韩国B01丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20025,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇰🇷 V1韩国B02丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20026,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇰🇷 V1韩国B03丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20027,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇰🇷 V1韩国B04丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20028,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇰🇷 V1韩国B05丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20029,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇰🇷 V1韩国B06丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20030,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇰🇷 V1韩国B07丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20025,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇰🇷 V1韩国B08丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20026,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇰🇷 V1韩国B09丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20027,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇰🇷 V1韩国B10丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20028,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇰🇷 V1韩国B11丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20029,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇰🇷 V1韩国B12丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20030,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇰🇷 V1韩国B13丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20031,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇰🇷 V1韩国B14丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20031,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇰🇷 V1韩国B15丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20032,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇭🇰 V1香港B01丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20037,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇭🇰 V1香港B02丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20038,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇭🇰 V1香港B03丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20039,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇭🇰 V1香港B04丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20040,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇭🇰 V1香港B05丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20041,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇭🇰 V1香港B08丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20038,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇭🇰 V1香港B09丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20039,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇭🇰 V1香港B10丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20040,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇭🇰 V1香港B11丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20041,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇭🇰 V1香港B12丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20042,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇭🇰 V1香港B13丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20043,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇭🇰 V1香港B14丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20044,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇭🇰 V1香港B16丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20044,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇮🇩 V2印尼B02丨1x丨CM中转丨流媒体","type":"trojan","server":"gz-cm-kl.klee.icu","port":20082,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇮🇩 V2印尼B03丨1x丨CT中转丨流媒体","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20080,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇹🇼 V2台湾B07丨1x丨CT中转丨流媒体","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20064,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇹🇼 V2台湾B10丨1x丨CM中转丨流媒体","type":"trojan","server":"gz-cm-kl.klee.icu","port":20066,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇹🇼 V2台湾B17丨1x丨CT中转丨流媒体","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20070,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇸🇬 V2新加坡B18丨1x丨CT中转丨流媒体","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20021,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇸🇬 V2新加坡B19丨1x丨CM中转丨流媒体","type":"trojan","server":"gz-cm-kl.klee.icu","port":20020,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇸🇬 V2新加坡B20丨1x丨CT中转丨流媒体","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20022,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇲🇴 V2澳门B01丨2x丨CM中转丨流媒体","type":"trojan","server":"gz-cm-kl.klee.icu","port":20083,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇲🇴 V2澳门B02丨2x丨CT中转丨流媒体","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20081,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇺🇲 V2美国B19丨1x丨CM中转丨流媒体","type":"trojan","server":"gz-cm-kl.klee.icu","port":20057,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇺🇲 V2美国B20丨1x丨CT中转丨流媒体","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20057,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇵🇭 V2菲律宾B01丨1x丨CT中转丨流媒体","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20079,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇰🇷 V2韩国B18丨1x丨CM中转丨流媒体","type":"trojan","server":"gz-cm-kl.klee.icu","port":20032,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇰🇷 V2韩国B19丨1x丨CT中转丨流媒体","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20033,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇰🇷 V2韩国B20丨1x丨CT中转丨流媒体","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20034,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇭🇰 V2香港B06丨1x丨CM中转丨流媒体","type":"trojan","server":"gz-cm-kl.klee.icu","port":20042,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇭🇰 V2香港B07丨1x丨CT中转丨流媒体","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20037,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇭🇰 V2香港B15丨1x丨CT中转丨流媒体","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20043,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇭🇰 V2香港B19丨1x丨CM中转","type":"trojan","server":"gz-cm-kl.klee.icu","port":20045,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇭🇰 V2香港B20丨1x丨CT中转","type":"trojan","server":"sh-cn2-kl.klee.icu","port":20045,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇹🇼 V3台湾B18丨1x丨AIA专线","type":"trojan","server":"sh-aia-ji.klee.icu","port":39274,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇹🇼 V3台湾B19丨1x丨AIA专线","type":"trojan","server":"gz-aia-ji.klee.icu","port":56491,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇹🇼 V3台湾B20丨10x丨IPLC专线","type":"trojan","server":"gg-iplc-kl.klee.icu","port":19208,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇮🇹 V3意大利B01丨5x丨IPLC专线","type":"trojan","server":"gg-iplc-kl.klee.icu","port":30871,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇸🇬 V3新加坡B16丨1x丨AIA专线","type":"trojan","server":"gz-aia-ji.klee.icu","port":23436,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇸🇬 V3新加坡B17丨10x丨IPLC专线","type":"trojan","server":"gg-iplc-kl.klee.icu","port":31087,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇯🇵 V3日本B19丨1x丨AIA专线","type":"trojan","server":"sh-aia-ji.klee.icu","port":32788,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇯🇵 V3日本B20丨10x丨IPLC专线","type":"trojan","server":"gg-iplc-kl.klee.icu","port":37128,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇺🇲 V3美国B17丨1x丨AIA专线","type":"trojan","server":"sh-aia-ji.klee.icu","port":31244,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇺🇲 V3美国B18丨10x丨IPLC专线","type":"trojan","server":"gg-iplc-kl.klee.icu","port":51382,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇰🇷 V3韩国B16丨1x丨AIA专线","type":"trojan","server":"sh-aia-ji.klee.icu","port":29828,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇰🇷 V3韩国B17丨10x丨IPLC专线","type":"trojan","server":"gg-iplc-kl.klee.icu","port":47980,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇭🇰 V3香港B17丨1x丨AIA专线","type":"trojan","server":"gz-aia-ji.klee.icu","port":34437,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"🇭🇰 V3香港B18丨10x丨IPLC专线","type":"trojan","server":"gg-iplc-kl.klee.icu","port":22804,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+  - {"name":"防失联节点，50倍率！平时千万不要使用本节点","type":"trojan","server":"super-vip.kle.jp","port":58547,"password":"22ee23ac-fbc8-323f-ad60-94d1837f8c41","sni":"klee.store"}
+
