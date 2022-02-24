@@ -3,13 +3,13 @@
 # shellcheck disable=SC2005,2188
 <<'COMMENT'
 cron: 16 */2 * * *
-new Env('签到依赖');
+new Env('依赖检测并修复');
 COMMENT
 
 PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
 
-alpine_pkgs="bash curl gcc git jq libffi-dev make musl-dev openssl-dev perl perl-app-cpanminus perl-dev py3-pip python3 python3-dev wget"
-py_reqs="bs4 cryptography dateparser feedparser peewee pyaes pyppeteer requests rsa schedule tomli"
+alpine_pkgs="bash curl gcc git jq libffi-dev make musl-dev openssl-dev perl perl-app-cpanminus perl-dev py3-pip python3 python3-dev wget linux-headers"
+py_reqs="bs4 cryptography dateparser feedparser peewee pyaes pyppeteer requests rsa schedule tomli jieba setuptools PyExecJS"
 js_pkgs="@iarna/toml axios fs js-yaml crypto dotenv psl yargs ts-md5 tslib jsdom typescript @types/node require crypto-js png-js iconv-lite extenduniversalify js-base64 canvas date-fns ts-node moment got"
 pl_mods="File::Slurp JSON5 TOML::Dumper"
 
@@ -44,7 +44,7 @@ install_alpine_pkgs() {
     apk_info=" $(apk info) "
     for i in $alpine_pkgs; do
         if expr "$apk_info" : ".*\s${i}\s.*" >/dev/null; then
-            echo "$i 已安装"
+            echo "$i 检测到已安装,开始下一个项目安装"
         else
             install 0 "apk add $i" "$(apk add --no-cache "$i" | grep -c 'OK')"
         fi
@@ -56,7 +56,7 @@ install_py_reqs() {
     pip3_freeze="$(pip3 freeze)"
     for i in $py_reqs; do
         if expr "$pip3_freeze" : ".*${i}" >/dev/null; then
-            echo "$i 已安装"
+            echo "$i 检测到已安装,开始下一个项目安装"
         else
             install 0 "pip3 install $i" "$(pip3 install "$i" | grep -c 'Successfully')"
         fi
@@ -117,7 +117,7 @@ install_js_pkgs_all() {
 
 install_pl_mods() {
     if command -v cpm >/dev/null 2>&1; then
-        echo "App::cpm 已安装"
+        echo "App::cpm 检测到已安装,开始下一个项目安装"
     else
         install 1 "cpanm -fn App::cpm" "$(cpanm -fn App::cpm | grep -c "FAIL")"
         if ! command -v cpm >/dev/null 2>&1; then
@@ -133,7 +133,7 @@ install_pl_mods() {
     fi
     for i in $pl_mods; do
         if [ -f "$(perldoc -l "$i")" ]; then
-            echo "$i 已安装"
+            echo "$i 检测到已安装,开始下一个项目安装"
         else
             install 1 "cpm install -g $i" "$(cpm install -g "$i" | grep -c "FAIL")"
         fi
