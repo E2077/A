@@ -10,7 +10,7 @@ PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
 
 alpine_pkgs="libffi-dev no-cache python3 zlib-dev gcc jpeg-dev python3-dev musl-dev freetype-dev build-base g++ cairo-dev pango-dev giflib-dev"
 py_reqs="pip requests jieba setuptools PyExecJS"
-js_pkgs="npm @types/node requests tough-cookie tunnel form-data ws jsdom download axios	fs js-yaml crypto	dotenv yargs ts-md5 tslib typescript require crypto-js png-js iconv-lite js-base64 canvas date-fns ts-node moment"
+js_pkgs="npm @types/node requests tough-cookie tunnel form-data ws jsdom download axios	fs js-yaml crypto dotenv yargs ts-md5 tslib typescript require crypto-js png-js iconv-lite js-base64 canvas date-fns ts-node moment"
 pl_mods=" "
 
 install() {
